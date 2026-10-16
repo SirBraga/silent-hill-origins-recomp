@@ -1,0 +1,23 @@
+- [Recompile, never emulate](recompile-not-emulate.md) — guest code (VU/IOP/EE) must be statically recompiled; interpreters only as reference
+- [GS renderer default and DMA guard](black-gs-renderer-and-dma-guard.md) — native Metal renderer is launcher default (paraLLEl-GS fallback); gameplay needs black_dma_guard override
+- [EE FPU translator semantic bugs](ee-fpu-semantics-bugs.md) — sqrt.s/rsqrt.s/div/cvt were wrong vs the EE; audit translators when behaviour differs from PCSX2
+- [PCSX2 savestate RAM as oracle](pcsx2-savestate-ram-oracle.md) — diff our RAM dump vs PCSX2 eeMemory.bin; addresses match; how to extract
+- [VU timing stalls](vu-timing-stalls.md) — view-dependent missing geometry = VU1 clipper flag timing; test PS2X_VU_ACCURATE early, validate with trace replay
+- [Goal: 120 fps native](goal-120fps-native.md) — 120 Hz with more real frames (not faster game), max hardware use, nothing emulated
+- [Decomp subagent workflow](black-decomp-subagent-workflow.md) — one agent per cod/ TU with try_match/apply_c; run 2–3 at once, 6 hit the session limit
+- [Black performance measurement](black-perf-measurement.md) — use perf_run.py, not the debug harness; BLACK_TICK_RATE knob
+- [Native GS renderer](native-gs-renderer.md) — Metal renderer plan/status doc and the gs-replay dump/diff workflow
+- [pt-BR translation](ptbr-translation.md) — string table tooling in tools/loc, install.sh, accents blocked by font atlas
+- [Launch the game in pt-BR](launch-game-in-ptbr.md) — launcher and perf_run.py both default to the translated loose files
+- [Launcher defaults](launcher-defaults.md) — 16:9, native GPU, pt-BR, 3x, 60 Hz, IOP thread are the defaults the user asked for
+- [Launcher frontend](launcher-frontend.md) — launcher/ ImGui app, keymap.ini/PS2X_KEYMAP, mods/
+- [VU recompiler iteration](vu-recompiler-iteration.md) — honest ns/pair metric, validation, measured ceilings and compile-time traps
+- [Ghidra EE tool](ghidra-ee-tool.md) — tools/ghidra_ee.sh decomp 0xADDR: R5900/VU0-aware pseudocode; REA can't do R5900
+- [Open the game after finishing](open-game-after-work.md) — launch JogarBlack.command for the user to test each finished change
+- [Texture replacement](texture-replacement.md) — PCSX2 HD packs in the native renderer; raw-block hash rule for T8/T4
+- [Reply in Portuguese](reply-in-portuguese.md) — always answer the user in pt-BR
+- [Origins save load hang](origins-save-load-hang.md) — fixed: RtFS seek drained a stale completion; memory card on by default
+- [Origins flashlight](origins-flashlight.md) — root cause: stubbed sceVu0MulMatrix in wrong order; T8H alpha copy; PCSX2 GS dump oracle
+- [Origins Windows port](origins-windows-port.md) — llvm-mingw cross build, package layout, native renderer split plan
+- [Native GS backend is the default](native-gs-backend-default.md) — gpu.h + Metal/Vulkan renderer is the standard for every new recomp
+- [Graphics effects optional](graphics-effects-optional.md) — each modern effect toggleable, off by default; sharpen amplifies grain

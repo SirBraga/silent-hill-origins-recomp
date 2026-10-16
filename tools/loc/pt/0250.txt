@@ -1,0 +1,250 @@
+0250	{01}{01}Mais coisas inúteis guardadas aqui.
+0251	{01}{01}Prateleiras com coisas velhas e sem importância.
+0252	{01}{01}Não vejo nada no armário.
+0253	{01}{01}O armário parece emperrado.
+0254	{01}{01}Uma cadeira de rodas. Nunca precisei usar uma dessas.
+0255	{01}{01}Nada que me sirva.
+0256	{01}{01}Nada na escrivaninha.
+0257	{01}{01}Não há nada sobre a mesa.
+0258	{01}{01}As portas desta divisória estão travadas. Acho que não são usadas há muito tempo.
+0259	{01}{01}Nada de interessante neste armário.
+0260	{01}{01}O armário está emperrado.
+0261	{01}{01}Empoeirado e vazio.
+0262	{01}{01}Não vejo nada neste armário.
+0263	{01}{01}Pilhas de prontuários médicos. Não é a minha praia.
+0264	{01}{01}Não tenho tempo para ler tudo isso.
+0265	{01}{01}Alguém deixou a boneca aqui. Vou deixá-la caso venham procurar.
+0266	{01}{01}Parece que não vai abrir.
+0267	{01}{01}Fede a mofo.
+0268	{01}{01}Coberto de mofo.
+0269	{01}{01}Há arame farpado esticado sobre a cabine.
+0270	{01}{01}Parece escuro e frio debaixo da grade de metal.
+0271	{01}{01}Nada na gaveta.
+0272	{01}{01}Uma gaveta vazia.
+0273	{01}{01}Parece vazio.
+0274	{01}{01}Vazio. Cheira a mofo.
+0275	{01}{01}Nada aqui dentro.
+0276	{01}{01}Nada de interessante.
+0277	{01}{01}Não preciso de nada disso.
+0278	{01}{01}Parece tralha.
+0279	{01}{01}Nada que eu possa usar.
+0280	{01}{01}Nada disso me interessa.
+0281	{01}{01}Nada aqui.
+0282	{01}{01}É só lixo.
+0283	{01}{01}Só tralha.
+0284	{01}{01}Nada neste armário parece muito útil.
+0285	{01}{01}A pia está incrustada de sujeira.
+0286	{01}{01}Uma privada imunda. Parece que não é usada há um tempo.
+0287	{01}{01}Parece que alguém teve um acidente aqui.
+0288	{01}{01}Uma balança. Parece que foi muito usada.
+0289	{01}{01}Há pilhas de comida intocada. Cheiro horrível.
+0290	{01}{01}Prateleiras vazias e empoeiradas.
+0291	{01}{01}Não parece que abre.
+0292	{01}{01}Nada aqui que eu possa usar.
+0293	{01}{01}A porta não abre. Parece empenada pelo calor; o lado de fora está chamuscado
+0294	{01}{01}A porta está fortemente barricada.
+0295	{01}{01}Há um armário ornamentado com cinco bonecas em miniatura parafusadas em cima. Dar uma olhada?
+0296	{01}{01}Um manequim de costureira.
+0297	{01}{01}Frascos de perfume. Estão sem tampa, então o que havia dentro evaporou há muito tempo.
+0298	{01}{01}Caixas de chapéu?
+0299	{01}{01}Uma balança enferrujada. Não preciso saber quanto eu peso.
+0300	{01}{01}Nada aqui além de toalhas com cheiro de umidade.
+0301	{01}{01}Emperrado.
+0302	{01}{01}Um armário enferrujado.
+0303	{01}{01}Armário quebrado.
+0304	{01}{01}Não há nada aí para mim.
+0305	{01}{01}Uma prateleira de tralha.
+0306	{01}{01}Cheio de lixo.
+0307	{01}{01}Cilindros de gás velhos; não me servem.
+0308	{01}{01}Parece que isto não é usado há muito tempo.
+0309	{01}{01}Não vejo nada no armário.
+0310	{01}{01}Estas fitas têm nomes de pacientes.{a0}Não é da minha conta.
+0311	{01}{01}Rolos de fita de áudio antigos.{a0}Não me servem.
+0312	{01}{01}Rolos de fita derramando pelo chão.
+0313	{01}{01}Uma revista de moda antiga.
+0314	{01}{01}A pia está coberta de sujeira, mas vazia.
+0315	{01}{01}Os armários estão emperrados de ferrugem.
+0316	{01}{01}Parece emperrado.
+0317	{01}{01}Uma prateleira quebrada.
+0318	{01}{01}Não vejo nada útil aqui.
+0319	{01}{01}Cheio de tralha.
+0320	{01}{01}Velho e enferrujado.
+0321	{01}{01}Não abrem.
+0322	{01}{01}Parece emperrado.
+0323	{01}{01}Há uma estranha cavidade entalhada na porta. Olhar para ela deixa minha cabeça dormente.
+0324	{01}{01}Há uma pequena abertura aqui para ingressos.
+0325	{01}{01}Usei o {01}{0c}ingresso do teatro{01}{01}.
+0326	{01}{01}Não vejo nada útil na mesa.
+0327	{01}{01}Nada na prateleira que eu possa usar.
+0328	{01}{01}Esta cortina de segurança está bloqueando o palco.
+0329	{01}{01}Parecem programas antigos do teatro. Não é a minha cena.
+0330	{01}{01}Não vejo nada útil nestas prateleiras.
+0331	{01}{01}Talvez houvesse coisas aqui um dia. Agora não há mais.
+0332	{01}{01}Prateleiras vazias.
+0333	{01}{01}Não consigo usar nada disso.
+0334	{01}{01}Parecem roteiros ou algo assim. Nada útil.
+0335	{01}{01}As gavetas estão emperradas.
+0336	{01}{01}Papéis e livros.
+0337	{01}{01}Nada de interessante nestas gavetas.
+0338	{01}{01}Parecem figurinos que os atores usariam.
+0339	{01}{01}Figurinos da peça.
+0340	{01}{01}Caixas de pizza, maquiagem ressecada... É tudo o que vejo aqui.
+0341	{01}{01}Um grande refletor de teatro. A etiqueta diz 'A'. Está sem lâmpada.
+0342	{01}{01}Um grande refletor de teatro. A etiqueta diz 'B'. Está sem lâmpada.
+0343	{01}{01}Um grande refletor de teatro. A etiqueta diz 'C'. Está sem lâmpada.
+0344	{01}{01}Um grande refletor de teatro. A etiqueta diz 'D'. Está sem lâmpada.
+0345	{01}{01}Uma alavanca pesada com a etiqueta 'Controle da Cortina'.{0a}Devo puxá-la?
+0346	{01}{01}A alavanca está sem energia. Nada acontece.
+0347	{01}{01}Parece que a cortina subiu.
+0348	{01}{01}Um refletor de teatro. A etiqueta diz 'A' e tem uma lâmpada de 125W. Remover a lâmpada?
+0349	{01}{01}Um refletor de teatro. A etiqueta diz 'A' e tem uma lâmpada de 250W. Remover a lâmpada?
+0350	{01}{01}Um refletor de teatro. A etiqueta diz 'A' e tem uma lâmpada de 500W. Remover a lâmpada?
+0351	{01}{01}Um refletor de teatro. A etiqueta diz 'A' e tem uma lâmpada de 750W. Remover a lâmpada?
+0352	{01}{01}Um refletor de teatro. A etiqueta diz 'B' e tem uma lâmpada de 125W. Remover a lâmpada?
+0353	{01}{01}Um refletor de teatro. A etiqueta diz 'B' e tem uma lâmpada de 250W. Remover a lâmpada?
+0354	{01}{01}Um refletor de teatro. A etiqueta diz 'B' e tem uma lâmpada de 500W. Remover a lâmpada?
+0355	{01}{01}Um refletor de teatro. A etiqueta diz 'B' e tem uma lâmpada de 750W. Remover a lâmpada?
+0356	{01}{01}Um refletor de teatro. A etiqueta diz 'C' e tem uma lâmpada de 125W. Remover a lâmpada?
+0357	{01}{01}Um refletor de teatro. A etiqueta diz 'C' e tem uma lâmpada de 250W. Remover a lâmpada?
+0358	{01}{01}Um refletor de teatro. A etiqueta diz 'C' e tem uma lâmpada de 500W. Remover a lâmpada?
+0359	{01}{01}Um refletor de teatro. A etiqueta diz 'C' e tem uma lâmpada de 750W. Remover a lâmpada?
+0360	{01}{01}Um refletor de teatro. A etiqueta diz 'D' e tem uma lâmpada de 125W. Remover a lâmpada?
+0361	{01}{01}Um refletor de teatro. A etiqueta diz 'D' e tem uma lâmpada de 250W. Remover a lâmpada?
+0362	{01}{01}Um refletor de teatro. A etiqueta diz 'D' e tem uma lâmpada de 500W. Remover a lâmpada?
+0363	{01}{01}Um refletor de teatro. A etiqueta diz 'D' e tem uma lâmpada de 750W. Remover a lâmpada?
+0364	{01}{01}Não adianta mais mexer nisso.
+0365	{01}{01}Usei a {01}{0c}lâmpada de 125W{01}{01}.
+0366	{01}{01}Usei a {01}{0c}lâmpada de 250W{01}{01}.
+0367	{01}{01}Usei a {01}{0c}lâmpada de 500W{01}{01}.
+0368	{01}{01}Usei a {01}{0c}lâmpada de 750W{01}{01}.
+0369	{01}{01}Usei a {01}{0c}chave do corredor do balcão{01}{01}.
+0370	{01}{01}Usei o {01}{0c}Totem do Sol{01}{01}.
+0371	{01}{01}Usei o {01}{0c}Totem da Lua{01}{01}.
+0372	{01}{01}NÃO É MAIS USADO
+0373	{01}{01}Usei a {01}{0c}chave do escritório do palco{01}{01}.
+0374	{01}{01}Usei a {01}{0c}alavanca{01}{01}.
+0375	{01}{01}Dos dois lados da porta há dois buracos quadrados e fundos. Na porta há uma placa que diz:{0a}{0a}Sou uma criança dividida por dois desejos,{0a}Estou diante de uma porta,{0a}Minha mão direita chama a luz,{0a}Minha mão esquerda conduz a escuridão.
+0376	{01}{01}É um buraco quadrado vazio.
+0377	{01}{01}O Totem do Sol está no buraco. Retirá-lo?
+0378	{01}{01}O Totem da Lua está no buraco. Retirá-lo?
+0379	{01}{01}Não preciso levar isto comigo.
+0380	{01}{01}Um fantoche. Parece que alguém estava no meio do conserto.
+0381	{01}{01}Aquilo era uma chave no meio do chão? Devo dar uma olhada.
+0382	{01}{01}Parecem figurinos velhos.
+0383	{01}{01}Há um monte de roupas penduradas na arara.
+0384	{01}{01}Figurinos. Não é o tipo de coisa que eu usaria.
+0385	{01}{01}Adereços e figurinos. Nada muito útil.
+0386	{01}{01}Nada útil aqui.
+0387	{01}{01}Estantes de partitura. Não sei tocar nenhum instrumento.
+0388	{01}{01}Parecem estojos de instrumentos.
+0389	{01}{01}Nada de útil.
+0390	{01}{01}Não vejo muita coisa na prateleira.
+0391	{01}{01}Nada aqui.
+0392	{01}{01}Roteiros. Não tenho tempo para ler esse tipo de coisa.
+0393	{01}{01}Só umas roupas velhas.
+0394	{01}{01}A porta está bem emperrada.
+0395	{01}{01}Acho que está quebrado.
+0396	{01}{01}Não funciona.
+0397	{01}{01}Não liga.
+0398	{01}{01}Nada acontece.
+0399	{01}{01}Estes livros estão numa língua que não reconheço. As letras são estranhas.
+0400	{01}{01}Alguns destes livros têm uma aparência estranha.
+0401	{01}{01}Estes livros são completamente estranhos para mim.
+0402	{01}{01}Estes livros nem são feitos de papel.
+0403	{01}{01}Preciso ver o teatro primeiro.
+0404	{01}{01}O portão está bem trancado. Não vou conseguir abrir.
+0405	{01}{01}Usei a {01}{0c}chave do motel{01}{01}.
+0406	{01}{01}Não peguei a chave do motel, embora isso seja logicamente impossível! Que idiota eu fui!
+0407	{01}{01}NÃO USADO
+0408	{01}{01}Usei a {01}{0c}chave do quarto 306{01}{01}.
+0409	{01}{01}Usei a {01}{0c}chave de Cleópatra{01}{01}.
+0410	{01}{01}Usei a {01}{0c}chave do quarto 500{01}{01}.
+0411	{01}{01}Usei a {01}{0c}adaga ornamental{01}{01}.
+0412	{01}{01}Usei a {01}{0c}chave do escritório do gerente{01}{01}.
+0413	{01}{01}Usei a {01}{0c}aliança{01}{01}.{0a}Alguma coisa caiu no quadro de chaves atrás de mim.
+0414	{01}{01}A aliança está presa no calendário agora. Terminei com o calendário.
+0415	{01}{01}Com a data ajustada, um compartimento secreto se abre no calendário. Há uma cavidade circular vazia.
+0416	{01}{01}A máquina de lavar não abre, mas vejo algo de metal lá dentro. A máquina está desligada.
+0417	{01}{01}Coloquei a {01}{0c}ficha{01}{01} na lavanderia. A máquina liga.
+0418	{01}{01}Há uma morsa pesada presa à bancada.
+0419	{01}{01}Está trancada. {0a}"Para assuntos comerciais, use a entrada de pedestres."
+0420	{01}{01}A porta está toda envolvida com fita policial e a fechadura foi arrancada. Não consigo abrir.
+0421	{01}{01}Vejo algo brilhando no fundo da piscina.
+0422	{01}{01}Bug. Esta mensagem não deveria aparecer.
+0423	{01}{01}Está escuro demais para ver qualquer coisa.
+0424	{01}{01}Há um calendário giratório aqui. Dar uma olhada?
+0425	{01}{01}Um compartimento secreto se abriu. Há uma pequena cavidade circular.
+0426	{01}{01}Não há mais nada na máquina, só umas roupas sujas.
+0427	{01}{01}Quebro o {01}{0c}coração de joias{01}{01}. Tem algo dentro.
+0428	{01}{01}O coração foi quebrado. Não sobrou nada útil.
+0429	{01}{01}O fundo da banheira está quebrado e dá para o cômodo de baixo. Pular?
+0430	{01}{01}Há um buraco irregular aqui que dá para o cômodo de baixo. Pular?
+0431	{01}{01}Há um buraco na parede aqui. Passar por ele?
+0432	{01}{01}Há uma fenda estreita cortada na porta.
+0433	{01}{01}Os telefones estão mudos.
+0434	{01}{01}Só lixo.
+0435	{01}{01}Cheira como se algo estivesse apodrecendo aí há muito tempo. Não vou mexer nisso.
+0436	{01}{01}Não parece funcionar.
+0437	{01}{01}Não preciso de gelo agora.
+0438	{01}{01}O portão está emperrado de ferrugem.
+0439	{01}{01}O portão não abre.
+0440	{01}{01}A caixa de gelo está vazia.
+0441	{01}{01}Não tenho trocado.
+0442	{01}{01}Está cheio de lixo.
+0443	{01}{01}Ergueram uma barreira aqui. Não vou conseguir passar.
+0444	{01}{01}Este portão está soldado à parede. Não vou conseguir passar.
+0445	{01}{01}O portão está coberto de fita policial.
+0446	{01}{01}Acho que não está funcionando.
+0447	{01}{01}Não estou com sede agora.
+0448	{01}{01}Acho que não está ligado.
+0449	{01}{01}Só uns livros velhos.
+0450	{01}{01}Nada útil aqui dentro.
+0451	{01}{01}Só um armário velho.
+0452	{01}{01}Só tralha aqui dentro.
+0453	{01}{01}Nada que eu possa usar.
+0454	{01}{01}Só mais um armário
+0455	{01}{01}Não há nada aqui dentro.
+0456	{01}{01}Uma prateleira cheia de tralha.
+0457	{01}{01}Não preciso de nada daqui.
+0458	{01}{01}Alguém perdeu a cabeça aqui. As paredes e o teto estão cobertos de escritos e desenhos. Espero que a gerência tenha cobrado caução por este quarto.
+0459	{01}{01}Mais desenhos estranhos. Alguns foram riscados nas paredes, outros parecem pintados.
+0460	{01}{01}Não abre.
+0461	{01}{01}Só umas revistas velhas.
+0462	{01}{01}Estes livros não me servem.
+0463	{01}{01}Não está funcionando.
+0464	{01}{01}Só uns panfletos velhos e um ventilador de mesa. Parece que não é usado há um tempo.
+0465	{01}{01}Não conheço nenhuma música desta jukebox.
+0466	{01}{01}Garrafas vazias, cobertas de poeira.
+0467	{01}{01}Só fumo quando estou feliz.
+0468	{01}{01}Não quero fumar agora.
+0469	{01}{01}O fliperama não está funcionando.
+0470	{01}{01}Acho que não está ligado.
+0471	{01}{01}O fliperama está quebrado.
+0472	{01}{01}Está desligado há um tempo. Não quero saber o cheiro que tem aí dentro.
+0473	{01}{01}É um daqueles monstros. Acho que está morto.
+0474	{01}{01}Não parecem estar funcionando.
+0475	{01}{01}Um monte de arquivos inúteis.
+0476	{01}{01}Bichos empalhados. Esse tipo de coisa me deixa mal.
+0477	{01}{01}A fechadura está quebrada ou emperrada. Não abre.
+0478	{01}{01}A porta foi trancada. Não consigo sair por aqui.
+0479	{01}{01}Um pó branco. Tento ficar longe desse tipo de coisa.
+0480	{01}{01}Um monstro. Alguém fez a festa nele com uma faca.
+0481	{01}{01}Aquela chave que encontrei... devo tentar?
+0482	{01}{01}Está emperrada.
+0483	{01}{01}Tem algo bloqueando a porta. Não consigo abrir.
+0484	{01}{01}A porta está emperrada.
+0485	{01}{01}{01}{03}Outro órgão está no caminho{01}{01}.
+0486	{01}{01}{01}{03}Retire primeiro o órgão de cima{01}{01}.
+0487	{01}{01}Os olhos da boneca se abriram.
+0488	{01}{01}Ela foi aberta e os olhos dela... sumiram. Que tipo de monstro faria isso?
+0489	{01}{01}A maca está manchada de sangue. Parte dele ainda parece úmida.
+0490	{01}{01}Tem algo errado com o espelho. O reflexo não está certo...
+0491	{01}{01}Há uma máscara mortuária na porta. Embaixo há uma placa que diz:{0a}{0a}Até os cegos precisam de olhos{0a}Se quiserem contemplar o futuro.
+0492	{01}{01}Há uma cavidade oval na porta. Embaixo há uma placa que diz:{0a}{0a}Mesmo neste inferno{0a}Do meio das chamas{0a}Vi a vida renascer.
+0493	{01}{01}A passagem está totalmente lacrada. Não consigo passar.
+0494	{01}{01}O que acabou de acontecer? Por que ela me atacou?
+0495	{01}{01}Não posso ir embora. Qual é a desse espelho?
+0496	{01}{01}É um boneco de anatomia de plástico faltando algumas partes.{0a}Dar uma olhada?
+0497	{01}{01}Todos os órgãos foram devolvidos ao boneco.
+0498	{01}{01}É uma caixa térmica médica com cadeado.{0a}Dar uma olhada?
+0499	{01}{01}A caixa se abre com um clique.

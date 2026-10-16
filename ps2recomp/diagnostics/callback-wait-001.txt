@@ -1,0 +1,59 @@
+# Investigação do callback de espera
+
+No boot instrumentado, `sub_002DE7F0` repete o trecho `0x002DEC50`–`0x002DEC70`. O código chama o alvo carregado em `*( *(s2+0xC) + 0x1C )`; a instrução `beql $v0,$s1` retorna ao callback quando o resultado é igual a `1`.
+
+Alvo observado: `0x002EDC30`. Ele chama `0x002E9190`, que lê `*(GP-0x73A0)`. As amostras espaçadas retornaram `1`, mas as mudanças observadas formam ciclos repetidos `0→1` em `0x002E8ECC` e `1→0` em `0x002E8CD8`. O log de funções também registra saídas de `sub_002DE7F0`; portanto, o callback não fica preso permanentemente. A flag é escrita por `sub_002E8E00` e por vários caminhos de `sub_002E8C50`.
+
+Foi adicionada instrumentação condicional nas fontes geradas e no espelho do runner, habilitada somente com `SHO_DIAG_CALLBACK=1`. Ela registra apenas transições da flag e amostra o callback uma vez a cada 100.000 chamadas. O próximo boot deve revelar as transições e os PCs/contextos que as causam.
+
+O log bruto do boot instrumentado está em `ps2recomp/logs/runner.log` (ignorado pelo Git); avançou até o tick 480 sem `guest-fault` ou `missing-target`.
+
+Em uma execução posterior de aproximadamente um minuto, a janela mostrou o título “Silent Hill Origins — loading” após 60 segundos. Enter não mudou a tela. O guest avançou até tick 3.360, com frames 512×448, três threads e sem fault/missing target. A captura limpa do jogo está em `silent-hill-origins-loading.png`. Naquele run não houve chamadas `sceCdSearchFile` nem `sceCdStRead` registradas; isso não significava ausência de I/O, pois o jogo usa `sceCdRead` diretamente.
+
+Um boot diagnóstico posterior com `PS2X_CD_TRACE=1` confirmou 129 chamadas `sceCdRead` em cerca de 20 segundos. Entre elas, leituras sequenciais de 16 setores dentro de `SH.ARC` (extent ISO LSN 3422, 491.152.188 bytes) e `IGC.ARC` (LSN 453266, 248.949.585 bytes), além de recursos próximos ao começo do disco. O runtime lê a ISO diretamente e copia os setores à RAM; não houve erros CDVD nem guest-fault/missing-target. Mesmo com essas leituras, o frame continuou no loading até o encerramento manual. O log desse run foi atualizado em `../logs/runner.log`; o arquivo volumoso `ps2_log.txt` foi apagado após a captura.
+
+No run seguinte, `SHO_DIAG_CALLBACK=1` e `PS2X_CD_TRACE=1` habilitaram amostras do laço. Inicialmente, o objeto `s2` avançou por 12, 13 e 14 itens concluídos/enfileirados (`GP-0x7390` e `GP-0x738C`). Porém, depois de chegar a 14, ficou parado por mais de 380 milhões de chamadas amostradas: `s2=0x0034FDC0`, `s3=0x1300`, callback `0x002EDC30`, retorno `1`, contadores `done=queued=14` e `work=1`. Uma captura dos campos do objeto e do descritor também permaneceu idêntica entre amostras. Naquela execução houve espera sem avanço no item associado a esse objeto, embora outros caminhos guest ainda alternassem a flag global. Em uma execução posterior, os contadores prosseguiram além de 14 até `done=queued=0x75` (117); logo, o travamento em 14 não se reproduziu sempre. Não surgiram erros CDVD nem falhas de guest.
+
+O campo de configuração CMake do runner isolado foi alterado para `PS2X_ENABLE_AGRESSIVE_LOGS=OFF` no build local para evitar os arquivos temporários de centenas de MB; os traces seletivos condicionais continuam disponíveis. O último log em `../logs/runner.log` contém a captura de memória do objeto; a instrumentação adicional escreve a linha `[sho:callback-state]` após cada amostra.
+
+
+## Scheduler e semáforos
+
+Amostras do scheduler mostraram a thread principal ativa, uma thread de worker esperando no semáforo 9 e uma thread iniciada em `0x002F1888` esperando no semáforo 12. No intervalo registrado, as operações no semáforo 9 aparecem em ciclos de wait/signal; o semáforo 12 teve waits sem sinal visível. A rotina `sub_002F1888` espera eventos e despacha tipos antes de sinalizar o semáforo do gerenciador. A espera pode ser o estado ocioso normal da fila; ainda não foi ligada causalmente ao loading. Nas linhas já capturadas, `pc=0` por um erro na instrumentação (ela lia o registrador zero). A fonte local foi corrigida para registrar `ctx->pc`; `ra` continua identificando o retorno ao chamador guest. O log salvo ainda contém os valores antigos e não deve ser interpretado como PC.
+
+O último runner foi encerrado manualmente após a captura. O launcher terminou e desmontou a ISO.
+
+
+## Saída do laço e reteste de 2026-10-07
+
+Foi acrescentada uma linha `[sho:callback-exit]` no ponto em que `sub_002DE7F0` sai do polling para avançar a tarefa. No novo boot, foram observadas duas saídas, com `done=13` e `done=14`. O item seguinte (`s2=0x0034FDC0`, `s3=0x1300`, `work=1`) permaneceu no polling, retorno 1, sem outra saída durante mais de 80 milhões de amostras. Portanto, o limite em 14 voltou a ocorrer nessa execução.
+
+O trace IOP mostrou `sceCdRead` até LSN 32776 dentro de `SH.ARC`, além de mensagens SIF e IRQ antes da parada. A ISO contém esse setor; ainda não sabemos qual conclusão/evento esperado pelo item seguinte não chega. O runner foi encerrado depois da captura, e o launcher desmontou a ISO.
+
+## Dispatcher SIF e confirmação de handlers
+
+Uma captura posterior registrou os campos dos pacotes `cid=1` e `cid=4` e o PC de retorno dos handlers. Os handlers configurados (`0x002E91A0` e `0x00274A80`) foram encontrados e enfileirados; os callbacks observados atingiram o término no scheduler. Os dois últimos pacotes `cid=1` usaram o identificador `0x0f` e precederam as saídas das tarefas 13 e 14. O mesmo boot voltou a permanecer em `done=queued=14`, com `work=1`, sem uma terceira saída.
+
+Isso descarta, para os pacotes registrados, handler ausente ou rejeição no despacho. Ainda não prova que o syscall de sincronização teve o semáforo/argumentos corretos, nem identifica por que o trabalho da tarefa seguinte não é concluído. O próximo passo é correlacionar os parâmetros do syscall e o estado da fila/descritor da tarefa 15. A captura bruta atualizada está em `../logs/runner.log`.
+
+## Semáforos e evento que deixa o callback ativo
+
+O trace seletivo ampliado acompanhou os semáforos 4/5/8. O semáforo 4 é consumido por `PollSema` (`pc=0x321388`, retorno igual ao ID) e o sinal seguinte retorna o próprio ID; os ciclos observados são válidos, sem overflow. A execução ainda parou em `done=queued=14`, portanto esses semáforos não explicam a espera atual.
+
+A flag `GP-0x73A0` completou duas transições `0→1→0`; na terceira ficou em `1`. O evento salvo na transição final tinha os valores `{a0=0x5e00, a1=0x00e77940, a2=0x1300, a3=7, t1=0, t2=0, t3=0}`. O trace CDVD parou em LSN 32776 e o callback continuou retornando 1. Isso localiza o estado incompleto no caminho do evento de tipo 7, mas ainda não identifica se falta uma conclusão do IOP/CDVD ou se o guest deixou de produzir o evento esperado.
+
+## Separação entre CDVD e conclusão SIF
+
+O trace seguinte registrou cada evento do tipo 7 e o evento que o consumidor realmente recebe. Para os itens 13 e 14, o IOP enviou um pacote SIF `cid=1`, o guest o consumiu como evento tipo 15 e o polling saiu. Para o item 15 (`offset=0x5e00`, `buffer=0x00e77940`, `size=0x1300`), o item foi enfileirado, mas não houve novo `cid=1`, consumo tipo 15 ou saída do polling.
+
+Instrumentei `sceCdRead` no CDVD do IOP para registrar resultado, callback registrado e erro. O último bloco até LSN 32776 foi lido com sucesso (`ok=1`, `error=0`), mas não havia callback CDVD registrado (`callback=0`). A leitura do setor 32776 na ISO foi conferida no host. Portanto, essa leitura física em si não falha; o passo pendente é o produtor da conclusão SIF para o item 15. O log atual está em `../logs/runner.log`. Próxima investigação: rastrear o worker/ramificação que envia os pacotes SIF `cid=1` e descobrir por que deixa de enviar após a segunda conclusão.
+
+## RWA.IRX: emissor do cid=1
+
+Os pacotes de conclusão (`cid=1`, payload de 48 bytes) saem de `RWA.IRX`: o syscall tem `ra=0x5708c`, dentro do callback carregado em `0x57050`. O módulo só envia o pacote quando a palavra lida antes da comparação é `15`. Instrumentando o ponto da comparação, confirmei que esse valor é 15 nas duas invocações que concluem os itens 13 e 14. Para o item 15, o callback não é invocado de novo; portanto, a condição interna não é a causa e o CDVD não é o emissor faltante. O desvio ocorre antes da chamada indireta do callback pelo dispatcher do RWA, após a segunda conclusão SIF. A investigação agora deve focar a fila/evento que agenda esse callback no IOP.
+
+## Boot longo e novo ponto de parada
+
+No boot seguinte, o bloqueio inicial não se repetiu: o guest chegou a `done=117` (117 callbacks concluídos) e enviou/consumiu novas conclusões SIF. O callback do RWA apareceu como `index=1`, argumento `0x6d1e0`, GP `0x6d430`; nas invocações que concluíram tarefas, o registrador carregado para a comparação continha `15`, e os pacotes `cid=1` foram enviados normalmente.
+
+Depois disso, o guest consumiu eventos de tipo 20 (cópias de 1664 bytes) e tipo 69, e o IOP leu setores 579185–579217 com sucesso. A partir dessas leituras, o log não avançou por mais de dois minutos, embora `ps2EntryRunner` permanecesse ativo usando cerca de 110% de CPU. Não houve `guest-fault`, `missing-target` nem erro CDVD. Encerrei essa execução e desmontei a ISO. O ponto atual está depois do bloco de recursos em LSN 579217; ainda falta identificar o laço ativo/estado do guest e confirmar chegada ao menu.

@@ -1,0 +1,251 @@
+0749	{01}{01}Taco de Sinuca
+0750	{01}{01}um {01}{0d}taco de sinuca{01}{01}
+0751	{01}{01}Um taco de sinuca comprido.
+0752	{01}{01}Taco de sinuca longo e fino. Parece que já viu muita ação.
+0753	{01}{01}Machado de Incêndio
+0754	{01}{01}o {01}{0d}Machado de Incêndio{01}{01}
+0755	{01}{01}Um machado de incêndio de cabo longo.
+0756	{01}{01}Machado de cabo longo, muito forte, muito poderoso e terrivelmente afiado.
+0757	{01}{01}Pá
+0758	{01}{01}uma {01}{0d}pá{01}{01}
+0759	{01}{01}Uma pá de cabo curto.
+0760	{01}{01}Pá de cabo curto, boa para mutilar corpos e depois enterrá-los
+0761	{01}{01}Arpão de Açougue
+0762	{01}{01}um {01}{0d}arpão de açougue{01}{01}
+0763	{01}{01}Arpão de açougue de cabo longo.
+0764	{01}{01}Uma vara longa com uma ponta e um gancho de aparência maligna presos na extremidade.
+0765	{01}{01}Vara Quebrada
+0766	{01}{01}uma {01}{0d}vara quebrada{01}{01}
+0767	{01}{01}Um cabo ou vara lascada.
+0768	{01}{01}Bem comprida, pode ser útil para manter as coisas à distância.
+0769	{01}{01}Chave de Fenda
+0770	{01}{01}uma {01}{0d}chave de fenda{01}{01}
+0771	{01}{01}Uma chave de fenda comum.
+0772	{01}{01}Chave de fenda comum. Tenho um jogo destas no caminhão.
+0773	{01}{01}Grande Cutelo
+0774	{01}{01}o {01}{0d}Cutelo do Açougueiro{01}{01}
+0775	{01}{01}Um cutelo de açougueiro gigante.
+0776	{01}{01}A ferramenta preferida do 'Açougueiro'.
+0777	{01}{01}Pedestal de Luz
+0778	{01}{01}um {01}{0d}pedestal de luz{01}{01}
+0779	{01}{01}Um pedestal de luz quebrado.
+0780	{01}{01}Este pedestal está sem lâmpada e sem cúpula, mas parece bem ameaçador.
+0781	{01}{01}Forcado
+0782	{01}{01}um {01}{0d}forcado{01}{01}
+0783	{01}{01}Um forcado de quatro dentes.
+0784	{01}{01}Este forcado tem quatro dentes de ferro afiados e um cabo prático.
+0785	{01}{01}Lança
+0786	{01}{01}uma {01}{0d}lança{01}{01}
+0787	{01}{01}Uma lança de ponta afiada.
+0788	{01}{01}Isto não é adereço. É uma lança de verdade, afiada e feita para ferir.
+0789	{01}{01}Uma caixa de ferramentas de metal pesada.
+0790	{01}{01}Está vazia e a trava quebrada, mas ainda é uma arma pesada de quinas afiadas.
+0791	{01}{01}Manoplas da Lua
+0792	{01}{01}as {01}{0d}Manoplas da Lua Solitária{01}{01}
+0793	{01}{01}Um par de manoplas místicas e poderosas.
+0794	{01}{01}Gravada no metal das manoplas está a frase "vigiado pela lua solitária".
+0795	{01}{01}Desarmado
+0796	{01}{01}Redentor
+0797	{01}{01}o {01}{0d}Redentor{01}{01}
+0798	{01}{01}Um revólver de seis tiros pesado e confiável. Tem "Redentor" gravado na lateral.
+0799	{01}{01}Um clássico canhão de mão .44; vale cada centavo.
+0800	{01}{01}Pistola de Serviço
+0801	{01}{01}a {01}{0d}pistola de serviço{01}{01}
+0802	{01}{01}Uma pistola de serviço surrada.
+0803	{01}{01}Esta arma de excedente do Exército dos EUA é bem usada, mas continua suave como sempre.
+0804	{01}{01}Pistola de Tiro
+0805	{01}{01}a {01}{0d}pistola de tiro{01}{01}
+0806	{01}{01}Uma pistola de tiro ao alvo leve.
+0807	{01}{01}O tipo de coisa que se vê num estande de tiro. Arranha mais do que morde.
+0808	{01}{01}Espingarda
+0809	{01}{01}a {01}{0d}espingarda{01}{01}
+0810	{01}{01}Uma espingarda de calibre largo.
+0811	{01}{01}Esta espingarda só leva dois cartuchos por vez, mas de perto é imbatível.
+0812	{01}{01}Rifle de Caça
+0813	{01}{01}o {01}{0d}rifle de caça{01}{01}
+0814	{01}{01}Um elegante rifle de caça.
+0815	{01}{01}Este rifle de retrocarga é lento, mas poderoso e de longo alcance.
+0816	{01}{01}Fuzil de Assalto
+0817	{01}{01}o {01}{0d}fuzil de assalto{01}{01}
+0818	{01}{01}Um fuzil de assalto totalmente automático.
+0819	{01}{01}Esta cópia de um fuzil da Cortina de Ferro tem um carregador grande com 18 balas.
+0820	{01}{01}Munição de Serviço
+0821	{01}{01}{01}{0e}munição de pistola de serviço{01}{01}
+0822	{01}{01}Uma caixa de balas 9mm.
+0823	{01}{01}Balas 9mm para pistola de médio calibre.
+0824	{01}{01}Munição do Redentor
+0825	{01}{01}{01}{0e}munição do Redentor{01}{01}
+0826	{01}{01}Uma caixa de balas .44.
+0827	{01}{01}Balas para um canhão de mão .44.
+0828	{01}{01}Munição de Espingarda
+0829	{01}{01}{01}{0e}munição de espingarda{01}{01}
+0830	{01}{01}Uma caixa com 4 cartuchos de espingarda.
+0831	{01}{01}Cartuchos de espingarda carregados com chumbo grosso.
+0832	{01}{01}Munição de Rifle
+0833	{01}{01}{01}{0e}munição de rifle{01}{01}
+0834	{01}{01}Uma caixa de balas de rifle.
+0835	{01}{01}Balas calibre .38, feitas para rifle de caça.
+0836	{01}{01}Munição de Fuzil
+0837	{01}{01}{01}{0e}munição de fuzil de assalto{01}{01}
+0838	{01}{01}Um pente para fuzil de assalto.
+0839	{01}{01}Um pente de 18 tiros para fuzil de assalto, carregado com balas 7,62mm.
+0840	{01}{01}Munição de Tiro
+0841	{01}{01}{01}{0e}munição de pistola de tiro{01}{01}
+0842	{01}{01}Uma caixa de balas calibre .22.
+0843	{01}{01}Balas calibre .22 para pistola de tiro ao alvo.
+0844	{01}{01}Cassetete
+0845	{01}{01}um {01}{0d}cassetete{01}{01}
+0846	{01}{01}Um cassetete grosso de borracha para conter pacientes.
+0847	{01}{01}Usado para dominar pacientes violentos, este tipo de cassetete é durável, mas não causa danos permanentes.
+0848	{01}{01}Banqueta
+0849	{01}{01}uma {01}{0d}banqueta de madeira{01}{01}
+0850	{01}{01}Uma banqueta de bar de madeira.
+0851	{01}{01}Uma banqueta frágil com assento de couro sintético. Não parece aguentar muito castigo.
+0852	{01}{01}Bebida Saudável
+0853	{01}{01}uma {01}{0b}bebida saudável{01}{01}
+0854	{01}{01}Uma bebida de ervas refrescante.
+0855	{01}{01}Com uma mistura de ervas e vitaminas, esta bebida é perfeita para combater dores.
+0856	{01}{01}Bebida Energética
+0857	{01}{01}uma {01}{0b}bebida energética{01}{01}
+0858	{01}{01}Uma bebida com cafeína.
+0859	{01}{01}Uma bebida com cafeína que dá um gás. Às vezes bebo isso em viagens longas; me mantém acordado.
+0860	{01}{01}Kit de Primeiros Socorros
+0861	{01}{01}um {01}{0b}kit de primeiros socorros{01}{01}
+0862	{01}{01}Um kit de primeiros socorros completo.
+0863	{01}{01}Cheio de ataduras, suturas e outros suprimentos médicos, pode tratar ferimentos graves.
+0864	{01}{01}Ampola
+0865	{01}{01}uma {01}{0b}ampola{01}{01}
+0866	{01}{01}Uma ampola de narcótico.
+0867	{01}{01}O potente narcótico destas ampolas alivia a dor de qualquer ferimento. E dá um belo tranco.
+0868	{01}{01}Moeda da Sorte
+0869	{01}{01}uma {01}{0c}moeda da sorte{01}{01}
+0870	{01}{01}Minha moeda da sorte.
+0871	{01}{01}Tenho esta moeda desde criança, desde quando meus pais morreram. É uma espécie de amuleto.{0a}{0a}Tem algo riscado nela... parece "61".
+0872	{01}{01}Coração de Plástico
+0873	{01}{01}um {01}{0c}coração de plástico{01}{01}
+0874	{01}{01}Um modelo de coração.
+0875	{01}{01}Este órgão de plástico é uma réplica de um coração humano.
+0876	{01}{01}Estômago de Plástico
+0877	{01}{01}um {01}{0c}estômago de plástico{01}{01}
+0878	{01}{01}Um modelo de estômago.
+0879	{01}{01}Este órgão de plástico é uma réplica de um estômago humano.
+0880	{01}{01}Fígado de Plástico
+0881	{01}{01}um {01}{0c}fígado de plástico{01}{01}
+0882	{01}{01}Um modelo de fígado.
+0883	{01}{01}Este órgão de plástico é uma réplica de um fígado humano.
+0884	{01}{01}Intestino de Plástico
+0885	{01}{01}um {01}{0c}intestino de plástico{01}{01}
+0886	{01}{01}Um modelo de intestino.
+0887	{01}{01}Este órgão de plástico é uma réplica de um intestino humano.
+0888	{01}{01}Ovo de Ouro
+0889	{01}{01}o {01}{0c}ovo de ouro{01}{01}
+0890	{01}{01}Um ovo de ouro ornamentado.
+0891	{01}{01}Morno ao toque, este ovo é maior que o de uma galinha e tem um brilho oleoso.
+0892	{01}{01}Olhos de Vidro
+0893	{01}{01}os {01}{0c}olhos de vidro{01}{01}
+0894	{01}{01}Um par de olhos de vidro.
+0895	{01}{01}Um par de olhos de vidro tirados do modelo de anatomia da Sala de Exames.
+0896	{01}{01}Chave da Sala de Exames
+0897	{01}{01}a {01}{0c}chave da sala de exames{01}{01}
+0898	{01}{01}Uma chave marcada "Sala de Exames".
+0899	{01}{01}Uma chave pequena e bem usada.
+0900	{01}{01}Chave da Sala dos Funcionários
+0901	{01}{01}a {01}{0c}chave da sala dos funcionários{01}{01}
+0902	{01}{01}Uma chave marcada "Sala dos Funcionários".
+0903	{01}{01}Uma pequena chave de porta.
+0904	{01}{01}Pulmões de Plástico
+0905	{01}{01}os {01}{0c}pulmões de plástico{01}{01}
+0906	{01}{01}Um modelo de pulmões.
+0907	{01}{01}Este órgão de plástico é uma réplica de um par de pulmões humanos.
+0908	{01}{01}Artefato de Jocasta
+0909	{01}{01}o {01}{0c}artefato de Jocasta{01}{01}
+0910	{01}{01}Um símbolo estranho.
+0911	{01}{01}Este símbolo é de metal e tem a palavra "Jocasta" gravada na base.
+0912	{01}{01}Chave dos Pertences
+0913	{01}{01}a {01}{0c}chave dos pertences dos pacientes{01}{01}
+0914	{01}{01}Uma chave marcada "Sala de Pertences dos Pacientes".
+0915	{01}{01}Uma chave leve e enferrujada. A etiqueta diz "Sala de Pertences dos Pacientes".
+0916	{01}{01}Chave do Dr. Harris
+0917	{01}{01}a {01}{0c}chave do Dr. Harris{01}{01}
+0918	{01}{01}Uma chave marcada "Dr. Harris".
+0919	{01}{01}Uma chave com "Dr. Harris" escrito na etiqueta.
+0920	{01}{01}Chave do Arquivo
+0921	{01}{01}a {01}{0c}chave do arquivo de entrevistas{01}{01}
+0922	{01}{01}Uma chave marcada "Arquivo de Entrevistas".
+0923	{01}{01}Uma chave de ferro pesada, com "Arquivo de Entrevistas" escrito na etiqueta.
+0924	{01}{01}Chave do Porão
+0925	{01}{01}a {01}{0c}chave do porão{01}{01}
+0926	{01}{01}Uma chave com uma etiqueta "Acesso ao Porão".
+0927	{01}{01}Uma chave de ferro arranhada. Coberta de sujeira. Diz "Acesso ao Porão" na etiqueta.
+0928	{01}{01}Peça do Futuro
+0929	{01}{01}a {01}{0c}peça do futuro{01}{01}
+0930	{01}{01}Um objeto de metal estranho.
+0931	{01}{01}Um tetraedro com a palavra "futuro" gravada na lateral. Parece mais pesado do que aparenta.
+0932	{01}{01}Peça do Passado
+0933	{01}{01}a {01}{0c}peça do passado{01}{01}
+0934	{01}{01}Um tetraedro com a palavra "passado" gravada na lateral. Parece mais pesado do que aparenta.
+0935	{01}{01}Peça da Falsidade
+0936	{01}{01}a {01}{0c}peça da falsidade{01}{01}
+0937	{01}{01}Um tetraedro com a palavra "falsidade" gravada na lateral. Parece mais pesado do que aparenta.
+0938	{01}{01}Peça da Verdade
+0939	{01}{01}a {01}{0c}peça da verdade{01}{01}
+0940	{01}{01}Um tetraedro com a palavra "verdade" gravada na lateral. Parece mais pesado do que aparenta.
+0941	{01}{01}Peça do Presente
+0942	{01}{01}a {01}{0c}peça do presente{01}{01}
+0943	{01}{01}Um octaedro com a palavra "presente" gravada na lateral. Parece mais pesado do que aparenta.
+0944	{01}{01}Chave do Balcão
+0945	{01}{01}a {01}{0c}chave do corredor do balcão{01}{01}
+0946	{01}{01}Uma chave marcada "Corredor do Balcão".
+0947	{01}{01}Uma chave de ferro ornamentada.
+0948	{01}{01}Totem do Sol
+0949	{01}{01}o {01}{0c}totem do sol{01}{01}
+0950	{01}{01}Uma placa de pedra pintada.
+0951	{01}{01}Um totem de pedra quadrado com um símbolo do sol pintado.
+0952	{01}{01}Chave do Escritório do Palco
+0953	{01}{01}a {01}{0c}chave do escritório do palco{01}{01}
+0954	{01}{01}Uma chave marcada "escritório do palco".
+0955	{01}{01}Uma chave de metal simples.
+0956	{01}{01}Totem da Lua
+0957	{01}{01}o {01}{0c}totem da lua{01}{01}
+0958	{01}{01}Um totem de pedra quadrado com um símbolo da lua pintado.
+0959	{01}{01}Lâmpada de 125W
+0960	{01}{01}a {01}{0c}lâmpada de 125W{01}{01}
+0961	{01}{01}Uma lâmpada de 125W.
+0962	{01}{01}Uma lâmpada de refletor de 125W.
+0963	{01}{01}Lâmpada de 250W
+0964	{01}{01}a {01}{0c}lâmpada de 250W{01}{01}
+0965	{01}{01}Uma lâmpada de 250W.
+0966	{01}{01}Uma lâmpada de refletor de 250W.
+0967	{01}{01}Lâmpada de 500W
+0968	{01}{01}a {01}{0c}lâmpada de 500W{01}{01}
+0969	{01}{01}Uma lâmpada de 500W.
+0970	{01}{01}Uma lâmpada de refletor de 500W.
+0971	{01}{01}Lâmpada de 750W
+0972	{01}{01}a {01}{0c}lâmpada de 750W{01}{01}
+0973	{01}{01}Uma lâmpada de 750W.
+0974	{01}{01}Uma lâmpada de refletor de 750W.
+0975	{01}{01}Alavanca de Controle
+0976	{01}{01}a {01}{0c}alavanca de controle do cenário{01}{01}
+0977	{01}{01}Uma alavanca tirada de um painel de controle.
+0978	{01}{01}Uma alavanca fina de metal. Uma ponta tem rosca para encaixar num soquete.
+0979	{01}{01}Chave do Quarto 306
+0980	{01}{01}a {01}{0c}chave do quarto 306{01}{01}
+0981	{01}{01}Uma chave com a etiqueta "306".
+0982	{01}{01}Uma chave de motel simples e encardida.
+0983	{01}{01}Chave de Cleópatra
+0984	{01}{01}a {01}{0c}chave de Cleópatra{01}{01}
+0985	{01}{01}Uma chave com "Cleópatra" escrito no chaveiro de cobra.
+0986	{01}{01}Tem um chaveiro bonitinho com estampa de cobra.
+0987	{01}{01}Chave do Quarto 500
+0988	{01}{01}a {01}{0c}chave do quarto 500{01}{01}
+0989	{01}{01}Uma chave de motel com a etiqueta "500".
+0990	{01}{01}Uma chave de motel simples. Quando a seguro, os pelos da nuca se arrepiam.
+0991	{01}{01}Adaga
+0992	{01}{01}a {01}{0c}adaga ornamental{01}{01}
+0993	{01}{01}Uma adaga ornamental antiga.
+0994	{01}{01}Parece um enfeite, mas a lâmina corta como uma de verdade.
+0995	{01}{01}Chave do Escritório
+0996	{01}{01}a {01}{0c}chave do escritório do gerente{01}{01}
+0997	{01}{01}Uma chave com "Escritório do Gerente" escrito na etiqueta.
+0998	{01}{01}Uma chave de metal arranhada.
+0999	{01}{01}Aliança

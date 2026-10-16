@@ -1,0 +1,46 @@
+# Game files: never in the repository (the user's own disc, ELF, saves and anything captured from the game)
+*.iso
+*.cue
+*.chd
+*.7z
+*.zip
+/orig/
+/disc/
+/mc0/
+/mc1/
+*.ps2
+*.gsdump
+/recomp/disc/
+/recomp/diagnostics/
+/recomp/ghidra/
+/dist/
+
+# Builds, logs and local state
+/recomp/output-prev/
+/recomp/output-pre-pointers/
+/recomp/*.log
+/recomp/gpu/
+/config/output/
+/build/
+/out/
+/tools/PS2Recomp/out/
+/tools/PS2Recomp/.git-upstream/
+/launcher/build*/
+/ps2recomp/gpu/native-build/
+/ps2recomp/logs/
+*.o
+*.elf
+*.exe
+*.dylib
+*.so
+.DS_Store
+/imgui.ini
+/ps2_log.txt
+*.pre-*
+# The generator's own output: the build uses its copy in tools/PS2Recomp/ps2xRuntime/src/runner (ps2recomp/rebuild_ee.sh)
+/recomp/output/
+# Old backups
+*.old
+*.prev
+/patches/pre-*/
+/tools/loc/src/*.bin

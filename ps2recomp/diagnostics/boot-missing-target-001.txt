@@ -1,0 +1,12 @@
+# Primeiro boot de Origins: destino JALR ausente
+
+Antes do scan de ponteiros, o primeiro boot registrou:
+
+- origem do JALR: `0x002D9D24`
+- endereço destino: `0x002EBED8`
+- retorno: `0x002D9D2C`
+- o endereço estava dentro da região de código carregada, mas faltava como início chamável na tabela do runner.
+- PC: `0x002EBED8`; SP: `0x01FBFC30`; GP: `0x006BB070`.
+- contexto mostrava `a0=0x00A1C880`, `a2=0x01FBFC50`, `s0=0x00344D30`, `v0=0x002EBED8`.
+
+`sub_002EBD98` contém o bloco a partir de `0x002EBED8`; o scan de ponteiros adicionou esse endereço como entry-point hint, gerando uma entrada de despacho em `register_functions.cpp` e um `case` no corpo recompilado. O segundo boot não repetiu este `missing-target` até pelo menos o tick 2520. Isso elimina esta primeira barreira específica, não todos os possíveis destinos indiretos.

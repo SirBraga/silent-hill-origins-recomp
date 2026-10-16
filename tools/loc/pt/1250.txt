@@ -1,0 +1,250 @@
+1250	{01}{01}Lá vem ela.
+1251	{01}{01}Contemple o que você causou!
+1252	{01}{01}Aquela é a Alessa?
+1253	{01}{01}A Alessa de verdade?
+1254	{01}{01}Sim, a que você salvou das chamas.
+1255	{01}{01}Ela te usou direitinho, não foi?
+1256	{01}{01}Estou surpresa em vê-lo.
+1257	{01}{01}Achávamos que você simplesmente iria embora.
+1258	{01}{01}Bem, hora de pôr o peão dela para dormir...
+1259	{01}{01}Boa noite.
+1260	{01}{01}Não!
+1261	{01}{01}Ela está aqui!
+1262	{01}{01}Precisamos começar agora!
+1263	{01}{01}Não se preocupe, Dahlia.
+1264	{01}{01}Com ele fora do caminho, ela não tem por onde canalizar o poder.
+1265	{01}{01}Mamãe? Mamãe?
+1266	{01}{01}O que é isso?
+1267	{01}{01}Não toque!
+1268	{01}{01}Ai. Está quente!
+1269	{01}{01}Deixe isso aí.
+1270	{01}{01}É uma jaula para um demônio.
+1271	{01}{01}Contido, o poder dele concentrará o seu.
+1272	{01}{01}Liberte-o e todos nós arderemos no fogo do Inferno.
+1273	{01}{01}Não acredito...
+1274	{01}{01}Harry, é um bebê.
+1275	{01}{01}É uma menina.
+1276	{01}{01}Vai, segure ela.
+1277	{01}{01}Cheryl. Vamos chamá-la de Cheryl.
+1278	{01}{01}Metade da alma está perdida.
+1279	{01}{01}A semente está adormecida.
+1280	{01}{01}A outra metade não está perdida.
+1281	{01}{01}Usaremos um feitiço de invocação.
+1282	{01}{01}Ao ouvir a dor dela, com certeza virá.
+1283	{01}{01}Vai levar tempo.
+1284	{01}{01}Podemos esperar.
+1285	{01}{01}Do que você está falando?
+1286	{01}{01}Eu não sou sua mamãe.
+1287	{01}{01}Por favor... Não--!
+1288	{01}{01}Como você entrou aqui?
+1289	{01}{01}Ei, ei---
+1290	{01}{01}Com licença, senhor, o motel está fechado na baixa temporada.
+1291	{01}{01}Espere--!
+1292	{01}{01}O que está fazendo, filho?
+1293	{01}{01}Cuidado, o papai está--!
+1294	{01}{01}{01}{0f}Hã?{01}{01}
+1295	{01}{01}{01}{0f}...Não encaixa.{01}{01}
+1296	{01}{01}{01}{0f}A lua solitária...{01}{01}
+1297	{01}{01}{01}{0f}você sempre esteve comigo, não é?{01}{01}
+1298	{01}{01}{01}{0f}Au! Au!{01}{01}
+1299	{01}{01}{01}{0f}Saudações, Travis!{01}{01}
+1300	{01}{01}{01}{0f}Viram o meu caminhão?{01}{01}
+1301	{01}{01}{01}{0f}Preciso achar o meu caminhão.{01}{01}
+1302	{01}{01}{01}{0f}Seu caminhão está no nosso planeta.{01}{01}
+1303	{01}{01}{01}{0f}Venha conosco.{01}{01}
+1304	{01}{01}{01}{0f}Posso dirigir?{01}{01}
+1305	{01}{01}{01}{0f}Você sabe dirigir câmbio manual?{01}{01}
+1306	{01}{01}Não temas;
+1307	{01}{01}A ilha é cheia de ruídos,
+1308	{01}{01}Sons e doces árias que deleitam e não ferem.
+1309	{01}{01}Às vezes mil instrumentos tilintantes
+1310	{01}{01}Zumbem em meus ouvidos, e às vezes vozes...
+1311	{01}{01}Que, se eu então tivesse despertado de um longo sono,
+1312	{01}{01}Me fariam dormir de novo: e então, sonhando,
+1313	{01}{01}As nuvens pareciam abrir-se e mostrar riquezas
+1314	{01}{01}Prestes a cair sobre mim, e, ao despertar,
+1315	{01}{01}Eu chorava para sonhar de novo.
+1316	{01}{01}Eu vos suplico, pai.
+1317	{01}{01}Fora! Não te agarres às minhas vestes.
+1318	{01}{01}Senhor, tende piedade;
+1319	{01}{01}Eu serei sua fiadora.
+1320	{01}{01}Silêncio! Mais uma palavra
+1321	{01}{01}E hei de repreender-te, se não odiar-te. O quê! (tosse)
+1322	{01}{01}Defensora de um impostor! (tosse) Quieta! (tosse)
+1323	{01}{01}Pensas que não há outros como ele--
+1324	{01}{01}Tudo bem, Tony?
+1325	{01}{01}Sim, sim, tudo bem! Só uma dor de cabeça... Um maldito sangramento no nariz.
+1326	{01}{01}...Se importam se pararmos um pouco?
+1327	{01}{01}Eu tive que fazer isso.
+1328	{01}{01}Teve que fazer?
+1329	{01}{01}Por favor, me ajude a entender.
+1330	{01}{01}É o que se faz com pragas.
+1331	{01}{01}É o que se faz, não é?
+1332	{01}{01}E ele era uma praga.
+1333	{01}{01}Ah, ele era um menino mau!
+1334	{01}{01}Sempre foi.
+1335	{01}{01}Tentei fingir que não era...
+1336	{01}{01}mas eles estavam lá para garantir que eu não esquecesse.
+1337	{01}{01}Eles?
+1338	{01}{01}As pessoas nos espelhos.
+1339	{01}{01}Elas veem tudo!
+1340	{01}{01}...O que está realmente acontecendo.
+1341	{01}{01}E foi ideia delas?
+1342	{01}{01}Elas viram o demônio dentro dele.
+1343	{01}{01}Eu tinha que matá-lo!
+1344	{01}{01}Minha responsabilidade.
+1345	{01}{01}Minha carne e meu sangue.
+1346	{01}{01}Eu o trouxe a este mundo,
+1347	{01}{01}então eu tinha que tirá-lo dele!
+1348	{01}{01}Ventres bons podem gerar filhos maus, dizem.
+1349	{01}{01}Sei que você acha errado o que eu fiz.
+1350	{01}{01}Eu só quero entender...
+1351	{01}{01}Helen--
+1352	{01}{01}O senhor quer me manter trancada, doutor.
+1353	{01}{01}Mas não pode.
+1354	{01}{01}Posso sair quando eu quiser.
+1355	{01}{01}Posso atravessar aquele espelho e entrar no mundo deles.
+1356	{01}{01}Este mundo é só um devaneio.
+1357	{01}{01}Helen?
+1358	{01}{01}Quando vão trazer o meu menino?
+1359	{01}{01}Eu sempre odiei você!
+1360	{01}{01}Você e o seu filho demônio!
+1361	{01}{01}Ah, meu Deus, Helen. Minha querida, querida Helen.
+1362	{01}{01}...Você está mesmo morta!
+1363	{01}{01}O que eu vou fazer?
+1364	{01}{01}Helen...
+1365	{01}{01}Toda vez que olho nos olhos dele, vejo você.
+1366	{01}{01}Não é o bastante.
+1367	{01}{01}Não consigo estar presente para ele.
+1368	{01}{01}Há dor demais neste mundo sem você.
+1369	{01}{01}Aquela coisa que roubou o seu corpo...
+1370	{01}{01}...ela tinha razão.
+1371	{01}{01}Pode me dar dinheiro para o fliperama?
+1372	{01}{01}Sobre hoje à tarde...
+1373	{01}{01}Tudo bem, eu só quero jogar fliperama.
+1374	{01}{01}Claro. ...Pronto.
+1375	{01}{01}Vou voltar para o quarto um pouco.
+1376	{01}{01}Me espere aqui.
+1377	{01}{01}Diretor do Jogo{0a}Mark Simmons{0a}{0a}Produtor Sênior{0a}Jim Walker
+1378	{01}{01}Escrito e Projetado por{0a}Sam Barlow
+1379	{01}{01}Programador Principal{0a}Dave Owens
+1380	{01}{01}Programador Técnico Principal{0a}James Sharman
+1381	{01}{01}Artista Principal{0a}Neale Williams
+1382	{01}{01}Diretor de Cinemáticas e Animação Principal{0a}Bryan Rogers
+1383	{01}{01}Designer de Fases Principal{0a}Artista de Fases Principal
+1384	{01}{01}Robert McLachlan{0a}Saul Marchese
+1385	{01}{01}Artista de Efeitos Sonoros Principal{0a}Gerente de Terceirização
+1386	{01}{01}Paul Christey{0a}Derek Doherty
+1387	{01}{01}Artistas{0a}Andrew Forster{0a}Vanessa Wells{0a}Elco Vossers{0a}Aaron Miller{0a}Ian Sutton{0a}Robert Wilmot{0a}Stephen Cooper{0a}Baolong Zhang{0a}Doug Townsley
+1388	{01}{01}Animadores{0a}Nick Hodgson{0a}Gianluca Fratellini{0a}Vernon Victory{0a}Stephen Bodle
+1389	{01}{01}Programadores{0a}Andrew Earle{0a}Richard Nutman{0a}Mike Burmester{0a}Robert Macdonald
+1390	{01}{01}Designers{0a}Kevin Clarke{0a}Mark Diggles{0a}Chris Green{0a}{0a}Áudio{0a}Matt Simmonds
+1391	{01}{01}Tempo total de jogo = %.2d:%.2d:%.2d{0a}Vezes salvo = %d
+1392	{01}{01}Novo Jogo Salvo
+1393	{01}{01}Saguão do Hospital
+1394	{01}{01}Cidade, Rua Crichton
+1395	{01}{01}Saguão do Teatro
+1396	{01}{01}Depósito da Orquestra do Teatro
+1397	{01}{01}Escada Leste do Sanatório
+1398	{01}{01}Isolamento Feminino do Sanatório (Outro Mundo)
+1399	{01}{01}Escada Oeste do Sanatório
+1400	{01}{01}Enfermaria do Sanatório
+1401	{01}{01}Escada Extremo Leste do Sanatório (Outro Mundo)
+1402	{01}{01}Escada Oeste do Sanatório (Outro Mundo)
+1403	{01}{01}Hidroterapia do Sanatório
+1404	{01}{01}Arquivo de Entrevistas do Sanatório
+1405	{01}{01}Roupa de Embaixador
+1406	{01}{01}Um traje espacial justo.
+1407	{01}{01}Roupa de Brigão
+1408	{01}{01}Uma roupa de luta livre mexicana.
+1409	{01}{01}Roupa do Açougueiro
+1410	{01}{01}Um conjunto de roupas ensanguentadas que pertencia a um famoso assassino em série.
+1411	{01}{01}Roupa de Cartógrafo
+1412	{01}{01}Estas roupas foram usadas por um homem que mapeou novas terras.
+1413	{01}{01}Roupa de Colecionador
+1414	{01}{01}O uniforme de um entusiasta obsessivo e fanático.
+1415	{01}{01}Roupa de Explorador
+1416	{01}{01}Roupas adequadas para explorar os terrenos mais perigosos.
+1417	{01}{01}Roupa de Salvador
+1418	{01}{01}Às vezes gosto de pegar a moto e sair pela noite. É quando uso esta jaqueta de couro.
+1419	{01}{01}Roupa de Atirador de Elite
+1420	{01}{01}Roupas de um entusiasta de armas.
+1421	{01}{01}Roupa de Velocista
+1422	{01}{01}Roupas confortáveis para treino.
+1423	{01}{01}Roupa de Perseguidor
+1424	{01}{01}Há boatos de equipes de operações secretas convergindo sobre os habitantes de Silent Hill.
+1425	{01}{01}Roupa de Bombeiro
+1426	{01}{01}Uniforme padrão do corpo de bombeiros local.
+1427	{01}{01}Não há espaço suficiente no{0a}Memory Stick™.{0a}São necessários pelo menos %d KB para salvar este jogo.{0a}Deseja apagar dados salvos do Memory Stick™?
+1428	{01}{01}este jogo contém imagens que podem ser consideradas violentas e perturbadoras
+1429	{01}{01}carregando
+1430	{01}{01}© 2007 Konami. Desenvolvido por Climax Ltd. Publicado por Konami Interactive Ltd. Logotipo Silent Hill, TM e © Konami. Todos os direitos reservados. Climax e o logotipo Climax são marcas registradas da Climax. Konami e o logotipo Konami são marcas registradas. Todos os direitos reservados.
+1431	{01}{01}silent hill origins é uma exploração da escuridão por trás da nossa realidade cotidiana. para uma experiência melhor, recomendamos jogar com as luzes apagadas e com fones de ouvido.
+1432	{01}{01}Só umas caixas de embalagem.
+1433	{01}{01}Uma prateleira cheia de antiguidades.
+1434	{01}{01}É velho e não abre.
+1435	{01}{01}Muitos livros velhos.
+1436	{01}{01}Nada de que eu precise aqui.
+1437	{01}{01}Este quadro tem alguma coisa. Me dá vontade de parar e olhar. Mas não é hora, e ele vai queimar como os outros.
+1438	{01}{01}A caixa de correio do apartamento {01}{0c}213{01}{01} está transbordando. Parece que a correspondência não é recolhida há semanas.
+1439	{01}{01}Um monstro. Alguém o mutilou; há sangue pelo quarto todo.
+1440	{01}{01}A maca foi usada há pouco; está manchada de fuligem e sangue.
+1441	{01}{01}Parece algum tipo de altar.
+1442	{01}{01}Latões cheios de lixo. Não estou tão desesperado a ponto de revirar isso.
+1443	{01}{01}Velas para algum tipo de ritual?
+1444	{01}{01}PROJEÇÃO DA LANTERNA
+1445	{01}{01}A escada desabou. Não posso voltar por aqui.
+1446	{01}{01}Aviso do Pulmão de Aço
+1447	{01}{01}FORA DE USO{0a}{0a}Diante do recente acidente, estou proibindo o uso do equipamento do pulmão de aço. Isso vale para toda a equipe, inclusive as enfermeiras-chefes. Mortes de pacientes durante a terapia não devem ser tratadas com leviandade. Acho difícil acreditar que alguém possa sobrecarregar 'acidentalmente' todas as válvulas do equipamento e, assim, até a conclusão do inquérito, devo supor que a falha é do próprio equipamento. Estas precauções são essenciais; temos o dever de cuidar de todos os nossos pacientes, mesmo os difíceis.{0a}{0a}Dr. Harris
+1448	{01}{01}Inútil. E eu nem tenho trocado.
+1449	{01}{01}Máquina de cigarros quebrada.
+1450	{01}{01}Só livros didáticos, relatórios e revistas velhas. Nada de que eu precise.
+1451	{01}{01}Gaiolas vazias por toda parte. O fedor...
+1452	{01}{01}Uma mala cheia de sapatos.
+1453	{01}{01}Coisas de casamento. Parece que estão aqui há um tempo.
+1454	{01}{01}SALVADOR - Não concluída
+1455	{01}{01}AÇOUGUEIRO - Não concluída
+1456	{01}{01}EMBAIXADOR - Não concluída
+1457	{01}{01}PERSEGUIDOR - Não concluída
+1458	{01}{01}COLECIONADOR - Não concluída
+1459	{01}{01}VELOCISTA - Não concluída
+1460	{01}{01}ATIRADOR DE ELITE - Não concluída
+1461	{01}{01}ARMEIRO - Não concluída
+1462	{01}{01}BRIGÃO - Não concluída
+1463	{01}{01}CARTÓGRAFO - Não concluída
+1464	{01}{01}EXPLORADOR - Não concluída
+1465	{01}{01}DESTEMIDO - Não concluída
+1466	{01}{01}BOMBEIRO - Não concluída
+1467	{01}{01}DECIFRADOR - Não concluída
+1468	{01}{01}Conquista Bombeiro obtida!
+1469	{01}{01}Conquista Decifrador obtida!
+1470	{01}{01}BOMBEIRO - CONCLUÍDA!{0a} {0a}Você salvou Alessa do incêndio em tempo recorde.
+1471	{01}{01}DECIFRADOR - CONCLUÍDA!{0a} {0a}Você invocou o poder de um antigo encantamento.
+1472	{01}{01}É uma árvore de madeira.
+1473	{01}{01}Uma mesa cenográfica de madeira. Livros e papéis estão pintados nela.
+1474	{01}{01}É uma espécie de fantasia pendurada no teto. Feita de pele mofada e corda.
+1475	{01}{01}Este fundo de madeira tem grupos de árvores pintados.
+1476	{01}{01}Um painel de cenário. Prateleiras e livros pintados.
+1477	{01}{01}As paredes de uma caverna estão pintadas nestes painéis de madeira.
+1478	{01}{01}Tem alguma coisa lá atrás.
+1479	{01}{01}Não preciso mais mexer nisso.
+1480	{01}{01}a {01}{0d}TV portátil{01}{01}
+1481	{01}{01}a {01}{0d}máquina de escrever{01}{01}
+1482	{01}{01}a {01}{0d}torradeira{01}{01}
+1483	{01}{01}a {01}{0d}marreta{01}{01}
+1484	{01}{01}a {01}{0d}caixa de ferramentas{01}{01}
+1485	{01}{01}o {01}{0d}abajur{01}{01}
+1486	{01}{01}a {01}{0d}katana{01}{01}
+1487	{01}{01}o {01}{0d}gancho de açougue{01}{01}
+1488	{01}{01}o {01}{0d}pedaço de madeira lascada{01}{01}
+1489	{01}{01}o {01}{0d}arquivo de metal{01}{01}
+1490	{01}{01}a {01}{0d}garrafa de álcool{01}{01}
+1491	{01}{01}a {01}{0d}faca de cozinha{01}{01}
+1492	{01}{01}os {01}{0d}pesos da cortina{01}{01}
+1493	{01}{01}a {01}{0d}navalha{01}{01}
+1494	{01}{01}o {01}{0d}bisturi{01}{01}
+1495	{01}{01}o {01}{0d}suporte de soro{01}{01}
+1496	{01}{01}o {01}{0d}cutelo{01}{01}
+1497	{01}{01}a {01}{0d}chave inglesa{01}{01}
+1498	{01}{01}o {01}{0d}engradado{01}{01}
+1499	{01}{01}o {01}{0d}atiçador{01}{01}

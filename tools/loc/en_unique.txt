@@ -1,0 +1,1952 @@
+0000	{01}{01}$+-&
+0001	{01}{01}{03}{03}
+0002	{01}{01}{03}{04}
+0003	{01}{01}Press START button
+0004	{01}{01}PAUSED
+0005	{01}{01}{03}{05}: Continue
+0006	{01}{01}NOTES
+0007	{01}{01}MAP
+0008	{01}{01}OPTIONS
+0009	{01}{01}Yes
+0010	{01}{01}No
+0011	{01}{01}{03}{02} : Skip 
+0012	{01}{01}{03}{06} : Quit to Main Menu
+0013	{01}{01}Quit to Main Menu?{0a}All unsaved progress will be lost.
+0014	{01}{01}{03}{01} : Confirm Quit
+0015	{01}{01}{03}{02} : Cancel
+0016	{01}{01}MELEE
+0017	{01}{01}FIREARMS
+0018	{01}{01}SUPPLIES
+0019	{01}{01}ITEMS
+0020	{01}{01}Use
+0021	{01}{01}Examine
+0022	{01}{01}Reload
+0023	{01}{01}Equip
+0024	{01}{01}Unequip
+0025	{01}{01}[
+0026	{01}{01}]
+0027	{01}{01}STATUS
+0028	{01}{01}Close {03}{02}
+0029	{01}{01}{01}{03}I can't use that item here.{01}{01}
+0030	{01}{01}EMPTY
+0031	{01}{01}COSTUMES
+0032	{01}{01}I don't have a map for this area.
+0033	{01}{01}BRIGHTNESS
+0034	{01}{01}SUBTITLES
+0035	{01}{01}MAP ZOOM
+0036	{01}{01}MUSIC VOLUME
+0037	{01}{01}SFX VOLUME
+0038	{01}{01}CONTROLS
+0039	{01}{01}ACCOLADES
+0040	{01}{01}EXTRA OPTIONS
+0041	{01}{01}WALK/RUN
+0042	{01}{01}EXTRA BLOOD
+0043	{01}{01}NOISE FILTER
+0044	{01}{01}BLOODY FOOTPRINTS
+0045	{01}{01}IN
+0046	{01}{01}OUT
+0047	{01}{01}ON
+0048	{01}{01}OFF
+0049	{01}{01}WALK
+0050	{01}{01}RUN
+0051	{01}{01}On
+0052	{01}{01}Off
+0053	{01}{01}Placeholder Controls Screen.
+0054	{01}{01}SAVIOR - COMPLETE!{0a} {0a}You intervened in the cult's ceremony and saved Alessa.
+0055	{01}{01}BUTCHER - COMPLETE!{0a} {0a}You brought Travis face to face with a terrible realization.
+0056	{01}{01}AMBASSADOR - COMPLETE!{0a} {0a}You uncovered the alien conspiracy behind events in Silent Hill.
+0057	{01}{01}STALKER - COMPLETE!{0a} {0a}You preferred the comfort of the dark, turning off your flashlight to become one with the night.
+0058	{01}{01}COLLECTOR - COMPLETE!{0a} {0a}Like a true obsessive, you collected all the items in the game.
+0059	{01}{01}SPRINTER - COMPLETE!{0a} {0a}You reached the end in record time, treating the game as a sprint not a marathon.
+0060	{01}{01}SHARPSHOOTER - COMPLETE!{0a} {0a}You rejoiced in the power of firearms and faced fear with a steady aim and the sound of gunfire.
+0061	{01}{01}WEAPONSMITH - COMPLETE!{0a} {0a}You preferred to dispatch your monsters up close and personal and faced danger with a weapon in your hand.
+0062	{01}{01}BRAWLER - COMPLETE!{0a} {0a}Like a true survivor you fought and won, drawing on the destructive power of your own fists.
+0063	{01}{01}CARTOGRAPHER - COMPLETE!{0a} {0a}You knew the streets of Silent Hill like the back of your hand and had no use for maps.
+0064	{01}{01}EXPLORER - COMPLETE!{0a} {0a}During your time in Silent Hill you left no corner untouched, traveling a great distance before accomplishing your goal.
+0065	{01}{01}DAREDEVIL - COMPLETE!{0a} {0a}Like the heroes of legend you were fearless in the face of great danger and completed the game without ever saving.
+0066	{01}{01}Not complete.
+0067	{01}{01}TIPS
+0068	{01}{01}As Travis explores, he will find maps for the locations he visits in Silent Hill. These maps will be useful in your travels. Travis will make note of important items and doors on the map as he discovers them. Check your map if you get lost or aren't sure what to do next.
+0069	{01}{01}Travis will turn his head to look at objects of interest. This will help you spot important items as you explore. Push {03}{01} when standing in front of objects of interest to interact with them.
+0070	{01}{01}To attack an enemy, hold down {03}{03} to assume a combat stance. You will lock onto enemies when they are close enough. Press the left and right directional buttons to change targets while locked on.
+0071	{01}{01}Once you inflict enough damage on a monster, it will collapse to the floor. If left alone, it will get back on its feet. To prevent this, you should finish it off as it writhes on the ground. To perform a finishing move, release the {03}{03} and press {03}{01} when in front of the fallen enemy.
+0072	{01}{01}Move toward your target with the left analog stick and hit {03}{01} to perform a forward attack. Often, these attacks have greater reach or inflict more damage.
+0073	{01}{01}Hold down {03}{01} while in the combat stance to charge up a high-powered attack. Release {03}{01} to attack targets in range. 
+0074	{01}{01}There are many large, heavy items in Silent Hill that can be used as weapons. Items such as Typewriters or Portable TVs will break when used, but also cause a great deal of damage. Large items can also be thrown at distant enemies: hold {03}{01} while locked on to a target, then release to throw the item.
+0075	{01}{01}The streets and buildings of Silent Hill are full of items that can be used as weapons. Wooden planks, pitchforks, and even firearms. To pick up a weapon, press {03}{01} when you are standing in front of it. You can then equip the weapon from the inventory screen (press {03}{07}). Alternatively, you can pick up and equip a weapon instantly by pressing the down directional button. The weapon will go straight into Travis's hands, ready for use.
+0076	{01}{01}As Travis explores Silent Hill, he will discover what appear to be two overlapping versions of the town: the deserted streets of the Misty World, and the dark, dangerous nightmare that is the Other World. Travis can use mirrors to move between these realities. Stand in front of a mirror and press {03}{01} to phase into the other world. Mirrors work both directions and can be used an unlimited number of times.
+0077	{01}{01}Travis loses energy as he runs, attacks, or after a grapple with a monster. If he loses too much energy, he will become exhausted. When exhausted, Travis will run slowly and will have a harder time grappling successfully. To restore stamina, Travis should rest for a while. You can also use energy drinks to replenish stamina and give Travis a momentary boost. 
+0078	{01}{01}Some monsters will grab Travis if they can get close enough. During these grapples, Travis must act quickly to avoid taking damage. There are two types of grapple attacks, both requiring a different response. When you see an icon with a moving arrow over it you must hammer the button as fast as you can to repel the enemy. If there is no arrow and the button is pulsing, you have a limited time to hit that button in order to defend against an attack.
+0079	{01}{01}As Travis explores, he will collect many items of various shapes and sizes. These items will be stored in his inventory. Push {03}{07} to go to the inventory screen. You can cycle between item categories with {03}{04} and {03}{03}. Once you select an item, press {03}{01} to see the available actions. You can {01}{07}examine{01}{01} items for additional information that may be useful, or {01}{07}equip{01}{01} and {01}{07}reload{01}{01} your weapons. Some objects can be "used." If you wish to use an item, stand where you would like to use it and select the {01}{07}use{01}{01} option on the inventory screen. Many puzzles can be solved this way. 
+0080	{01}{01}Summary
+0081	{01}{01}Total enemies killed using melee weapons:
+0082	{01}{01}Total enemies killed using firearms:
+0083	{01}{01}Total enemies killed using fists:
+0084	{01}{01}Total items collected:
+0085	{01}{01}Number of map views:
+0086	{01}{01}Number of times saved:
+0087	{01}{01}Distance walked:
+0088	{01}{01}Total game time:
+0089	{01}{01}Total flashlight use time:
+0090	{01}{01}Number of game completions:
+0091	{01}{01}% of enemies killed with melee weapons:
+0092	{01}{01}% of enemies killed with firearms:
+0093	{01}{01}% of enemies killed with fists:
+0094	{01}{01}Savior accolade achieved!
+0095	{01}{01}Butcher accolade achieved!
+0096	{01}{01}Ambassador accolade achieved!
+0097	{01}{01}Stalker accolade achieved!
+0098	{01}{01}Collector accolade achieved!
+0099	{01}{01}Sprinter accolade achieved!
+0100	{01}{01}Sharpshooter accolade achieved!
+0101	{01}{01}Weaponsmith accolade achieved!
+0102	{01}{01}Brawler accolade achieved!
+0103	{01}{01}Cartographer accolade achieved!
+0104	{01}{01}Explorer accolade achieved!
+0105	{01}{01}Daredevil accolade achieved!
+0106	{01}{01}Controls - Explore
+0107	{01}{01}Controls - Combat
+0108	{01}{01}Center Camera
+0109	{01}{01}Flashlight
+0110	{01}{01}Toggle Left
+0111	{01}{01}Toggle Right
+0112	{01}{01}Pick Up
+0113	{01}{01}Move
+0114	{01}{01}Inventory
+0115	{01}{01}Pause
+0116	{01}{01}Interact
+0117	{01}{01}Run
+0118	{01}{01}Torch
+0119	{01}{01}Map
+0120	{01}{01}Enter Combat Stance
+0121	{01}{01}Attack
+0122	{01}{01}Block
+0123	{01}{01}Hold During Combat
+0124	{01}{01}Subtitles
+0125	{01}{01}Brightness
+0126	{01}{01}NORMAL
+0127	{01}{01}HIGH
+0128	{01}{01}YES
+0129	{01}{01}NO
+0130	{01}{01}Exit to main menu? Any unsaved data will be lost.
+0131	{01}{01}{03}{05}: Return to game
+0132	{01}{01}A "special save file" will retain your accolades and allow you to start again from the beginning of the game, making use of all your unlocked items and outfits, as well as other special features.{0a} {0a}To use a special save file, load it as you would any other save.
+0133	{01}{01}Create a special save file?
+0134	{01}{01}It's locked.
+0135	{01}{01}The lock's broken. I can't open it.
+0136	{01}{01}Something's blocking it.{0a}I can't open the door.
+0137	{01}{01}Seems jammed.{0a}I can't open the door.
+0138	{01}{01}It's locked from the other side.
+0139	{01}{01}The lock's broken.{0a}I can't open the door.
+0140	{01}{01}I got %s.
+0141	{01}{01}I equipped %s.
+0142	{01}{01}Now it's unlocked.
+0143	{01}{01}I can't leave until I know what happened to that girl.
+0144	{01}{01}I pushed the button, but the elevator doesn't come.
+0145	{01}{01}Something is preventing the door from opening, I can't leave yet
+0146	{01}{01}Not yet. I need to get to the bottom of this. Why was I led here?
+0147	{01}{01}That girl... Did I hit her? I need to catch up with her.
+0148	{01}{01}I can't leave. There's someone upstairs!
+0149	{01}{01}I can't leave yet. There's something here, something important.
+0150	{01}{01}Not yet... there's something on the table back there.
+0151	{01}{01}The door won't open. Something is holding it shut.
+0152	{01}{01}I don't want to leave. Not until I understand why I was led here.
+0153	{01}{01}I used the {01}{0c}women's room key{01}{01}.
+0154	{01}{01}I used the {01}{0c}exam room key{01}{01}.
+0155	{01}{01}I used the {01}{0c}staff lounge key{01}{01}.
+0156	{01}{01}I used {01}{0c}glass eyes{01}{01}.
+0157	{01}{01}I used the {01}{0c}golden egg{01}{01}.
+0158	{01}{01}I got the {01}{0c}hospital map{01}{01}.
+0159	{01}{01}I need to go to the Hospital. Better check on that girl.
+0160	{01}{01}I got the {01}{0c}motel map{01}{01}.
+0161	{01}{01}I got the {01}{0c}theater map{01}{01}.
+0162	{01}{01}I got the {01}{0c}sanitarium map{01}{01}.
+0163	{01}{01}It's a map of the town. I've already taken one.
+0164	{01}{01}I got the {01}{0c}child's map{01}{01}.
+0165	{01}{01}I used the {01}{0c}lumber yard key{01}{01}.
+0166	{01}{01}I used the {01}{0c}bookstore key{01}{01}.
+0167	{01}{01}I don't need to go back in. I should find that place Lisa mentioned, "Cedar Grove Sanitarium." It's on my map.
+0168	{01}{01}I don't need to go back in. I should see what I can do with this theater ticket.
+0169	{01}{01}I don't need to go back in. There's something important at the motel.
+0170	{01}{01}BUG: Should not see this string.
+0171	{01}{01}X
+0172	{01}{01}IGC 3. The Burning House
+0173	{01}{01}IGC 4. The Rescue
+0174	{01}{01}IGC 5. Collapse
+0175	{01}{01}IGC Stair Collapse
+0176	{01}{01}IGC Floor Collapse
+0177	{01}{01}I used the {01}{0c}patient belongings key{01}{01}.
+0178	{01}{01}I used the {01}{0c}basement key{01}{01}.
+0179	{01}{01}I used the {01}{0c}interview archives key{01}{01}.
+0180	{01}{01}I used {01}{0c}Dr. Harris's key{01}{01}.
+0181	{01}{01}I used the {01}{0c}Jocasta artifact{01}{01}.
+0182	{01}{01}I flushed the toilet. The ringing noise has stopped -- anything that was stuck in there has been flushed down through the system.
+0183	{01}{01}The toilet looks blocked.
+0184	{01}{01}The toilet looks blocked. There's a metal ringing in the pipe; sounds like something is stuck.{0a}Should I flush it?
+0185	{01}{01}The toilet has been flushed.
+0186	{01}{01}There's a drainage control here. Should I press the button?
+0187	{01}{01}The bath has drained and the key that was in it has been sucked down the plughole.
+0188	{01}{01}This hydrotherapy bath must be broken because the water is boiling.{0a}There's a key at the bottom, but there's no way I can reach it without scalding myself. 
+0189	{01}{01}Looks like a sewage outflow. All the sewage from the pipes drains down here. Stinks to high heaven.
+0190	{01}{01}There's a key in the drain, but I can't reach it through the grate.
+0191	{01}{01}This looks like the control panel for the iron lung. Take a look?
+0192	{01}{01}Something got spat out of the iron lung.
+0193	{01}{01}There's something stuck in the neck of the machine. It's small and metallic.
+0194	{01}{01}I can see something metal inside, through the window. 
+0195	{01}{01}The iron lung is empty now.
+0196	{01}{01}The door's sealed shut. Someone has written across it. The message reads "Dr Harris has the key."
+0197	{01}{01}Just an old rusty fuse box.
+0198	{01}{01}I don't want to mess with fuse boxes.
+0199	{01}{01}Looks rusted shut.
+0200	{01}{01}I can't see this old thing opening up any time soon.
+0201	{01}{01}I can't see anything of interest. Judging by the dust on these things, I'm not the only one.
+0202	{01}{01}Old journals and books. Nothing jumps out at me.
+0203	{01}{01}Another fuse box.
+0204	{01}{01}Looks like it's been a while since this stuff worked.
+0205	{01}{01}Old and rusty.
+0206	{01}{01}All this stuff is run down. 
+0207	{01}{01}Everything is in a state of disrepair. When I see this stuff, I get why the whole place is so dark.
+0208	{01}{01}Rusty fuse box. Probably full of rusty fuses.
+0209	{01}{01}Damaged and rusted shut.
+0210	{01}{01}I've got no idea what this gauge is telling me, if it's even working.
+0211	{01}{01}This place is full of crap that's rusted shut.
+0212	{01}{01}Doesn't look like it works. This place is a mess.
+0213	{01}{01}Rusted shut.
+0214	{01}{01}Won't open.
+0215	{01}{01}Seems broken.
+0216	{01}{01}A corroded fuse box.
+0217	{01}{01}Broken fuse box.
+0218	{01}{01}Just a shelf full of junk.
+0219	{01}{01}A well-worn, uninteresting desk.
+0220	{01}{01}There's nothing I can use on this shelf.
+0221	{01}{01}Nothing here worth lugging around.
+0222	{01}{01}Just a pile of junk.
+0223	{01}{01}An unloved fuse box.
+0224	{01}{01}This fuse box is jammed shut.
+0225	{01}{01}A broken fuse box.
+0226	{01}{01}Rusted fuse box.
+0227	{01}{01}The fuse box door is rusted shut.
+0228	{01}{01}A decrepit fuse box.
+0229	{01}{01}Rust and wires.
+0230	{01}{01}This place is in a lousy state.
+0231	{01}{01}Doesn't look like these are working.
+0232	{01}{01}Jammed shut.
+0233	{01}{01}Flaking with rust.
+0234	{01}{01}Corroded and pitted with rust.
+0235	{01}{01}I can't see anything on these shelves worth looking at.
+0236	{01}{01}Nothing to see here.
+0237	{01}{01}Rusted in place. It doesn't work.
+0238	{01}{01}The locker is empty.
+0239	{01}{01}Can't see anything of use in the cabinets.
+0240	{01}{01}Broken old filing cabinets..
+0241	{01}{01}Nothing of any use on this desk.
+0242	{01}{01}Lots of folders. Filed and forgotten.
+0243	{01}{01}Medical records? I don't feel like prying.
+0244	{01}{01}Nothing for me here.
+0245	{01}{01}Nothing useful.
+0246	{01}{01}Just basic supplies. Nothing for me.
+0247	{01}{01}I don't need anything on this shelf.
+0248	{01}{01}There's nothing useful on the shelf.
+0249	{01}{01}Empty boxes.
+0250	{01}{01}More useless stuff being stored here.
+0251	{01}{01}Shelves of old, unimportant stuff.
+0252	{01}{01}I can't see anything in the cabinet.
+0253	{01}{01}The cabinet looks jammed shut.
+0254	{01}{01}A wheelchair. Never needed to use one of these myself.
+0255	{01}{01}Nothing of any use to me.
+0256	{01}{01}Nothing in the desk.
+0257	{01}{01}There's nothing on the desk.
+0258	{01}{01}The doors in this partition are stuck in place. Don't think they've been used in a long time.
+0259	{01}{01}Nothing of interest in this cabinet.
+0260	{01}{01}The cabinet is jammed shut.
+0261	{01}{01}Dusty and empty.
+0262	{01}{01}I can't see anything in this cabinet.
+0263	{01}{01}Stacks of medical records. Not my sort of thing.
+0264	{01}{01}I don't have time to read all of these.
+0265	{01}{01}Someone left their doll. I'll leave it here in case they come looking for it.
+0266	{01}{01}Doesn't look like it'll open.
+0267	{01}{01}Stinks of mildew.
+0268	{01}{01}Covered in mold.
+0269	{01}{01}Barbed wire is stretched across the cubicle.
+0270	{01}{01}Looks dark and cold under the metal grate.
+0271	{01}{01}Nothing in the drawer.
+0272	{01}{01}An empty drawer.
+0273	{01}{01}Looks empty.
+0274	{01}{01}Empty. Smells musty.
+0275	{01}{01}Nothing in here.
+0276	{01}{01}Nothing of interest.
+0277	{01}{01}I don't need any of this.
+0278	{01}{01}Looks like junk.
+0279	{01}{01}Nothing I can use.
+0280	{01}{01}None of this is interesting to me.
+0281	{01}{01}Nothing on here.
+0282	{01}{01}It's just rubbish.
+0283	{01}{01}Just junk.
+0284	{01}{01}Nothing in this cabinet seems particularly useful.
+0285	{01}{01}The sink is encrusted with dirt.
+0286	{01}{01}A dirty toilet. Doesn't look like it's been used in a while.
+0287	{01}{01}Looks like someone had an accident here.
+0288	{01}{01}A set of scales. Looks like they've seen a lot of use.
+0289	{01}{01}There are piles of uneaten food. Smells awful.
+0290	{01}{01}Empty, dusty shelves.
+0291	{01}{01}Doesn't look like it opens.
+0292	{01}{01}Nothing here I can use.
+0293	{01}{01}The door won't open. It looks warped by heat--the outside is scorched black
+0294	{01}{01}The door is heavily barred.
+0295	{01}{01}There is an ornate cabinet here with five miniature dolls screwed into its top. Take a look?
+0296	{01}{01}A dressmaker's dummy. 
+0297	{01}{01}Perfume bottles. The tops are off, so everything inside evaporated a long time ago.
+0298	{01}{01}Hat boxes?
+0299	{01}{01}Some rusty scales. I don't need to know how much I weigh.
+0300	{01}{01}Nothing here except damp-smelling towels.
+0301	{01}{01}Jammed.
+0302	{01}{01}A rusty cabinet.
+0303	{01}{01}Broken cabinet.
+0304	{01}{01}There's nothing in there for me.
+0305	{01}{01}A shelf of junk.
+0306	{01}{01}Full of rubbish.
+0307	{01}{01}Old gas cylinders; no use to me.
+0308	{01}{01}Looks like this hasn't been used in a long time.
+0309	{01}{01}Can't see anything in the cabinet.
+0310	{01}{01}These tapes have patient names on them.{a0}None of my business.
+0311	{01}{01}Old audio tape reels.{a0}No use to me.
+0312	{01}{01}Reels of tape, spilling down onto the floor.
+0313	{01}{01}An old fashion magazine.
+0314	{01}{01}The sink is caked with dirt, but empty.
+0315	{01}{01}The lockers are rusted shut.
+0316	{01}{01}Looks jammed.
+0317	{01}{01}A broken shelf.
+0318	{01}{01}Can't see anything useful here.
+0319	{01}{01}Full of junk.
+0320	{01}{01}Old and rusted.
+0321	{01}{01}They won't open.
+0322	{01}{01}Seems jammed.
+0323	{01}{01}There's a strange depression carved into the door. Looking at it makes my head feel numb.
+0324	{01}{01}There is a small slot here for tickets.
+0325	{01}{01}I used the {01}{0c}theater ticket{01}{01}.
+0326	{01}{01}I can't see anything useful on the desk.
+0327	{01}{01}Nothing on the shelf that I can use.
+0328	{01}{01}This safety curtain is blocking the stage.
+0329	{01}{01}Looks like old theater programs. Not my scene.
+0330	{01}{01}Can't see anything useful on these shelves.
+0331	{01}{01}There may have been things here once. They're gone now.
+0332	{01}{01}Empty shelves.
+0333	{01}{01}Can't use any of this.
+0334	{01}{01}Looks like scripts or something. Nothing useful.
+0335	{01}{01}The drawers are jammed.
+0336	{01}{01}Papers and books. 
+0337	{01}{01}Nothing of interest in these drawers.
+0338	{01}{01}Looks like costumes the actors would put on.
+0339	{01}{01}Costumes for the play.
+0340	{01}{01}Pizza boxes, dried makeup... That's all I can see here.
+0341	{01}{01}A large theater spotlight. Label on it says 'A'. It's missing a bulb.
+0342	{01}{01}A large theater spotlight. Label on it says 'B'. It's missing a bulb.
+0343	{01}{01}A large theater spotlight. Label on it says 'C'. It's missing a bulb.
+0344	{01}{01}A large theater spotlight. Label on it says 'D'. It's missing a bulb.
+0345	{01}{01}A heavy switch labeled 'Curtain Control'.{0a}Should I pull it?
+0346	{01}{01}There's no power to the switch. Nothing happens.
+0347	{01}{01}Sounds like the curtain's come up.
+0348	{01}{01}A theater spotlight. The label says 'A' and it's fitted with a 125W bulb. Remove the bulb?
+0349	{01}{01}A theater spotlight. The label says 'A' and it's fitted with a 250W bulb. Remove the bulb?
+0350	{01}{01}A theater spotlight. The label says 'A' and it's fitted with a 500W bulb. Remove the bulb?
+0351	{01}{01}A theater spotlight. The label says 'A' and it's fitted with a 750W bulb. Remove the bulb?
+0352	{01}{01}A theater spotlight. The label says 'B' and it's fitted with a 125W bulb. Remove the bulb?
+0353	{01}{01}A theater spotlight. The label says 'B' and it's fitted with a 250W bulb. Remove the bulb?
+0354	{01}{01}A theater spotlight. The label says 'B' and it's fitted with a 500W bulb. Remove the bulb?
+0355	{01}{01}A theater spotlight. The label says 'B' and it's fitted with a 750W bulb. Remove the bulb?
+0356	{01}{01}A theater spotlight. The label says 'C' and it's fitted with a 125W bulb. Remove the bulb?
+0357	{01}{01}A theater spotlight. The label says 'C' and it's fitted with a 250W bulb. Remove the bulb?
+0358	{01}{01}A theater spotlight. The label says 'C' and it's fitted with a 500W bulb. Remove the bulb?
+0359	{01}{01}A theater spotlight. The label says 'C' and it's fitted with a 750W bulb. Remove the bulb?
+0360	{01}{01}A theater spotlight. The label says 'D' and it's fitted with a 125W bulb. Remove the bulb?
+0361	{01}{01}A theater spotlight. The label says 'D' and it's fitted with a 250W bulb. Remove the bulb?
+0362	{01}{01}A theater spotlight. The label says 'D' and it's fitted with a 500W bulb. Remove the bulb?
+0363	{01}{01}A theater spotlight. The label says 'D' and it's fitted with a 750W bulb. Remove the bulb?
+0364	{01}{01}There's no point me messing with that any more.
+0365	{01}{01}I used the {01}{0c}125W bulb{01}{01}.
+0366	{01}{01}I used the {01}{0c}250W bulb{01}{01}.
+0367	{01}{01}I used the {01}{0c}500W bulb{01}{01}.
+0368	{01}{01}I used the {01}{0c}750W bulb{01}{01}.
+0369	{01}{01}I used the {01}{0c}balcony corridor key{01}{01}.
+0370	{01}{01}I used the {01}{0c}Sun Totem{01}{01}.
+0371	{01}{01}I used the {01}{0c}Moon Totem{01}{01}.
+0372	{01}{01}NOT USED ANYMORE
+0373	{01}{01}I used the {01}{0c}stage office key{01}{01}.
+0374	{01}{01}I used the {01}{0c}lever{01}{01}.
+0375	{01}{01}On either side of the door are two deep, square holes. Set into the door is a plaque which reads:{0a}{0a}I am a child torn by twin desires,{0a}I stand before a door,{0a}My right hand calls to the light,{0a}My left hand ushers in darkness.
+0376	{01}{01}It's an empty square hole.
+0377	{01}{01}The Sun Totem's been placed in the hole. Remove it?
+0378	{01}{01}The Moon Totem's been placed in the hole. Remove it?
+0379	{01}{01}No need to take this with me.
+0380	{01}{01}A puppet. Looks like someone is in the middle of repairing it.
+0381	{01}{01}Was that a key in the middle of the floor? I should check it out.
+0382	{01}{01}Looks like some old costumes.
+0383	{01}{01}There's a bunch of outfits hanging on the rail.
+0384	{01}{01}Costumes. Not the kind of thing I'd ever wear.
+0385	{01}{01}Props and costumes. Nothing of much real use.
+0386	{01}{01}Nothing useful here.
+0387	{01}{01}Music stands. I can't play any instruments.
+0388	{01}{01}These appear to be cases for instruments.
+0389	{01}{01}Nothing of use.
+0390	{01}{01}Can't see much on the shelf.
+0391	{01}{01}Nothing here.
+0392	{01}{01}Scripts. Haven't got time to read this sort of thing.
+0393	{01}{01}Just some old clothes.
+0394	{01}{01}The door's jammed tight.
+0395	{01}{01}I think it's broken.
+0396	{01}{01}It doesn't work.
+0397	{01}{01}It won't turn on.
+0398	{01}{01}Nothing happens.
+0399	{01}{01}These books are in a language I don't recognize. The letters are strange.
+0400	{01}{01}Some of these books are strange to look at. 
+0401	{01}{01}These books are completely alien to me.
+0402	{01}{01}These books aren't even made of paper. 
+0403	{01}{01}I need to check the theater first.
+0404	{01}{01}The gate is locked tight. I'm not going to get it open.
+0405	{01}{01}I used the {01}{0c}motel key{01}{01}.
+0406	{01}{01}I didn't pick up the Motel key, even though that's logically impossible! What a fool I've been!
+0407	{01}{01}NOT USED
+0408	{01}{01}I used the {01}{0c}room 306 key{01}{01}.
+0409	{01}{01}I used the {01}{0c}Cleopatra key{01}{01}.
+0410	{01}{01}I used the {01}{0c}room 500 key{01}{01}.
+0411	{01}{01}I used the {01}{0c}ornamental dagger{01}{01}.
+0412	{01}{01}I used the {01}{0c}manager's office key{01}{01}.
+0413	{01}{01}I used the {01}{0c}wedding ring{01}{01}.{0a}Something dropped down on the key board behind me. 
+0414	{01}{01}The ring is set fast in the calendar now. I am done with the calendar.
+0415	{01}{01}With the date set, a secret compartment opens in the calendar. There is an empty circular depression.
+0416	{01}{01}The laundry machine won't open, but I can see something metal inside. The machine is turned off.
+0417	{01}{01}I put the {01}{0c}token{01}{01} in the laundromat. The machine turns on.
+0418	{01}{01}There's a heavy duty vice attached to the bench.
+0419	{01}{01}It's locked. {0a}"For trade inquiries please use the pedestrian entrance."
+0420	{01}{01}The door is wrapped up tight with police tape and the lock has been broken off. I can't open it.
+0421	{01}{01}I can see something shining, at the bottom of the pool.
+0422	{01}{01}Bug. Should not see this message.
+0423	{01}{01}It's too dark to see anything.
+0424	{01}{01}There's a rotary calendar here. Take a look?
+0425	{01}{01}A secret compartment has opened. There's a small circular depression.
+0426	{01}{01}There's nothing else in the machine, just some dirty clothes.
+0427	{01}{01}I smash open the {01}{0c}jeweled heart{01}{01}. There's something inside.
+0428	{01}{01}The heart has been broken. There's nothing useful left.
+0429	{01}{01}The bottom of the tub is broken and opens into the room below. Jump down?
+0430	{01}{01}There's a ragged hole here that drops down into the room below. Jump down?
+0431	{01}{01}There's a broken hole in the wall here. Go through?
+0432	{01}{01}There's a narrow slit cut into the door.
+0433	{01}{01}The phones are out.
+0434	{01}{01}Just trash.
+0435	{01}{01}Smells like something's been rotting in there for a long time. I'm not going to look through it.
+0436	{01}{01}Doesn't appear to work.
+0437	{01}{01}I don't need ice right now.
+0438	{01}{01}The gate's rusted shut.
+0439	{01}{01}The gate won't open.
+0440	{01}{01}The ice box is empty.
+0441	{01}{01}I don't have any change.
+0442	{01}{01}It's just full of trash.
+0443	{01}{01}A barrier's been erected here. I'm not going to get through it.
+0444	{01}{01}This gate is welded against the wall. I'm not going to get through it.
+0445	{01}{01}The gate is covered in police tape.
+0446	{01}{01}I don't think it's working.
+0447	{01}{01}I'm not thirsty right now.
+0448	{01}{01}I don't think it's connected.
+0449	{01}{01}Just some old books.
+0450	{01}{01}Nothing useful inside here.
+0451	{01}{01}Just an old closet.
+0452	{01}{01}Only junk in here.
+0453	{01}{01}Nothing that I can use.
+0454	{01}{01}Just another closet
+0455	{01}{01}There's nothing in here.
+0456	{01}{01}A shelf full of junk.
+0457	{01}{01}I don't need anything in here.
+0458	{01}{01}Someone really flipped out in here. The walls and ceiling are covered in writing and drawings. Hope the management took a deposit on this room.
+0459	{01}{01}More strange drawings. Some of them are scratched into the walls, others look like they're painted. 
+0460	{01}{01}It won't open.
+0461	{01}{01}Just some old magazines.
+0462	{01}{01}I've no use for these books.
+0463	{01}{01}It's not working.
+0464	{01}{01}Just some old flyers and a desk fan. Looks like it hasn't been used in a while.
+0465	{01}{01}I don't know any of the songs on this jukebox.
+0466	{01}{01}Empty bottles, covered in dust.
+0467	{01}{01}I only smoke when I'm happy.
+0468	{01}{01}I don't want a smoke right now.
+0469	{01}{01}The pinball machine isn't working.
+0470	{01}{01}I don't think it's switched on.
+0471	{01}{01}The pinball is broken.
+0472	{01}{01}It's been turned off for a while. I don't want to know how bad it smells in there.
+0473	{01}{01}This is one of those monsters. I think it's dead.
+0474	{01}{01}They don't appear to be working.
+0475	{01}{01}Lots of useless files.
+0476	{01}{01}Stuffed animals. This kinda thing makes me feel bad.
+0477	{01}{01}The lock's broken or jammed. It won't open.
+0478	{01}{01}The door's been locked. I can't get out this way.
+0479	{01}{01}Some white powder. I try to stay away from this type of thing.
+0480	{01}{01}A monster. Someone's gone to town on it with a knife.
+0481	{01}{01}That key I found... should I try it?
+0482	{01}{01}It's jammed shut. 
+0483	{01}{01}Something's blocking the door. I can't open it.
+0484	{01}{01}The door's jammed shut.
+0485	{01}{01}{01}{03}Another organ is in the way{01}{01}.
+0486	{01}{01}{01}{03}Remove the organ on top first{01}{01}.
+0487	{01}{01}The doll's eyes have opened.
+0488	{01}{01}She's been cut open and her eyes are... missing. What kind of monster could have done this?
+0489	{01}{01}The gurney is stained with blood. Some of it still seems wet.
+0490	{01}{01}There's something wrong with the mirror. The reflection isn't right...
+0491	{01}{01}There is a death mask on the door. Underneath is a plaque which reads:{0a}{0a}Even the blind have need of eyes{0a}If they wish to gaze at the future.
+0492	{01}{01}There is an oval depression in the door. Underneath is a plaque which reads:{0a}{0a}Even in this inferno{0a}From out of the flames{0a}I saw life born anew.
+0493	{01}{01}The doorway is sealed up tight. I can't get through.
+0494	{01}{01}What just happened? Why did she attack me?
+0495	{01}{01}I can't leave. What's the deal with that mirror?
+0496	{01}{01}It's a plastic anatomy doll that's missing some parts.{0a}Take a look?
+0497	{01}{01}All the organs have been returned to the doll.
+0498	{01}{01}It's a medical icebox with a lock.{0a}Take a look?
+0499	{01}{01}The box opens with a click.
+0500	{01}{01}Someone has written on the X-Ray. It says {01}{09}"Sarah, 19"{01}{01}.
+0501	{01}{01}Someone has written on the wall. It says {01}{09}"Lucy, 23"{01}{01}.
+0502	{01}{01}Someone has written on the door. It says {01}{09}"Amy, 31"{01}{01}.
+0503	{01}{01}The cistern lid is loose.{0a}Remove it?
+0504	{01}{01}There's something inside the cistern.
+0505	{01}{01}There's something inside the box.
+0506	{01}{01}There's a light box on the wall. Turn it on?
+0507	{01}{01}Temp, will you open box (delete me)
+0508	{01}{01}Just some magazines.
+0509	{01}{01}I don't have any change. Who would I call, anyway?
+0510	{01}{01}I think they've been disconnected.
+0511	{01}{01}A notice about a recent fundraising event.
+0512	{01}{01}Some public information notices about accidents at work.
+0513	{01}{01}A dirty gurney. Someone just left it here? 
+0514	{01}{01}Looks like there's building work going on. The place needs a fresh coat of paint.
+0515	{01}{01}A medicine cabinet. Full of drugs I don't recognize.
+0516	{01}{01}Medical charts. They mean nothing to me.
+0517	{01}{01}There's nothing behind the screen.
+0518	{01}{01}Nothing to see. Just a filthy toilet.
+0519	{01}{01}A bunch of cleaning products. Not that anyone seems to do much cleaning around here.
+0520	{01}{01}Doesn't sound like anyone's in there.
+0521	{01}{01}Medical books. Nothing out of the ordinary that I can see.
+0522	{01}{01}There's nothing else of interest on the desk.
+0523	{01}{01}Some flyers for medical treatments.
+0524	{01}{01}Nothing in the sink.
+0525	{01}{01}A bunch of medical pamphlets: tropical diseases, baby vitamins, flu shots, that kind of stuff.
+0526	{01}{01}Someone's written 'breathe' on the box. Takes all sorts, I guess.
+0527	{01}{01}Someone locked the door. I'll have to find another way out.
+0528	{01}{01}I don't have time to look at books!
+0529	{01}{01}I haven't got time to look at these!
+0530	{01}{01}There's no time to look at books!
+0531	{01}{01}A strange symbol. Looking at it makes my head hurt.
+0532	{01}{01}Could the fire have been started by all these candles?
+0533	{01}{01}I've got no time for this!
+0534	{01}{01}There's no time to look at these!
+0535	{01}{01}I can't stop to look at books!
+0536	{01}{01}Just some meat.
+0537	{01}{01}Another piece of meat.
+0538	{01}{01}The fridge is empty,
+0539	{01}{01}There's nothing inside.
+0540	{01}{01}Nothing of interest in here.
+0541	{01}{01}Just files and invoices.
+0542	{01}{01}The stuff in my head is bad enough... I don't need any of these.
+0543	{01}{01}Other people's jokes don't make me laugh.
+0544	{01}{01}I don't have time to read any of these.
+0545	{01}{01}Rows and rows of books.
+0546	{01}{01}I can't stop to look at these books.
+0547	{01}{01}Nothing interesting written here.
+0548	{01}{01}Just another book.
+0549	{01}{01}I've got no time for these.
+0550	{01}{01}I can't use any of this.
+0551	{01}{01}Nothing on the shelves that I can use. It's all out of date.
+0552	{01}{01}All the dates have expired, so... I'd rather not drink these.
+0553	{01}{01}Full of old bottles.
+0554	{01}{01}There's nothing of interest on the counter.
+0555	{01}{01}Just some old boxes.
+0556	{01}{01}Looks like theses boxes are empty.
+0557	{01}{01}I used to love this brand of ice cream when I was a kid. When I grew up I lost my sweet tooth.
+0558	{01}{01}Looks like moths.
+0559	{01}{01}The fire escape has been sealed off.
+0560	{01}{01}She's been gutted and split open. 
+0561	{01}{01}Doctor's Diagnosis
+0562	{01}{01}{01}{09}Preliminary Diagnosis:{01}{02}{0a}{0a}Third degree burns, patient is unconscious... Something has prevented damage spreading to the internal organs... Tissue damage is limited to the epidermis and extremities of limbs...{0a}{0a}How is this possible?
+0563	{01}{01}Hurried Note
+0564	{01}{01}{01}{09}(Parts of this note are obscured.){01}{02}{0a}{0a}Worry not. {04}{02}Kaufmann has hidden her in the basement.{04}{01}. I have used the {04}{02}Flauros{04}{01} to contain her power. No one will come to her aid. {04}{02}Each of you has{04}{01} one of the five{04}{02}pieces{04}{01}. Hide them. Protect them.{0a}{0a}{04}{02}Dahlia{04}{01}
+0565	{01}{01}Staff Memo
+0566	{01}{01}To all staff,{0a}{0a}It is forbidden to enter my office unaccompanied until further notice.{0a}{0a}Dr. Kaufmann.
+0567	{01}{01}Student's Mnemonic
+0568	{01}{01}Having trouble with your anatomy class? Find that getting them out is much easier than putting them back in? Just remember this easy mnemonic:{0a}{0a}{01}{03}In{01}{01}side {01}{03}St{01}{01}evie, {01}{03}li{01}{01}ttle {01}{03}He{01}{01}nry {01}{03}lu{01}{01}rks.
+0569	{01}{01}Bloody Note
+0570	{01}{01}This heart of mine troubles me with its trembling! To still it I have put it on ice and locked it away.{0a}{0a}(Remember, the three beauties who cause it to pump so are the key, 'age before beauty').
+0571	{01}{01}Public Notice
+0572	{01}{01}UNDER CONSTRUCTION{0a}Currently the second and third floors of the hospital are undergoing renovations. At this time they are closed to patients and visitors. Work continues in earnest and the hospital management thanks you for your continued cooperation as we try to minimize the disruption.{0a}We estimate the construction will be completed within six months.{0a}{0a}The restructuring of the third floor will almost double our capacity for inpatients and introduce cleaner, more modern facilities.{0a}{0a}Here at Alchemilla, the quality of care we provide to you, our valued patient, is of the utmost importance.{0a}{0a}Dr. Philips{0a}Chairman of Alchemilla Board
+0573	{01}{01}Staff Notice
+0574	{01}{01}CONSTRUCTION!{0a}As you know, the renovations to the upper floors have run into problems! The plumbing leak and substandard materials used have forced us to close off the third floor until further notice. We are reminded of the familiar adage: 'you get what you pay for!' We now face six more months of work, reducing our capacity for the coming year. We will have to cut spending on inpatient care and consultancy fees by 50%. {0a}{0a}Therefore we ask doctors to refrain from committing patients and encourage home stays instead. Unless they're dying in your arms, don't book 'em in!{0a}STAFF PARTY!{0a}Worry not! The staff party is still on (our recreation budget is locked away where no one can tamper!) Everyone meet at Annie's Bar at 8pm on Friday. Alcohol (medicinal of course!) and food will be free. Arrive early to grab a trainee nurse: they go quick!
+0575	{01}{01}Patient Notes
+0576	{01}{01}The new patient, Helen Grady arrived today. I was surprised to see how calm and well behaved she was. {0a}{0a}After reading her notes, I was worried that she might be something of a handful.{0a}{0a}{0a}The woman is in complete denial and claims no recollection of the incident which saw her committed. Indeed, she has asked repeatedly to be allowed to see her son! I have agreed with her husband that it is best that the boy be kept away from his mother.{0a}{0a}{0a}While there seems little hope for any long term recovery, I look forward to spending some time with Mrs. Grady -- her condition is most fascinating.
+0577	{01}{01}Police Report
+0578	{01}{01}Attending Officer's Report.{0a}11/4/1959. INo: VA4545-10.{0a}{0a}When I arrived at the {04}{02}Grady{04}{01} House, the ambulance was already at the scene. The neighbor Mr. Bryant (who first called in the incident) had restrained Mrs. {04}{02}Grady{04}{01} and the paramedics were tending to the child. The husband, Mr. {04}{02}Grady{04}{01} had not yet arrived back from his place of work.{0a}{0a}Thanks to Bryant's intervention, the gas had been turned off and the house ventilated -- however, there was still a strong smell and I deemed it necessary to call the fire department as a precaution.{0a}{0a}It appeared that Mrs. {04}{02}Grady{04}{01} had attempted to gas herself and her child. When I spoke to the suspect, Mrs. {04}{02}Grady{04}{01}, she was uncooperative and seemed enraged. She demanded I release her so she could "kill the devil child." She was clearly not in control of her mind.{0a}{0a}Mr. Bryant commented that several times in the previous weeks, he had heard loud arguments and screams from the house. He said "Helen has not been well for a while."
+0579	{01}{01}Status Report, 3/12/1960
+0580	{01}{01}Status Report, 3/12/1960{0a}Patient: Mrs. {04}{02}Helen Grady{04}{01}{0a}Age: 34{0a}Examining Doctor: Dr. Harris{0a}{0a}Notes: Patient continues to harbor strong fantasies and a violent persecution complex. Her moods can swing from calm to violent aggression in a short time, which has led to her being moved to the seclusion wing. She becomes particularly violent during the occasional visits from her husband, demanding that she be allowed to see their child.{0a}{0a}We have taken the precautionary step of adding Epolineum to Mrs. {04}{02}Grady's{04}{01} medication to prevent her violent outbursts. I don't like having to sedate patients, but when she is aggressive, {04}{02}Helen{04}{01} is as much of a danger to herself as to her visiting husband and the staff.
+0581	{01}{01}Status Report, 2/7/1961
+0582	{01}{01}Status Report, 2/7/1961{0a}Patient: Mrs. {04}{02}Helen Grady{04}{01}{0a}Age: 35{0a}Examining Doctor: Dr. Harris{0a}{0a}Notes: Mrs. {04}{02}Grady's{04}{01} condition has degraded dramatically in the last few months. Her fantasies of a "mirror world" have become more acute, and she spends more and more time in an apparent catatonic state. She claims that during this time she is in the "other world."{0a}{0a}She now has full recollection of her attack on her son, but shows no remorse for the incident. Indeed she seems proud, almost smug of her attempted filicide! I am worried that this behavior could be a side effect of the increased doses of Epolineum that the patient has been prescribed. I have asked for her dose to be halved and hope to see positive results shortly.
+0583	{01}{01}Duty Log, Female Seclusion
+0584	{01}{01}9:30am: Administered medication to the seclusion patients. There were no incidents.{0a}{0a}11:46am: Accompanied Dr. Harris on his morning rounds. No incidents of note.{0a}{0a}3pm: Visit for Mrs. {04}{02}Grady{04}{01} from her husband. Took her into the empty dorm room so she would feel more comfortable.{0a}{0a}3:46pm: Mrs. {04}{02}Grady{04}{01} has attacked her husband. During the visit she had a violent episode and attempted to throttle Mr. {04}{02}Grady{04}{01}. She was heard screaming by myself and the attending orderly and we managed to restrain her--though it took three of us, despite her being a female of slight build. {0a}{0a}After we sedated her and took her back to her room, Dr. Harris examined her and decided to reinstate her dose of Epolineum.{0a}{0a}{0a}5:12pm: After the incident with Mrs. {04}{02}Grady{04}{01} the other patients have become agitated and restless. Harris has ordered a lock-down.
+0585	{01}{01}Clipboard
+0586	{01}{01}medications (do not mess up!){0a}{0a}room 1: {01}{03}trizanthium{01}{01}{0a}room 2: {01}{07}natium{01}{01}{0a}room 3: {01}{04}oporium{01}{01}{0a}room 4: {01}{05}salorium{01}{01}{0a}room 5: {01}{07}natium{01}{01}.{0a}{0a}(remember, pills only for patients!){0a}
+0587	{01}{01}Amber Incident Report
+0588	{01}{01}AMBER INCIDENT REPORT{0a}Reporting Staff Member: Simons{0a}{0a}Incident Description: A male child entered into the sanitarium unchallenged and got through into female seclusion (doors were left unlocked). He entered Female Seclusion Room 5, at which point Orderly Michaels observed him and alerted me. The boy was the child of a visitor and was taken away by his father.{0a}{0a}Failures: The doors to Female Seclusion were left unlocked by the orderly, and the staff in the lobby failed to notice the boy when he arrived in the mezzanine area.{0a}Recommendation: All staff to be reminded of the importance of locking ward doors. Review of staff to be conducted by duty managers.
+0589	{01}{01}'Magpie' note
+0590	{01}{01}Dr. Harris,{0a}{0a}Our 'magpies' have been at it again. This time they SWALLOWED the damn keys for Archives and the Basement. {0a}{0a}Don't worry... Gary has taken Mr. Magpie to the TB Ward and I'm taking Mrs. Magpie to hydrotherapy. We'll make them spit the keys out!{0a}{0a}This job would be great if it weren't for the patients!{0a}{0a}Clem
+0591	{01}{01}Child's Drawing
+0592	{01}{01}Daddy, Momma & Travis.
+0593	{01}{01}The floor is broken up here. Looks like I can drop through to the lower level. {0a}Jump down?
+0594	{01}{01}Handwritten Diary Page
+0595	{01}{01}{01}{07}Monday: {01}{01}Rehearsals -- fantastic. New costumes -- fantastic. All in all -- fantastic!{0a}{0a}{01}{07}Tuesday:{01}{01} Strange day. Girl snuck into theater today. Playing hooky no doubt! Took pity, let her sit and watch the run through. Very useful feedback -- terrified by Caliban (good job costume dept!)! Seemed to dislike Prospero intensely. Proceedings brought to premature end by poor Tony getting a shocking nosebleed during Act I, Scene 2. Will continue tomorrow! 
+0596	{01}{01}Scribbled Diary Page
+0597	{01}{01}{01}{07}Friday: {01}{01}Awful day. The worst news. Tony died today. Can't believe how quickly this happened. Such a dear friend... He just got worse and worse. The doctors are as clueless as we are. Have cancelled the first week of performances. Will wait till next week to decide whether we cancel the whole show. Awful.
+0598	{01}{01}Production Notes
+0599	{01}{01}Jack says the town is located on old "spiritual ground"... hopefully we will be blessed!!!{0a}{0a}Prospero = Shaman. Feathers, smoke, totemic magic.{0a}{0a}Ariel = Air spirit. Flight? Projection? Puppets?{0a}{0a}Caliban = Buffalo spirit. Skins + Berkoffian performance. On all fours. Poor actor!
+0600	{01}{01}Technician's Warning
+0601	{01}{01}Peter,{0a}{0a}Good luck getting ANYTHING to work. This place was wired by IDIOTS! The safety curtain is on the same circuit as the spotlights. If a light blows, the whole thing fuses and you can't move the {01}{0c}safety curtain{01}{01}. IDIOTS. Safety inspectors would blow a fuse (literally!) if they saw this stuff. Wouldn't happen in the city! See you when I get back.{0a}{0a}Eric{0a}
+0602	{01}{01}Wiring Notes
+0603	{01}{01}Peter,{0a}{0a}As expected, the spotlights are as SCREWY as the rest of this place. Finally got them working. My trusty voltmeter saved the day again! Remember, you need ALL the lights working, otherwise the circuit blows. Throwing the circuit breaker gets old FAST. Here are my notes: {0a}{0a}{0a}B has to be half the wattage of D.{0a}A + B must not exceed C.{0a}Wattage of D must not exceed A.{0a}{0a}Break a leg!!{0a}{0a}Eric{0a}
+0604	{01}{01}Sketches
+0605	{01}{01}Since what happened to Tony, I've dreamt about HIM more and more! THE BUTCHER!{0a}{0a}He looks just like that monster, the executioner!{0a}{0a}Now I've seen him when I'm awake. He's at my motel! It's HIM I swear it!
+0606	{01}{01}Theater Program page
+0607	{01}{01}...folk legends. Take the costume for {01}{03}Caliban{01}{01}. The designer Bill Ortega {01}{03}has{01}{01} taken a native buffalo spirit, fusing {01}{03}it{01}{01} with the stark, iconic images seen {01}{03}in{01}{01} the ancient local cult of Valtiel. {01}{03}His{01}{01} set design for its dark, cavernous {01}{03}cave{01}{01} was inspired by 'Owl Cave', a local historical--
+0608	{01}{01}"Manifestations of Delusions"
+0609	{01}{01}CHAPTER 3:{0a}{0a}MANIFESTATIONS OF DELUSIONS{0a}{0a}...phenomena such as telekinesis ("poltergeists" to use a popular term) often occur. These seem frequent alongside negative emotions (fear, worry, or stress) suggesting it is these emotions which are manifesting as external energy with physical effects.{0a}{0a}Nightmares are especially strong triggers. In all cases, these phenomena arise from children or adolescents and the overwhelming majority of subjects are female.
+0610	{01}{01}"Astral Projection: The Perfect Assassin?"
+0611	{01}{01}...amongst the tribes who have developed the ability to control and focus their projections, there exists one that is feared throughout the whole community.{0a}{0a}Their shaman claims to have the ability to kill with thought alone, projecting his desire to kill into the body of the victim...
+0612	{01}{01}"An Id Torn in Two"
+0613	{01}{01}Throughout these case studies, we see the victims' brains struggling to cope with the conflict caused by abuse at the hands of a loved one. In many of the cases, the abused child's self appears to split in two.{0a}{0a}One personality continues to love the abuser and seeks their approval. The other personality contains all the rage and anger of the abused and in many ways becomes a mirror of the abuser, seeking to inflict its pain on others. Sadly, it is often this self that becomes dominant.
+0614	{01}{01}"Repression and Coercion"
+0615	{01}{01}Chapter 2: Repression & Coercion.{0a}{0a}It is a fact well known to intelligence services and military agents: the more controlled a mind, the more a mind censors itself, the easier it is for outside influences to take hold and piggyback such mental programming.{0a}This is why these agencies choose for their pawns those individuals most compromised by their own mental issues.
+0616	{01}{01}Guest Register
+0617	{01}{01}(The pages are torn out, leaving only one entry.){0a}{0a}{01}{0c}Room 500{01}{01}{0a}Name: Mr. R Grady{0a}Other occupants: Son{0a}Reason for visit? Business/Pleasure.{0a}Check in Date: {04}{02}6/11/1961{04}{01}.
+0618	{01}{01}"To my beloved wife"
+0619	{01}{01}To my beloved wife,{0a}{0a}I miss you so intensely. Watching them take you away was like a dagger through my heart. It had to be done, but now I am so alone.{0a}{0a}At the doctor's advice, I told Travis you were dead. Maybe it would be better if you were... Helen, will you ever come back to me?{0a}{0a}Yours forever, Richard
+0620	{01}{01}"To my absent wife"
+0621	{01}{01}To my absent wife,{0a}{0a}I know that whatever hell I am enduring, yours is worse. But dammit, this is so hard. It's like you're dead but you're not. The Helen I loved is gone, but your body is still here! I have slept alone for the last two years. I've become so bitter, so sleazy! I'm no father to Travis. I can't even look at him some days. What is it going to take to bring you back?{0a}{0a}Yours forever, Richard
+0622	{01}{01}"To a ghost"
+0623	{01}{01}To a ghost,{0a}{0a}There's no pretending now is there? We both know that thing at Cedar Grove isn't you. You died the day you tried to kill our son.{0a}{0a}When I brought your gift today, when you smashed it, I finally woke up.{0a}{0a}I've been dreaming all these years, kidding myself that you'll be right one day. The Helen I loved is dead.{0a}{0a}I try to remember how it was, all those years ago today when we got married. I can't remember anymore. I'm tired. I know Travis will be fine on his own. I'm going to see you again, Helen.{0a}{0a}Yours in forever, Richard
+0624	{01}{01}Duty Log
+0625	{01}{01}Christ alive. One of the cleaners called me over, said there was something wrong with room 500. {0a}{0a}Door was open. Inside, sweet Jesus! Stench made me puke. The kid, man. The kid! Just stood there. They said he'd been there for ten hours! I ended up crying my eyes out. Shit like this shouldn't happen. The police have got the room locked up for now, I'm going home.
+0626	{01}{01}Janitor's Note
+0627	{01}{01}Juana,{0a}{0a}One of the laundry machines is busted again. The weird guy in Cleopatra was shouting at me, wanted me to go fix it but I couldn't leave the reception.{0a}{0a}Anyhow, after getting all red in the face, the fella just ran off. Hasn't been back since--up and drove off.{0a}{0a}Could you take a look at the machine when you get a minute? Stick a token in it and do the reset thing (Set it to low spin, 60 wash, drain then pre-rinse).{0a}{0a}Put anything you find inside in the lost and found. {0a}{0a}Thanks, Ed
+0628	{01}{01}Washing Machine Manual
+0629	{01}{01}Guide to symbols:{0a}{0a}{03}{08} Pre-Rinse{0a}{03}{09} Soak{0a}{03}{0a} 30 degree wash{0a}{03}{0b} 60 degree wash{0a}{03}{0c} 90 degree wash{0a}{03}{0d} Low Spin{0a}{03}{0e} Heavy Spin{0a}{03}{0f} Drain
+0630	{01}{01}Telegram
+0631	{01}{01}Kaufmann,{0a}{0a}We are almost ready, but must hurry! I sense our hold on her power weakening. I worry that she draws strength from the core I hold. I will leave it behind, hidden in this darkness. It will be safe. Grady is unlikely to return here, he is still running around town chasing after ghosts. He is ignorant of the bigger picture anyway.{0a}{0a}I will wait for you here, finish your business and join me soon!{0a}{0a}The time approaches, the Flauros is shattered, thrown to the wind, and her will is still buried deep in a sleeping mind. This time the ritual WILL succeed!{0a}{0a}Dahlia
+0632	{01}{01}"Overdose" photo
+0633	{01}{01}Cause of death OVERDOSE.
+0634	{01}{01}"Snakebite" photo
+0635	{01}{01}Cause of death SNAKEBITE.
+0636	{01}{01}"Shotgun" photo
+0637	{01}{01}Cause of death SHOTGUN.
+0638	{01}{01}"Broken Heart" photo
+0639	{01}{01}Cause of death BROKEN HEART.
+0640	{01}{01}"Stabbing" photo
+0641	{01}{01}Cause of death STABBING.
+0642	{01}{01}Note on the Ritual
+0643	{01}{01}...it is believed a being of tremendous mental energy may become a vessel capable of giving birth to Samael, the God worshipped by this cult.{0a}{0a}Samael's arrival will bring forth Paradise on Earth.{0a}{0a}(Something has been added in the margin.){0a}{0a}Given that this vessel is to be molded with "suffering and pain," just what kind of God and what kind of 'paradise' would result?
+0644	{01}{01}Shop Note
+0645	{01}{01}Andy,{0a}{0a}Everything is fine. Sold lots of books! Have locked your keys in the cash register (the combination is your {01}{0c}Greenfield apartment{01}{01} number). Hope you enjoyed your vacation!{0a}{0a}Dharma
+0646	{01}{01}Newspaper
+0647	{01}{01}(Someone has written on the newspaper.){0a}{0a}WHY ARE YOU HELPING HER, TRAVIS? DID YOU SEE THAT NURSE?
+0648	{01}{01}Napkin
+0649	{01}{01}(Someone has written on the napkin.){0a}{0a}SOMEONE MADE A HOLE.{0a}{0a}GO HOME TRAVIS.
+0650	{01}{01}Paper Bag
+0651	{01}{01}(Someone has written on the paper bag.){0a}{0a}THIS IS NOT YOUR TOWN.
+0652	{01}{01}Parking Ticket
+0653	{01}{01}(Someone has written on the ticket.){0a}{0a}SHE'S ASLEEP NOW.
+0654	{01}{01}Till Receipt
+0655	{01}{01}(Someone has written on the receipt.){0a}{0a}HERE COMES A CANDLE TO LIGHT YOU TO BED{0a}HERE COMES THE BUTCHER TO CHOP OFF YOUR HEAD.
+0656	{01}{01}Yellowed Page
+0657	{01}{01}Flauros Device: Origin unknown.{0a}{0a}The device is first mentioned in the poetry of Chang Ch'ien, an advisor to members of the early Han dynasty. In one of his tracts, Chang Ch'ien jokes he trapped a demon inside his 'three sided box'. {0a}{0a}When Chang Ch'ien died in a terrible fire at the imperial palace in 115 BC, the device appeared lost.{0a}{0a}It was later rumored to be in possession of Lutheran monk M. G. Lewis, who in 1796 spoke of its ability to control and amplify thought. It was Lewis who linked it not to a demon, but to God himself, claiming it was a weapon left by angels as a force for good. 
+0658	{01}{01}Closed Case
+0659	{01}{01}...because of the concerns expressed by her teacher, it was important to fully look into the matter. The officer spoke with Mrs. Gillespie and her daughter and saw no evidence of any neglect or abuse. He felt that Mrs. Gillespie seemed a model parent, bringing her daughter up in a strict, religious household.{0a}Further, in order to satisfy the complainant's request, we had Dr. Kaufmann from Alchemilla speak with the girl alone. He said that any talk of rituals or cults were simple "childish fantasies." Mrs. Gillespie's only crime, in his eyes, was having read her daughter too many fairy tales. We have closed the complaint.
+0660	{01}{01}Altered Police Report
+0661	{01}{01}Looks like the fire started on the second floor and spread to the rest of the house. Circumstances are suspicious.{0a}{0a}(Someone has ruled through this text and added a new paragraph.){0a}{0a}Seems there was an accident in the basement. An old boiler caused a fire that spread to the rest of the building. The cause would appear to be accidental. {0a}{0a}(The report continues, unaltered.){0a}{0a}Despite fire fighter's best efforts, it spread to the surrounding houses.{a0}Alessa{a0}Gillespie was declared dead at the scene by Dr. Kaufmann. Her body was identified by her mother. Death Certificate and coroner's report will be forthcoming.
+0662	{01}{01}Portable TV
+0663	{01}{01}a {01}{0d}portable TV{01}{01}
+0664	{01}{01}A portable TV.
+0665	{01}{01}A heavy, portable TV. Not so portable without a socket.
+0666	{01}{01}Typewriter
+0667	{01}{01}a {01}{0d}typewriter{01}{01}
+0668	{01}{01}A handy typewriter.
+0669	{01}{01}A Teddington 1500 portable typewriter. In good working order.
+0670	{01}{01}Toaster
+0671	{01}{01}a {01}{0d}toaster{01}{01}
+0672	{01}{01}A metal toaster.
+0673	{01}{01}Has two wide slots for bread, muffins, and pancakes. Made of pretty tough metal.
+0674	{01}{01}My battered clip-on flashlight.
+0675	{01}{01}With my job, I spend a lot of time on the road at night. When something goes wrong, it's good to have this thing strapped to my jacket.
+0676	{01}{01}Radio
+0677	{01}{01}A cheap pocket radio.
+0678	{01}{01}Handy when I'm unloading my rig. Tunes tend to keep the boredom at bay.
+0679	{01}{01}Hammer
+0680	{01}{01}a {01}{0d}hammer{01}{01}
+0681	{01}{01}A weighty sledgehammer.
+0682	{01}{01}A long, heavy sledgehammer. This thing could cause some damage.
+0683	{01}{01}Toolbox
+0684	{01}{01}a {01}{0d}toolbox{01}{01}
+0685	{01}{01}A large metal toolbox
+0686	{01}{01}A large metal toolbox. Feels heavy, and could make a nice dent.
+0687	{01}{01}Table Lamp
+0688	{01}{01}a {01}{0d}table lamp{01}{01}
+0689	{01}{01}A heavy tableside lamp.
+0690	{01}{01}The lamp has a heavy, sturdy base.
+0691	{01}{01}Great Sword
+0692	{01}{01}the {01}{0d}Great Sword{01}{01}
+0693	{01}{01}Katana
+0694	{01}{01}a {01}{0d}katana{01}{01}
+0695	{01}{01}A sharp-edged steel blade.
+0696	{01}{01}A powerful weapon with a sharp and deadly blade.
+0697	{01}{01}Meat Hook
+0698	{01}{01}a {01}{0d}meat hook{01}{01}
+0699	{01}{01}A sharp meat hook.
+0700	{01}{01}A cruel-looking curved meat hook, lethally sharp and ideal for piercing flesh.
+0701	{01}{01}Jagged Wood
+0702	{01}{01}some {01}{0d}jagged wood{01}{01}
+0703	{01}{01}A jagged piece of timber.
+0704	{01}{01}A length of timber, jagged and broken at one end. Not exactly lethal, but better than nothing.
+0705	{01}{01}Filing Cabinet
+0706	{01}{01}a {01}{0d}filing cabinet{01}{01}
+0707	{01}{01}A small metal filing cabinet.
+0708	{01}{01}A manageable filing cabinet with sharp edges. It's empty.
+0709	{01}{01}Alcohol Bottle
+0710	{01}{01}an {01}{0d}alcohol bottle{01}{01}
+0711	{01}{01}A medicinal alcohol bottle.
+0712	{01}{01}A bottle for medicinal alcohol. Made with thick, heavy glass. It's empty.
+0713	{01}{01}Kitchen Knife
+0714	{01}{01}a {01}{0d}kitchen knife{01}{01}
+0715	{01}{01}A steel chopping knife.
+0716	{01}{01}Nicely sharpened, this steel blade looks like the kind of thing you'd expect to see in a decent chef's set.
+0717	{01}{01}Iron Weights
+0718	{01}{01}some {01}{0d}iron weights{01}{01}
+0719	{01}{01}A stack of iron weights.
+0720	{01}{01}They use these to tie down scenery and other theater stuff. Very heavy.
+0721	{01}{01}Razor
+0722	{01}{01}a {01}{0d}razor{01}{01}
+0723	{01}{01}An old-fashioned cut throat razor.
+0724	{01}{01}Whenever I get a haircut, the barber uses one of these. Don't shave much, myself. The job doesn't exactly require the clean-cut look.
+0725	{01}{01}Scalpel
+0726	{01}{01}a {01}{0d}scalpel{01}{01}
+0727	{01}{01}A stainless steel scalpel.
+0728	{01}{01}A surgeon's scalpel. Very short but incredibly sharp.
+0729	{01}{01}Drip Stand
+0730	{01}{01}a {01}{0d}drip stand{01}{01}
+0731	{01}{01}A sturdy metal drip stand.
+0732	{01}{01}The kind of stand they hang IVs from in hospitals. Has a surprising heft to it.
+0733	{01}{01}Meat Cleaver
+0734	{01}{01}a {01}{0d}meat cleaver{01}{01}
+0735	{01}{01}A sharp cleaver.
+0736	{01}{01}With a sturdy wooden grip, this is a powerful tool for cutting through meat and bone.
+0737	{01}{01}Wrench
+0738	{01}{01}a {01}{0d}wrench{01}{01}
+0739	{01}{01}A heavy duty wrench.
+0740	{01}{01}Looks like the axel wrenches they use back at the truck depot.
+0741	{01}{01}Crate
+0742	{01}{01}a {01}{0d}crate{01}{01}
+0743	{01}{01}A plastic crate.
+0744	{01}{01}Looks like this used to carry bottles or something.
+0745	{01}{01}Poker
+0746	{01}{01}a {01}{0d}poker{01}{01}
+0747	{01}{01}A sharp poker.
+0748	{01}{01}The kind you use to stoke a fire. It's pretty heavy and sports a sharp tip.
+0749	{01}{01}Pool Cue
+0750	{01}{01}a {01}{0d}pool cue{01}{01}
+0751	{01}{01}A long pool cue.
+0752	{01}{01}Long, slender pool cue. Looks like it's seen plenty of action.
+0753	{01}{01}Fire Axe
+0754	{01}{01}the {01}{0d}Fire Axe{01}{01}
+0755	{01}{01}A long-handled fire axe.
+0756	{01}{01}Long-handled axe, very strong, very powerful and wickedly sharp.
+0757	{01}{01}Shovel
+0758	{01}{01}a {01}{0d}shovel{01}{01}
+0759	{01}{01}A short-handled shovel.
+0760	{01}{01}Short-handled shovel, good for maiming bodies and then for burying them
+0761	{01}{01}Meat Gaff
+0762	{01}{01}a {01}{0d}meat gaff{01}{01}
+0763	{01}{01}Long-handled meat gaff.
+0764	{01}{01}A long pole with an evil-looking spike and hook tethered to the end.
+0765	{01}{01}Broken Pole
+0766	{01}{01}a {01}{0d}broken pole{01}{01}
+0767	{01}{01}A splintered handle or pole.
+0768	{01}{01}Fairly long, might come in handy for keeping things at a distance.
+0769	{01}{01}Screwdriver
+0770	{01}{01}a {01}{0d}screwdriver{01}{01}
+0771	{01}{01}A standard flathead screwdriver.
+0772	{01}{01}Standard screwdriver. I got a set of these in the truck.
+0773	{01}{01}Great Cleaver
+0774	{01}{01}the {01}{0d}Butcher's Cleaver{01}{01}
+0775	{01}{01}A giant butcher's cleaver.
+0776	{01}{01}The favored tool of 'the Butcher.'
+0777	{01}{01}Light Stand
+0778	{01}{01}a {01}{0d}light stand{01}{01}
+0779	{01}{01}A broken light stand.
+0780	{01}{01}This light stand is missing its bulb and shade, but looks fearsome enough.
+0781	{01}{01}Pitchfork
+0782	{01}{01}a {01}{0d}pitchfork{01}{01}
+0783	{01}{01}A four-pronged pitchfork.
+0784	{01}{01}This pitchfork has four sharp iron prongs and a handy grip.
+0785	{01}{01}Spear
+0786	{01}{01}a {01}{0d}spear{01}{01}
+0787	{01}{01}A spear with a sharp head.
+0788	{01}{01}This is no prop. It's a genuine, sharp spear made for hurting.
+0789	{01}{01}A heavy, metal toolbox.
+0790	{01}{01}It's empty and the lock is busted, but it's still a hefty weapon with sharp edges.
+0791	{01}{01}Moon Gauntlets
+0792	{01}{01}the {01}{0d}Lonely Moon Gauntlets{01}{01}
+0793	{01}{01}A pair of powerful, mystical gauntlets.
+0794	{01}{01}Engraved in the metal of the gauntlets is the phrase "watched over by the lonely moon."
+0795	{01}{01}Unarmed
+0796	{01}{01}Redeemer
+0797	{01}{01}the {01}{0d}Redeemer{01}{01}
+0798	{01}{01}A heavy, reliable six shooter. Has "Redeemer" etched on its side.
+0799	{01}{01}A classic .44 hand cannon, this provides more than enough bang for my buck.
+0800	{01}{01}Service Pistol
+0801	{01}{01}the {01}{0d}service pistol{01}{01}
+0802	{01}{01}A battered service pistol.
+0803	{01}{01}This US Army surplus weapon is well used but still as smooth as ever.
+0804	{01}{01}Target Pistol
+0805	{01}{01}the {01}{0d}target pistol{01}{01}
+0806	{01}{01}A light target pistol.
+0807	{01}{01}The kind of thing you see on a gun range. It stings more than it bites.
+0808	{01}{01}Shotgun
+0809	{01}{01}the {01}{0d}shotgun{01}{01}
+0810	{01}{01}A wide-bore shotgun.
+0811	{01}{01}This shotgun only takes two cartridges at a time, but at close range it's unstoppable.
+0812	{01}{01}Hunting Rifle
+0813	{01}{01}the {01}{0d}hunting rifle{01}{01}
+0814	{01}{01}A sleek hunting rifle.
+0815	{01}{01}This breech loader is slow to fire but powerful, with a long range.
+0816	{01}{01}Assault Rifle
+0817	{01}{01}the {01}{0d}assault rifle{01}{01}
+0818	{01}{01}A fully automatic assault rifle.
+0819	{01}{01}This knock-off of an iron curtain rifle has a large magazine that holds 18 bullets.
+0820	{01}{01}Service Ammo
+0821	{01}{01}some {01}{0e}service pistol ammo{01}{01}
+0822	{01}{01}A box of 9mm bullets.
+0823	{01}{01}9mm bullets for a medium caliber pistol.
+0824	{01}{01}Redeemer Ammo
+0825	{01}{01}some {01}{0e}Redeemer ammo{01}{01}
+0826	{01}{01}A box of .44 bullets.
+0827	{01}{01}Bullets for a .44 hand cannon.
+0828	{01}{01}Shotgun Ammo
+0829	{01}{01}some {01}{0e}shotgun ammo{01}{01}
+0830	{01}{01}A box of 4 shotgun shells.
+0831	{01}{01}Shotgun shells loaded with buckshot.
+0832	{01}{01}Rifle Ammo
+0833	{01}{01}some {01}{0e}rifle ammo{01}{01}
+0834	{01}{01}A box of rifle bullets.
+0835	{01}{01}.38 caliber bullets, designed for use in a hunting rifle.
+0836	{01}{01}Assault Rifle Ammo
+0837	{01}{01}some {01}{0e}assault rifle ammo{01}{01}
+0838	{01}{01}A clip for an Assault Rifle.
+0839	{01}{01}A 18-round clip for an Assault Rifle, loaded with 7.62mm bullets.
+0840	{01}{01}Target Ammo
+0841	{01}{01}some {01}{0e}target pistol ammo{01}{01}
+0842	{01}{01}A box of .22 caliber bullets.
+0843	{01}{01}.22 caliber bullets for use in a target pistol.
+0844	{01}{01}Baton
+0845	{01}{01}a {01}{0d}baton{01}{01}
+0846	{01}{01}A thick rubber baton for patient control.
+0847	{01}{01}Used to subdue violent patients, this variation on the 'billy club' is durable, but won't cause lasting damage.
+0848	{01}{01}Stool
+0849	{01}{01}a {01}{0d}wooden stool{01}{01}
+0850	{01}{01}A wooden bar stool.
+0851	{01}{01}A flimsy stool with an imitation leather seat. Doesn't look like it'd take much punishment.
+0852	{01}{01}Health Drink
+0853	{01}{01}a {01}{0b}health drink{01}{01}
+0854	{01}{01}A refreshing herbal drink.
+0855	{01}{01}With a mixture of herbs and vitamins, this drink is perfect for combating aches and pains.
+0856	{01}{01}Energy Drink
+0857	{01}{01}an {01}{0b}energy drink{01}{01}
+0858	{01}{01}A caffeinated drink.
+0859	{01}{01}A caffeinated drink with a kick. I sometimes drink these on long drives; keeps me awake.
+0860	{01}{01}First Aid Kit
+0861	{01}{01}a {01}{0b}first aid kit{01}{01}
+0862	{01}{01}A complete first aid kit.
+0863	{01}{01}Filled with bandages, sutures, and other medical supplies, this can treat serious injuries.
+0864	{01}{01}Ampoule
+0865	{01}{01}an {01}{0b}ampoule{01}{01}
+0866	{01}{01}A narcotic ampoule.
+0867	{01}{01}The powerful narcotic in these ampoules can ease the pain of any injury. They pack a kick, too.
+0868	{01}{01}Lucky Quarter
+0869	{01}{01}a {01}{0c}lucky quarter{01}{01}
+0870	{01}{01}My lucky quarter.
+0871	{01}{01}I've had this quarter since I was a kid, from when my parents died. It's kind of a lucky charm.{0a}{0a}It has something scratched into it... looks like "61."
+0872	{01}{01}Plastic Heart
+0873	{01}{01}a {01}{0c}plastic heart{01}{01}
+0874	{01}{01}A model heart.
+0875	{01}{01}This plastic organ is a replica of a human heart.
+0876	{01}{01}Plastic Stomach
+0877	{01}{01}a {01}{0c}plastic stomach{01}{01}
+0878	{01}{01}A model stomach.
+0879	{01}{01}This plastic organ is a replica of a human stomach.
+0880	{01}{01}Plastic Liver
+0881	{01}{01}a {01}{0c}plastic liver{01}{01}
+0882	{01}{01}A model liver.
+0883	{01}{01}This plastic organ is a replica of a human liver.
+0884	{01}{01}Plastic Intestine
+0885	{01}{01}a {01}{0c}plastic intestine{01}{01}
+0886	{01}{01}A model intestine.
+0887	{01}{01}This plastic organ is a replica of a human intestine.
+0888	{01}{01}Golden Egg
+0889	{01}{01}the {01}{0c}golden egg{01}{01}
+0890	{01}{01}An ornate, golden egg.
+0891	{01}{01}Warm to the touch, this egg is larger than a hen's and has a oily shine to it.
+0892	{01}{01}Glass Eyes
+0893	{01}{01}some {01}{0c}glass eyes{01}{01}
+0894	{01}{01}A pair of glass eyes.
+0895	{01}{01}A pair of glass eyes taken from the anatomy model in the Exam Room.
+0896	{01}{01}Exam Room Key
+0897	{01}{01}the {01}{0c}exam room key{01}{01}
+0898	{01}{01}A key marked "Exam Room."
+0899	{01}{01}A small, well used key.
+0900	{01}{01}Staff Lounge Key
+0901	{01}{01}the {01}{0c}staff lounge key{01}{01}
+0902	{01}{01}A key marked "Staff Lounge."
+0903	{01}{01}A small door key.
+0904	{01}{01}Plastic Lungs
+0905	{01}{01}some {01}{0c}plastic lungs{01}{01}
+0906	{01}{01}Some model lungs.
+0907	{01}{01}This plastic organ is a replica of a set of human lungs.
+0908	{01}{01}Jocasta Artifact
+0909	{01}{01}the {01}{0c}Jocasta artifact{01}{01}
+0910	{01}{01}A strange symbol.
+0911	{01}{01}This symbol is made of metal and has the word "Jocasta" etched into its base. 
+0912	{01}{01}Belongings Key
+0913	{01}{01}the {01}{0c}patient belongings key{01}{01}
+0914	{01}{01}A key marked "Patient Belongings Room."
+0915	{01}{01}A light, rusty key. The tag says "Patient Belongings Room."
+0916	{01}{01}Dr. Harris's Key
+0917	{01}{01}{01}{0c}Dr. Harris's key{01}{01}
+0918	{01}{01}A key marked "Dr. Harris."
+0919	{01}{01}A key with "Dr. Harris" written on its tag.
+0920	{01}{01}Archives Key
+0921	{01}{01}the {01}{0c}interview archives key{01}{01}
+0922	{01}{01}A key marked "Interview Archives."
+0923	{01}{01}A heavy iron key, with "Interview Archives" written on the tag.
+0924	{01}{01}Basement Key
+0925	{01}{01}the {01}{0c}basement key{01}{01}
+0926	{01}{01}A key with a label saying "Basement Access."
+0927	{01}{01}A scuffed iron key. Covered in dirt. Says "Basement Access" on the tag.
+0928	{01}{01}Future Piece
+0929	{01}{01}the {01}{0c}future piece{01}{01}
+0930	{01}{01}A strange metal object.
+0931	{01}{01}A tetrahedron with the word "future" engraved on its side. Feels heavier than it looks.
+0932	{01}{01}Past Piece
+0933	{01}{01}the {01}{0c}past piece{01}{01}
+0934	{01}{01}A tetrahedron with the word "past" engraved on its side. Feels heavier than it looks.
+0935	{01}{01}Falsehood Piece
+0936	{01}{01}the {01}{0c}falsehood piece{01}{01}
+0937	{01}{01}A tetrahedron with the word "falsehood" engraved on its side. Feels heavier than it looks.
+0938	{01}{01}Truth Piece
+0939	{01}{01}the {01}{0c}truth piece{01}{01}
+0940	{01}{01}A tetrahedron with the word "truth" engraved on its side. Feels heavier than it looks.
+0941	{01}{01}Present Piece
+0942	{01}{01}the {01}{0c}present piece{01}{01}
+0943	{01}{01}An octahedron with the word "present" engraved on its side. Feels heavier than it looks.
+0944	{01}{01}Balcony Key
+0945	{01}{01}the {01}{0c}balcony corridor key{01}{01}
+0946	{01}{01}A key marked "Balcony Corridor."
+0947	{01}{01}An ornate iron key.
+0948	{01}{01}Sun Totem
+0949	{01}{01}the {01}{0c}sun totem{01}{01}
+0950	{01}{01}A painted stone tablet.
+0951	{01}{01}A square stone totem with a sun symbol painted on it.
+0952	{01}{01}Stage Office Key
+0953	{01}{01}the {01}{0c}stage office key{01}{01}
+0954	{01}{01}A key marked "stage office."
+0955	{01}{01}A simple metal key.
+0956	{01}{01}Moon Totem
+0957	{01}{01}the {01}{0c}moon totem{01}{01}
+0958	{01}{01}A square stone totem with a moon symbol painted on it.
+0959	{01}{01}125W Bulb
+0960	{01}{01}the {01}{0c}125W light bulb{01}{01}
+0961	{01}{01}A 125W light bulb.
+0962	{01}{01}A bulb for a spotlight, rated 125W.
+0963	{01}{01}250W Bulb
+0964	{01}{01}the {01}{0c}250W light bulb{01}{01}
+0965	{01}{01}A 250W light bulb.
+0966	{01}{01}A bulb for a spotlight, rated 250W.
+0967	{01}{01}500W Bulb
+0968	{01}{01}the {01}{0c}500W light bulb{01}{01}
+0969	{01}{01}A 500W light bulb.
+0970	{01}{01}A bulb for a spotlight, rated 500W.
+0971	{01}{01}750W Bulb
+0972	{01}{01}the {01}{0c}750W light bulb{01}{01}
+0973	{01}{01}A 750W light bulb.
+0974	{01}{01}A bulb for a spotlight, rated 750W.
+0975	{01}{01}Control Lever
+0976	{01}{01}the {01}{0c}prop control lever{01}{01}
+0977	{01}{01}A lever taken from a control panel.
+0978	{01}{01}A thin, metal lever. One end is threaded to be screwed into a socket.
+0979	{01}{01}Room 306 Key
+0980	{01}{01}the {01}{0c}room 306 key{01}{01}
+0981	{01}{01}A key with the label, "306."
+0982	{01}{01}A simple, grubby motel key.
+0983	{01}{01}Cleopatra Key
+0984	{01}{01}the {01}{0c}Cleopatra key{01}{01}
+0985	{01}{01}A key with "Cleopatra" written on its snake keychain.
+0986	{01}{01}It has a cute, snake-pattern keychain.
+0987	{01}{01}Room 500 Key
+0988	{01}{01}the {01}{0c}room 500 key{01}{01}
+0989	{01}{01}A motel key with the label, "500."
+0990	{01}{01}A simple motel key. When I hold it in my hand, the hairs on the back of my neck stand on end.
+0991	{01}{01}Dagger
+0992	{01}{01}the {01}{0c}ornamental dagger{01}{01}
+0993	{01}{01}An antique ornamental dagger.
+0994	{01}{01}Looks like an ornament, but its blade cuts like the real thing.
+0995	{01}{01}Office Key
+0996	{01}{01}the {01}{0c}manager's office key{01}{01}
+0997	{01}{01}A key with "Manager's Office" written on its tag.
+0998	{01}{01}A scuffed metal key.
+0999	{01}{01}Wedding Ring
+1000	{01}{01}the {01}{0c}wedding ring{01}{01}
+1001	{01}{01}A golden wedding ring.
+1002	{01}{01}The wedding ring has a message engraved on its band. It reads:{0a}{0a}To my June bride. Love Forever, Richard
+1003	{01}{01}Token
+1004	{01}{01}a {01}{0c}token{01}{01}
+1005	{01}{01}A token with "laundromat" written on it.
+1006	{01}{01}A small metal token for use in a laundromat.
+1007	{01}{01}Jeweled Heart
+1008	{01}{01}the {01}{0c}jeweled heart{01}{01}
+1009	{01}{01}A golden heart inlaid with jewels.
+1010	{01}{01}When I shake it, I can hear something rattling around inside.
+1011	{01}{01}Lumber Yard Key
+1012	{01}{01}the {01}{0c}lumber yard key{01}{01}
+1013	{01}{01}A key marked "Lumber Yard."
+1014	{01}{01}A heavy iron key. The label reads "Lumber Yard."
+1015	{01}{01}Theater Ticket
+1016	{01}{01}a {01}{0c}theater ticket{01}{01}
+1017	{01}{01}A ticket for the Artaud Theater.
+1018	{01}{01}A faded yellow theater ticket. Admits one to "The Tempest."
+1019	{01}{01}Bookstore Key
+1020	{01}{01}the {01}{0c}bookstore key{01}{01}
+1021	{01}{01}A key with "backdoor" written on its tag.
+1022	{01}{01}A well used, simple key for a mortise lock.
+1023	{01}{01}Motel Key
+1024	{01}{01}the {01}{0c}motel key{01}{01}
+1025	{01}{01}A key with a Riverside Motel keychain.
+1026	{01}{01}Looks like a door key. Has a keychain advertising the "Riverside Motel."
+1027	{01}{01}Room 502 Key
+1028	{01}{01}the {01}{0c}room 502 key{01}{01}
+1029	{01}{01}A key with a tag in the shape of the crescent moon.
+1030	{01}{01}It looks like an ordinary motel key but there's something... otherworldly about this thing. It smells of ozone.
+1031	{01}{01}Who'd I just pass there?
+1032	{01}{01}...That you, Good Buddy?
+1033	{01}{01}Treetop tall and wall-to-wall.
+1034	{01}{01}Travis, you messed up sonofabitch.
+1035	{01}{01}What you doing on my road?
+1036	{01}{01}Late on a gig, bud.
+1037	{01}{01}I'm taking the shortcut past Silent Hill;
+1038	{01}{01}...stopping for coffee as soon as I hit Brahms.
+1039	{01}{01}I'm beat.
+1040	{01}{01}Bad dreams still keeping you awake?
+1041	{01}{01}I told you man, a girl or two would go a long way.
+1042	{01}{01}...Sleep like a baby with a chick in your cab.
+1043	{01}{01}Guess I just don't meet the right girls, bud.
+1044	{01}{01}Maybe if you weren't always blabbering about--
+1045	{01}{01}--remember how or why...
+1046	{01}{01}Hey chill. You don't see me bringing up your issues. 
+1047	{01}{01}No need. My old lady keeps me fully informed of my failings.
+1048	{01}{01}The girl keeps notes.
+1049	{01}{01}You mean she hasn't left you yet?
+1050	{01}{01}Any day now. See you 'round, Travis.
+1051	{01}{01}Take it easy.
+1052	{01}{01}10-4. Catch you later, Buddy.
+1053	{01}{01}Huh...?
+1054	{01}{01}Hey, come back!
+1055	{01}{01}Not fog... it's smoke... My God...
+1056	{01}{01}Someone's in there!
+1057	{01}{01}Let me burn.
+1058	{01}{01}You're coming with me.
+1059	{01}{01}...Safe now.
+1060	{01}{01}Hey! 
+1061	{01}{01}Someone help her!
+1062	{01}{01}Where is... 
+1063	{01}{01}...everyone?
+1064	{01}{01}Where am I?
+1065	{01}{01}...Silent Hill?
+1066	{01}{01}What happened last night?
+1067	{01}{01}That girl... 
+1068	{01}{01}Did she make it?
+1069	{01}{01}They would've taken her to the hospital.
+1070	{01}{01}...Koontz Street.
+1071	{01}{01}I need to see if she's okay.
+1072	{01}{01}Hey! You a doctor?
+1073	{01}{01}Can I help you?
+1074	{01}{01}That fire last night, the girl who was burned?
+1075	{01}{01}Is she here?
+1076	{01}{01}A girl?
+1077	{01}{01}We've received no new patients in the last day or so. 
+1078	{01}{01}Was she hurt?
+1079	{01}{01}She was burned all over!
+1080	{01}{01}Are you a relative? 
+1081	{01}{01}What did you say her name was?
+1082	{01}{01}I don't know her name.
+1083	{01}{01}I was the one who saved her from the fire. 
+1084	{01}{01}She must have been brought here.
+1085	{01}{01}Is there another hospital?
+1086	{01}{01}I'm sorry. Perhaps someone in reception could help you.
+1087	{01}{01}I have urgent business to attend to.
+1088	{01}{01}Goodbye.
+1089	{01}{01}Miss?
+1090	{01}{01}You okay?
+1091	{01}{01}...What?
+1092	{01}{01}You're the girl from the fire... 
+1093	{01}{01}How did you...?
+1094	{01}{01}I'm seeing things. 
+1095	{01}{01}This ain't right.
+1096	{01}{01}What is this?
+1097	{01}{01}You...
+1098	{01}{01}What was that thing?
+1099	{01}{01}This...isn't... happening...
+1100	{01}{01}Are you okay?
+1101	{01}{01}Sorry, did I startle you?
+1102	{01}{01}My name is Lisa. I'm a trainee here.
+1103	{01}{01}Are you waiting for someone?
+1104	{01}{01}No! No, I'm just... 
+1105	{01}{01}well, I'm done here.
+1106	{01}{01}Name's Travis. Nice to meet you, Lisa.
+1107	{01}{01}You sure you're okay?
+1108	{01}{01}You look a little shaken up.
+1109	{01}{01}...Sorry.
+1110	{01}{01}No, it's okay.
+1111	{01}{01}To be honest, I've been a little... off all day.
+1112	{01}{01}I was in a fire last night--think it boiled my brain a little.
+1113	{01}{01}The fire in the business district? 
+1114	{01}{01}How awful. I heard about that.
+1115	{01}{01}No one knows how it got started.
+1116	{01}{01}And that poor girl, Alessa Gillespie...
+1117	{01}{01}To die like that...
+1118	{01}{01}Alessa?
+1119	{01}{01}She died?
+1120	{01}{01}Yes.
+1121	{01}{01}Sorry, did you know her?
+1122	{01}{01}No, but... 
+1123	{01}{01}...never mind.
+1124	{01}{01}Well, I have to run.
+1125	{01}{01}Dr. Kaufmann wants to meet me over at Cedar Grove Sanitarium and he'll be mad if I'm late!
+1126	{01}{01}Maybe see you around?
+1127	{01}{01}Take it easy, Travis...
+1128	{01}{01}You too, Lisa.
+1129	{01}{01}MISSING
+1130	{01}{01}You were at the fire!
+1131	{01}{01}I saw you there.
+1132	{01}{01}Of course you did.
+1133	{01}{01}That was my house...burning.
+1134	{01}{01}My daughter, Alessa.
+1135	{01}{01}You were the one who saved her?
+1136	{01}{01}Yeah. She was your daughter?
+1137	{01}{01}Why did you leave her?
+1138	{01}{01}Why did no one help!?
+1139	{01}{01}You all left that girl to burn.
+1140	{01}{01}So we did.
+1141	{01}{01}The world is stranger than you think...
+1142	{01}{01}You're crazy. 
+1143	{01}{01}What happened to her?
+1144	{01}{01}Lisa said she was dead.
+1145	{01}{01}Alessa is with those who care for her.
+1146	{01}{01}Do not trust her, Travis.
+1147	{01}{01}She does not know what she is doing.
+1148	{01}{01}How do you know my name!?
+1149	{01}{01}Hey, answer me!
+1150	{01}{01}They're all crazy.
+1151	{01}{01}Lisa?
+1152	{01}{01}You're here too?
+1153	{01}{01}Can you see all this stuff?
+1154	{01}{01}Is it all... dark for you too?
+1155	{01}{01}I... It's so sad.
+1156	{01}{01}They can't do anything for her.
+1157	{01}{01}She just sits there... 
+1158	{01}{01}She wants her boy so badly.
+1159	{01}{01}Who are you talking about?
+1160	{01}{01}Is the girl inside? Alessa?
+1161	{01}{01}Is Alessa in there?
+1162	{01}{01}No. No! You KNOW who's in there!
+1163	{01}{01}Momma?
+1164	{01}{01}Daddy said you were dead.
+1165	{01}{01}Are you dead?
+1166	{01}{01}I'm not dead. Locked away!
+1167	{01}{01}Out of sight, out of mind. Not dead.
+1168	{01}{01}I asked them to bring my boy to me.
+1169	{01}{01}...Momma.
+1170	{01}{01}Come here boy.
+1171	{01}{01}Let momma take a look at you.
+1172	{01}{01}This is just like before.
+1173	{01}{01}What's happening here?
+1174	{01}{01}That thing, it...couldn't have been.
+1175	{01}{01}Are you making this happen?
+1176	{01}{01}...Are you doing this?
+1177	{01}{01}Wait... No, don't go... I need to know...
+1178	{01}{01}A theater ticket? Who put this here?
+1179	{01}{01}What are you doing in here, Lisa?
+1180	{01}{01}Sorry if I scared you...
+1181	{01}{01}I thought I was the only one in here.
+1182	{01}{01}It's dangerous.
+1183	{01}{01}Dangerous? You're kidding!
+1184	{01}{01}...The door was open, so I let myself in.
+1185	{01}{01}I just love the theater, Travis.
+1186	{01}{01}I want to be an actress.
+1187	{01}{01}But, Mom was a nurse, and her mom was a nurse...
+1188	{01}{01}So I'm going to be a nurse.
+1189	{01}{01}I've got what it takes though...
+1190	{01}{01}I can't stop thinking about you, Travis.
+1191	{01}{01}I want you. You're all I think about.
+1192	{01}{01}Let's get the hell out of this crazy town...
+1193	{01}{01}...Run off--the two of us.
+1194	{01}{01}We could be so good together...
+1195	{01}{01}See? I could be a star!
+1196	{01}{01}Yeah...
+1197	{01}{01}Well, see you around!
+1198	{01}{01}You need these, don't you? 
+1199	{01}{01}Not again!
+1200	{01}{01}Riverside Motel...
+1201	{01}{01}I think I've been there before.
+1202	{01}{01}Lisa...?
+1203	{01}{01}Travis.
+1204	{01}{01}You have a habit of popping up where you're not wanted, Mr. Grady.
+1205	{01}{01}Isn't it time you left town?
+1206	{01}{01}I can't.
+1207	{01}{01}Try harder.
+1208	{01}{01}Daddy?
+1209	{01}{01}Daddy...
+1210	{01}{01}I won the game.
+1211	{01}{01}I still got a quarter left...
+1212	{01}{01}You want the quarter?
+1213	{01}{01}...wake up.
+1214	{01}{01}Please daddy.
+1215	{01}{01}I'm not sleeping, Son.
+1216	{01}{01}You knew I wasn't sleeping.
+1217	{01}{01}Why did you stand there for so long?
+1218	{01}{01}It wasn't right.
+1219	{01}{01}Please daddy!
+1220	{01}{01}It wasn't healthy, Son.
+1221	{01}{01}Daddy, this is insane.
+1222	{01}{01}Time you faced up to what happened.
+1223	{01}{01}Your mother and I... will see you in Heaven, Son.
+1224	{01}{01}How is this even possible?
+1225	{01}{01}Dad...
+1226	{01}{01}How could he do that to himself?
+1227	{01}{01}Why won't you let me forget?
+1228	{01}{01}Why are you doing this to me!?
+1229	{01}{01}Come out!
+1230	{01}{01}I've got your... your THING for you!
+1231	{01}{01}Happy?
+1232	{01}{01}You've dug up my parents--what now?
+1233	{01}{01}When do we get to look inside your sick little mind?
+1234	{01}{01}This isn't right.
+1235	{01}{01}...This is the last one.
+1236	{01}{01}...You're here!?
+1237	{01}{01}Wait!
+1238	{01}{01}What have you done?
+1239	{01}{01}You broke the spell! Now she is free.
+1240	{01}{01}Now she is free.
+1241	{01}{01}I just want to end this.
+1242	{01}{01}I thought that's what she wanted, too.
+1243	{01}{01}I want out!
+1244	{01}{01}Can you help me?
+1245	{01}{01}You want out?
+1246	{01}{01}Far too late for that.
+1247	{01}{01}Even with your misguided help, she can't stop us now.
+1248	{01}{01}The ceremony begins soon.
+1249	{01}{01}Finally, she will birth God!
+1250	{01}{01}Here she comes.
+1251	{01}{01}Look upon what you have wrought!
+1252	{01}{01}That's Alessa?
+1253	{01}{01}The real Alessa?
+1254	{01}{01}Yes, the one you saved from the flames.
+1255	{01}{01}She's really worked you over, hasn't she?
+1256	{01}{01}I'm surprised to see you.
+1257	{01}{01}We had assumed you'd just leave.
+1258	{01}{01}Well, time to put her pawn to sleep...
+1259	{01}{01}Goodnight.
+1260	{01}{01}No!
+1261	{01}{01}She's here!
+1262	{01}{01}We need to begin this now!
+1263	{01}{01}Don't worry, Dahlia.
+1264	{01}{01}With him out of the way, she has no conduit for her power.
+1265	{01}{01}Momma? Momma?
+1266	{01}{01}What is it?
+1267	{01}{01}Don't touch!
+1268	{01}{01}Ow. It's hot! 
+1269	{01}{01}Leave it be.
+1270	{01}{01}It is a cage for a demon.
+1271	{01}{01}Contained, his power will focus yours.
+1272	{01}{01}Release him, and we will all burn in the fires of Hell.
+1273	{01}{01}I don't believe it...
+1274	{01}{01}Harry, it's a baby.
+1275	{01}{01}It's a girl.
+1276	{01}{01}Go on, hold her.
+1277	{01}{01}Cheryl. We'll call her Cheryl.
+1278	{01}{01}Half the soul is lost.
+1279	{01}{01}The seed lies dormant.
+1280	{01}{01}The other half is not lost.
+1281	{01}{01}We'll use a summoning spell.
+1282	{01}{01}Hearing her pain, it is sure to come.
+1283	{01}{01}It will take time.
+1284	{01}{01}We can wait.
+1285	{01}{01}What are you talking about?
+1286	{01}{01}I'm not your momma.
+1287	{01}{01}Please... No--!
+1288	{01}{01}How did you get in here?
+1289	{01}{01}Hey, hey---
+1290	{01}{01}Scuse me sir, motel's closed for the season.
+1291	{01}{01}Wait--!
+1292	{01}{01}What are you doing, son?
+1293	{01}{01}Careful, daddy's--!
+1294	{01}{01}{01}{0f}Huh?{01}{01}
+1295	{01}{01}{01}{0f}...Doesn't fit.{01}{01}
+1296	{01}{01}{01}{0f}The lonely moon...{01}{01}
+1297	{01}{01}{01}{0f}you've always been there for me, haven't you?{01}{01}
+1298	{01}{01}{01}{0f}Ruff! Ruff!{01}{01}
+1299	{01}{01}{01}{0f}Greetings Travis!{01}{01}
+1300	{01}{01}{01}{0f}You seen my truck?{01}{01}
+1301	{01}{01}{01}{0f}I have to find my truck.{01}{01}
+1302	{01}{01}{01}{0f}Your truck is on our planet.{01}{01}
+1303	{01}{01}{01}{0f}Come with us.{01}{01}
+1304	{01}{01}{01}{0f}Can I drive?{01}{01}
+1305	{01}{01}{01}{0f}You drive stick?{01}{01}
+1306	{01}{01}Be not afeard; 
+1307	{01}{01}The isle is full of noises,
+1308	{01}{01}Sounds and sweet airs, that give delight and hurt not.
+1309	{01}{01}Sometimes a thousand twangling instruments
+1310	{01}{01}Will hum about mine ears, and sometime voices...
+1311	{01}{01}That, if I then had waked after long sleep,
+1312	{01}{01}Will make me sleep again: and then, in dreaming,
+1313	{01}{01}The clouds methought would open and show riches
+1314	{01}{01}Ready to drop upon me that, when I waked,
+1315	{01}{01}I cried to dream again.
+1316	{01}{01}Beseech you, Father.
+1317	{01}{01}Hence! hang not on my garments.
+1318	{01}{01}Sir, have pity;
+1319	{01}{01}I'll be his surety.
+1320	{01}{01}Silence! One word more
+1321	{01}{01}Shall make me chide thee, if not hate thee. What! (cough)
+1322	{01}{01}An advocate for an imposter! (cough) hush! (cough)
+1323	{01}{01}Thou think'st there is no more such--
+1324	{01}{01}You okay, Tony?
+1325	{01}{01}Yes, yes, fine! Just a headache... A damned nosebleed.
+1326	{01}{01}...You mind if we stop for a moment?
+1327	{01}{01}I had to do it.
+1328	{01}{01}You had to? 
+1329	{01}{01}Please, help me understand.
+1330	{01}{01}That's what you do with pests.
+1331	{01}{01}That's what you do, isn't it?
+1332	{01}{01}And he was a pest.
+1333	{01}{01}Oh, he was a bad boy!
+1334	{01}{01}Always has been.
+1335	{01}{01}I tried to pretend he wasn't...
+1336	{01}{01}but they were there to make sure I didn't forget.
+1337	{01}{01}They?
+1338	{01}{01}The people in the mirrors.
+1339	{01}{01}They see it all!
+1340	{01}{01}...What's really going on.
+1341	{01}{01}And it was their idea?
+1342	{01}{01}They saw the devil inside of him.
+1343	{01}{01}I had to kill him!
+1344	{01}{01}My responsibility.
+1345	{01}{01}My flesh and blood.
+1346	{01}{01}I brought him into this world,
+1347	{01}{01}so I had to take him out of it!
+1348	{01}{01}Good wombs can bear bad sons, they say.
+1349	{01}{01}I know you think what I did was wrong.
+1350	{01}{01}I just want to understand...
+1351	{01}{01}Helen--
+1352	{01}{01}You want to keep me locked up, doctor.
+1353	{01}{01}But you can't.
+1354	{01}{01}I can leave whenever I want.
+1355	{01}{01}I can step through that mirror and into their world.
+1356	{01}{01}This world is just a daydream.
+1357	{01}{01}Helen?
+1358	{01}{01}When will they bring me my boy?
+1359	{01}{01}I've always hated you!
+1360	{01}{01}You and your devil son!
+1361	{01}{01}Oh God, Helen. My dear, dear Helen.
+1362	{01}{01}...You really are dead!
+1363	{01}{01}What will I do?
+1364	{01}{01}Helen...
+1365	{01}{01}Every time I look in his eyes, I see you.
+1366	{01}{01}It's not enough.
+1367	{01}{01}I can't be there for him.
+1368	{01}{01}There's too much pain in this world without you.
+1369	{01}{01}That thing that stole your body...
+1370	{01}{01}...it had the right idea.
+1371	{01}{01}Can I have some money for the pinball?
+1372	{01}{01}About this afternoon...
+1373	{01}{01}It's okay, I just want to play the pinball.
+1374	{01}{01}Sure. ...There.
+1375	{01}{01}I'm going back to the room for a little while.
+1376	{01}{01}Wait for me here.
+1377	{01}{01}Game Director{0a}Mark Simmons{0a}{0a}Senior Producer{0a}Jim Walker
+1378	{01}{01}Written and Designed by{0a}Sam Barlow
+1379	{01}{01}Lead Programmer{0a}Dave Owens
+1380	{01}{01}Lead Technical Programmer{0a}James Sharman
+1381	{01}{01}Lead Artist{0a}Neale Williams
+1382	{01}{01}Cinematics Director and Lead Animation{0a}Bryan Rogers
+1383	{01}{01}Lead Level Designer{0a}Lead Level Artist
+1384	{01}{01}Robert McLachlan{0a}Saul Marchese
+1385	{01}{01}Lead SFX Artist{0a}Outsource Manager
+1386	{01}{01}Paul Christey{0a}Derek Doherty
+1387	{01}{01}Artists{0a}Andrew Forster{0a}Vanessa Wells{0a}Elco Vossers{0a}Aaron Miller{0a}Ian Sutton{0a}Robert Wilmot{0a}Stephen Cooper{0a}Baolong Zhang{0a}Doug Townsley
+1388	{01}{01}Animators{0a}Nick Hodgson{0a}Gianluca Fratellini{0a}Vernon Victory{0a}Stephen Bodle
+1389	{01}{01}Programmers{0a}Andrew Earle{0a}Richard Nutman{0a}Mike Burmester{0a}Robert Macdonald
+1390	{01}{01}Designers{0a}Kevin Clarke{0a}Mark Diggles{0a}Chris Green{0a}{0a}Audio{0a}Matt Simmonds
+1391	{01}{01}Total game time = %.2d:%.2d:%.2d{0a}Times saved = %d
+1392	{01}{01}New Save Game
+1393	{01}{01}Hospital Lobby
+1394	{01}{01}Town, Crichton Street
+1395	{01}{01}Theater Lobby
+1396	{01}{01}Theater Orchestra Storage
+1397	{01}{01}Sanitarium East Staircase
+1398	{01}{01}Sanitarium Female Seclusion Other World
+1399	{01}{01}Sanitarium West Staircase
+1400	{01}{01}Sanitarium Infirmary
+1401	{01}{01}Sanitarium Far East Staircase Other World
+1402	{01}{01}Sanitarium West Staircase Other World
+1403	{01}{01}Sanitarium Hydrotherapy
+1404	{01}{01}Sanitarium Interview Archives
+1405	{01}{01}Ambassador Outfit
+1406	{01}{01}A tight-fitting space suit.
+1407	{01}{01}Brawler Outfit
+1408	{01}{01}A Mexican wrestling outfit.
+1409	{01}{01}Butcher's Outfit
+1410	{01}{01}A bloodied set of clothes belonging to an infamous serial killer.
+1411	{01}{01}Cartographer Outfit
+1412	{01}{01}These clothes were worn by a man who charted new lands.
+1413	{01}{01}Collector Outfit
+1414	{01}{01}The uniform of an obsessive, fanatical enthusiast.
+1415	{01}{01}Explorer Outfit
+1416	{01}{01}Clothes fit for exploring the most dangerous of terrain.
+1417	{01}{01}Savior Outfit
+1418	{01}{01}Sometimes I like to take my bike and ride into the night. That's when I wear these leathers. 
+1419	{01}{01}Sharpshooter Outfit
+1420	{01}{01}Clothes belonging to a gun enthusiast.
+1421	{01}{01}Sprinter Outfit
+1422	{01}{01}Comfortable clothing for cross-training.
+1423	{01}{01}Stalker Outfit
+1424	{01}{01}There have been rumors of a black ops teams converging on the denizens of Silent Hill.
+1425	{01}{01}Fireman Outfit
+1426	{01}{01}Standard issue for the local fire department.
+1427	{01}{01}There is not enough space on the{0a}Memory Stick™.{0a}At least %d KB is needed to save this game data.{0a}Do you wish to delete save data from the Memory Stick™?
+1428	{01}{01}this game contains images that could be considered violent and disturbing
+1429	{01}{01}loading
+1430	{01}{01}© 2007 Konami. Developed by Climax Ltd. Published by Konami Interactive Ltd. Silent Hill logo, TM and © Konami. All rights reserved. Climax and the Climax logo are trademarks of Climax. Konami and the Konami logo are trademarks. All rights reserved.
+1431	{01}{01}silent hill origins is an exploration of the darkness behind our everyday reality. for the best experience we recommend you play with the lights off and your headphones on.
+1432	{01}{01}Just some packing cases.
+1433	{01}{01}A shelf full of antiques.
+1434	{01}{01}It's old and won't open.
+1435	{01}{01}Lots of old books.
+1436	{01}{01}Nothing I need here.
+1437	{01}{01}There's something to this painting. Makes me want to stop and look. This isn't the time though and it's going to burn just like the others.
+1438	{01}{01}The mailbox for apartment {01}{0c}213{01}{01} is overflowing. Looks like the mail hasn't been collected for weeks.
+1439	{01}{01}A monster. Someone has mutilated it--the blood is all over the room.
+1440	{01}{01}The gurney has been used recently, it's stained with soot and blood.
+1441	{01}{01}Looks like some kind of altar.
+1442	{01}{01}Containers full of trash. I'm not desperate enough to look through these.
+1443	{01}{01}Candles for some kind of ritual?
+1444	{01}{01}TORCH PROJECTION
+1445	{01}{01}The stairs have collapsed. I can't go back this way.
+1446	{01}{01}Iron Lung Warning
+1447	{01}{01}OUT OF USE{0a}{0a}In light of the recent accident I am barring the use of the iron lung equipment. This applies to all staff, including senior nurses. Patient deaths during therapy are not to be treated lightly. I find it hard to believe that someone could 'accidentally' overload every valve on the equipment and so, until the enquiry has concluded, I must assume the equipment itself is at fault. These precautions are essential -- we owe a duty of care to all of our patients, even the difficult ones.{0a}{0a}Dr. Harris
+1448	{01}{01}Useless. I don't have any change anyway.
+1449	{01}{01}Busted cigarette machine.
+1450	{01}{01}Just old text books, reports and magazines. Nothing I need.
+1451	{01}{01}Empty cages everywhere. The stench...
+1452	{01}{01}A suitcase full of shoes.
+1453	{01}{01}Wedding gear. Looks like its been here a while.
+1454	{01}{01}SAVIOR - Not complete
+1455	{01}{01}BUTCHER - Not complete
+1456	{01}{01}AMBASSADOR - Not complete
+1457	{01}{01}STALKER - Not complete
+1458	{01}{01}COLLECTOR - Not complete
+1459	{01}{01}SPRINTER - Not complete
+1460	{01}{01}SHARPSHOOTER - Not complete
+1461	{01}{01}WEAPONSMITH - Not complete
+1462	{01}{01}BRAWLER - Not complete
+1463	{01}{01}CARTOGRAPHER - Not complete
+1464	{01}{01}EXPLORER - Not complete
+1465	{01}{01}DAREDEVIL - Not complete
+1466	{01}{01}FIREMAN - Not complete
+1467	{01}{01}CODEBREAKER - Not complete
+1468	{01}{01}Fireman accolade achieved!
+1469	{01}{01}Codebreaker accolade achieved!
+1470	{01}{01}FIREMAN - COMPLETE!{0a} {0a}You saved Alessa from the fire in record time.
+1471	{01}{01}CODEBREAKER - COMPLETE!{0a} {0a}You called on the power of an ancient incantation.
+1472	{01}{01}It's a wooden tree.
+1473	{01}{01}A wooden prop table. Books and papers are painted on it.
+1474	{01}{01}This is some sort of costume suspended from the ceiling above. It's made of musty smelling fur and rope.
+1475	{01}{01}This wooden backdrop has clumps of trees painted on it.
+1476	{01}{01}A scenery backdrop. Painted shelves and books.
+1477	{01}{01}The walls of a cave are painted on these wooden backdrops.
+1478	{01}{01}There's something back there.
+1479	{01}{01}I don't need to mess with this anymore.
+1480	{01}{01}the {01}{0d}portable TV{01}{01}
+1481	{01}{01}the {01}{0d}typewriter{01}{01}
+1482	{01}{01}the {01}{0d}toaster{01}{01}
+1483	{01}{01}the {01}{0d}hammer{01}{01}
+1484	{01}{01}the {01}{0d}toolbox{01}{01}
+1485	{01}{01}the {01}{0d}table lamp{01}{01}
+1486	{01}{01}the {01}{0d}katana{01}{01}
+1487	{01}{01}the {01}{0d}meat hook{01}{01}
+1488	{01}{01}the {01}{0d}jagged wood{01}{01}
+1489	{01}{01}the {01}{0d}filing cabinet{01}{01}
+1490	{01}{01}the {01}{0d}alcohol bottle{01}{01}
+1491	{01}{01}the {01}{0d}kitchen knife{01}{01}
+1492	{01}{01}the {01}{0d}curtain weights{01}{01}
+1493	{01}{01}the {01}{0d}razor{01}{01}
+1494	{01}{01}the {01}{0d}scalpel{01}{01}
+1495	{01}{01}the {01}{0d}drip stand{01}{01}
+1496	{01}{01}the {01}{0d}meat cleaver{01}{01}
+1497	{01}{01}the {01}{0d}wrench{01}{01}
+1498	{01}{01}the {01}{0d}crate{01}{01}
+1499	{01}{01}the {01}{0d}poker{01}{01}
+1500	{01}{01}the {01}{0d}Pool Cue{01}{01}
+1501	{01}{01}the {01}{0d}Shovel{01}{01}
+1502	{01}{01}the {01}{0d}meat gaff{01}{01}
+1503	{01}{01}the {01}{0d}broken pole{01}{01}
+1504	{01}{01}the {01}{0d}screwdriver{01}{01}
+1505	{01}{01}the {01}{0d}light stand{01}{01}
+1506	{01}{01}the {01}{0d}pitchfork{01}{01}
+1507	{01}{01}the {01}{0d}spear{01}{01}
+1508	{01}{01}the {01}{0d}baton{01}{01}
+1509	{01}{01}the {01}{0d}wooden stool{01}{01}
+1510	{01}{01}Tire Iron
+1511	{01}{01}a {01}{0d}tire iron{01}{01}
+1512	{01}{01}the {01}{0d}tire iron{01}{01}
+1513	{01}{01}A metal tire iron.
+1514	{01}{01}Used for removing car tires. It's heavy with a sharp tip. 
+1515	{01}{01}Tesla Rifle
+1516	{01}{01}the {01}{0d}Tesla Rifle{01}{01}
+1517	{01}{01}The mysterious Tesla Rifle, a weapon from another world.
+1518	{01}{01}The Tesla Rifle harnesses the power of moonbeams to dispense unlimited electric death. Rumor has it the gun was developed using alien technology.
+1519	{01}{01}Night Vision Goggles
+1520	{01}{01}the Night Vision Goggles
+1521	{01}{01}Hi-tech Night Vision Goggles.
+1522	{01}{01}These goggles are perfect for sneaking up on things in the dark.
+1523	{01}{01}A crayon drawing. Parts of it are scribbled out.
+1524	{01}{01}It looks like a child's drawing.
+1525	{01}{01}Who drew this?
+1526	{01}{01}There's something disturbing about this picture.
+1527	{01}{01}A crude, childish drawing.
+1528	{01}{01}Looks like a house.
+1529	{01}{01}Why do I feel uneasy when I look at this?
+1530	{01}{01}Violent, heavy scribbles.
+1531	{01}{01}This looks strange.
+1532	{01}{01}What is it? A monster? A child?
+1533	{01}{01}There's something unsettling about this drawing.
+1534	{01}{01}This drawing looks strange.
+1535	{01}{01}I can't make this one out.
+1536	{01}{01}Nothing in these filing cabinets seems particularly useful.
+1537	{01}{01}It seems to be locked tight.
+1538	{01}{01}I can't get any of them to open.
+1539	{01}{01}They must be jammed or locked.
+1540	{01}{01}They're broken and won't open.
+1541	{01}{01}Shelves full of folders. I don't have time to look through them.
+1542	{01}{01}Nothing worth reading here.
+1543	{01}{01}Just useless information.
+1544	{01}{01}Nothing of use in these books.
+1545	{01}{01}Can't see anything interesting.
+1546	{01}{01}No time to look through this.
+1547	{01}{01}I'm never going to be able to reach this door.
+1548	{01}{01}The floor just stops here. It's impossible to get to the door.
+1549	{01}{01}I'm not able to reach the exit, the floor doesn't go any further.
+1550	{01}{01}This is awful. She's been cut almost in half.
+1551	{01}{01}A battered cash register. Take a look?
+1552	{01}{01}Bloody Cap
+1553	{01}{01}(Someone has written on the cap).{0a}{0a}HELP ME
+1554	{01}{01}I think the ring has something engraved on its inside.
+1555	{01}{01}I can't use the key here -- the door's wrapped up tight with police tape and the lock has been drilled out.
+1556	{01}{01}Storage boxes covered by old, dirty sheets.
+1557	{01}{01}In the Options menu you will find an option to alter the brightness of the game to match the lighting conditions you are playing in. Silent Hill Origins has been designed to be at its most intense when played in a dark room.
+1558	{01}{01}DEBUG - SHOULD NOT SEE THIS STRING
+1559	{01}{01}Codebreaker Outfit
+1560	{01}{01}Something I wore to a Halloween party.
+1561	{01}{01}Is this the ambulance that brought her in?
+1562	{01}{01}I don't need to go back.
+1563	{01}{01}Theater Curtain Control
+1564	{01}{01}Hospital Lobby Empty
+1565	{01}{01}Butcher Shop
+1566	{01}{01}Cult Anteroom
+1567	{01}{01}Convenience Store
+1568	{01}{01}Theater Lobby Empty
+1569	{01}{01}Motel Parking Lot
+1570	{01}{01}Motel Room 500
+1571	{01}{01}Motel Diner
+1572	{01}{01}The stairs have gone. There's no way up here.
+1573	{01}{01}Daredevil Outfit
+1574	{01}{01}Wearing this makes me feel like top dog.
+1575	{01}{01}Weaponsmith Outfit
+1576	{01}{01}The uniform of man who makes his own weapons.
+1577	{01}{01}{03}{01} : Quit to Main Menu
+1578	{01}{01}NEW GAME
+1579	{01}{01}CONTINUE
+1580	{01}{01}LOAD GAME
+1581	{01}{01}Cycle Target Left
+1582	{01}{01}Cycle Target Right
+1583	{01}{01}Guns / Melee
+1584	{01}{01}Sanitarium Patient Belongings
+1585	{01}{01}Bring me my boy!
+1586	{01}{01}Load failed. The PSP{03}{10} system resumed from sleep mode.{0a}Do you want to retry Load?
+1587	{01}{01}Save may have failed.{0a}The PSP{03}{10} system resumed from sleep mode.{0a}Do you want to retry Save?
+1588	{01}{01}There was a noise from the main door. Sounds like it unlocked.
+1589	{01}{01}Hospital Basement
+1590	{01}{01}Cleared
+1591	{01}{01}∞
+1592	{01}{01}Checking memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) in MEMORY{a0}CARD{a0}slot{a0}1. Do not remove memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2), controller, or reset/switch off the console.
+1593	{01}{01}Memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) error! Please check memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) in MEMORY{a0}CARD{a0}slot{a0}1 and try again.
+1594	{01}{01}Saving data.{0a}Do not remove memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2),{0a}controller, or reset/switch off the console.
+1595	{01}{01}Save Successful
+1596	{01}{01}Save failed!{0a}Check memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) in{0a}MEMORY{a0}CARD{a0}slot{a0}1{0a}and please try again.
+1597	{01}{01}Are you sure you wish to save?
+1598	{01}{01}Loading data.{0a}Do not remove memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2),{0a}controller, or reset/switch off the console.
+1599	{01}{01}Load Successful
+1600	{01}{01}Load failed!{0a}Check memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) in{0a}MEMORY{a0}CARD{a0}slot{a0}1{0a}and please try again.
+1601	{01}{01}Deleting data.{0a}Do not remove memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2),{0a}controller, or reset/switch off console.
+1602	{01}{01}Delete Successful
+1603	{01}{01}Delete failed!{0a}Please check memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2){0a}in MEMORY{a0}CARD{a0}slot{a0}1and try again.
+1604	{01}{01}Formatting memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2){0a}in MEMORY{a0}CARD{a0}slot{a0}1.{0a}Do not remove memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2),{0a}controller, or reset/switch off console.
+1605	{01}{01}Format Successful
+1606	{01}{01}Format failed!{0a}Please check memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2){0a}in MEMORY{a0}CARD{a0}slot{a0}1 and try again.
+1607	{01}{01}Generic memory card error.
+1608	{01}{01}No memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) in MEMORY{a0}CARD{a0}slot{a0}1.
+1609	{01}{01}Memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) in MEMORY{a0}CARD{a0}slot{a0}1 is unformatted.{0a}Format memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2)?
+1610	{01}{01}Memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) in MEMORY{a0}CARD{a0}slot{a0}1{0a}has changed.
+1611	{01}{01}Memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) error!{0a}Please check memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2){0a}in MEMORY{a0}CARD{a0}slot{a0}1 and try again.
+1612	{01}{01}Are you sure you wish to overwrite?
+1613	{01}{01}No Silent Hill Origins save data present on {0a}memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) in MEMORY{a0}CARD{a0}slot{a0}1.
+1614	{01}{01}Insufficient free space on memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) in MEMORY{a0}CARD{a0}slot{a0}1. Insert a memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) with at least 166KB of free space, or create some space using the console’s internal browser.
+1615	{01}{01}Insufficient free space on memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2){0a}in MEMORY{a0}CARD{a0}slot{a0}1.{0a}Silent Hill Origins requires 166 KB of free space to save data.
+1616	{01}{01}No Silent Hill Origins save data present on {0a}memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2){0a}in MEMORY{a0}CARD{a0}slot{a0}1.
+1617	{01}{01}Silent Hill Origins save data on memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2){0a}in MEMORY{a0}CARD{a0}slot{a0}1 is corrupted.
+1618	{01}{01}Are you sure you wish to overwrite this save?{0a}All previous save data will be lost.
+1619	{01}{01}Ok
+1620	{01}{01}Cancel 
+1621	{01}{01}Retry
+1622	{01}{01}Overwrite
+1623	{01}{01}Continue Without Saving
+1624	{01}{01}No memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2) inserted{0a}in MEMORY{a0}CARD{a0}slot{a0}1.{0a}If you wish to save your game data,{0a}insert a memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2){0a}with at least 166 KB of free space.
+1625	{01}{01}Insufficient free space on memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2){0a}in MEMORY{a0}CARD{a0}slot{a0}1.{0a}Insert a memory{a0}card{a0}(8MB)(for{a0}PlayStation{03}{10}2){0a}with at least 166 KB of free space,{0a}or create some space using the console’s internal browser.
+1626	{01}{01}Controller not detected.{0a}Please insert a controller into controller port 1 and press {03}{01} to continue.
+1627	{01}{01}Language Select
+1628	{01}{01}Choose your aspect ratio:
+1629	{01}{01}4:3
+1630	{01}{01}16:9
+1631	{01}{01}SAVE GAME
+1632	{01}{01}Save Game %i
+1633	{01}{01}Empty
+1634	{01}{01}Corrupt
+1635	{01}{01}Level:
+1636	{01}{01}Time:
+1637	{01}{01}Saves:
+1638	{01}{01}CONFIRM
+1639	{01}{01}VIBRATION
+1640	{01}{01}Vibration
+1641	{01}{01}The disc tray has been opened.{0a}Please close the disc tray on the console and try to continue.
+1642	{01}{01}Silent Hill Origins
+1643	{01}{01}CREDITS
+1644	{01}{01}KONAMI DIGITAL ENTERTAINMENT, INC.
+1645	{01}{01}Chairman and CEO
+1646	{01}{01}Kazumi Kitaue
+1647	{01}{01}Vice President, North American Content Strategy
+1648	{01}{01}Tetsuya Hiyoshi
+1649	{01}{01}PRODUCTION
+1650	{01}{01}Vice President, Product Development
+1651	{01}{01}Takeshi Minagawa
+1652	{01}{01}Masato Sakai
+1653	{01}{01}Producer
+1654	{01}{01}William Oertel
+1655	{01}{01}Associate Producer
+1656	{01}{01}Tomm Hulett
+1657	{01}{01}Music by
+1658	{01}{01}Akira Yamaoka
+1659	{01}{01}Lyrics by
+1660	{01}{01}Joe Romersa
+1661	{01}{01}Vocals by
+1662	{01}{01}Mary Elizabeth
+1663	{01}{01}English Vocals Produced by ZRO Limit Productions
+1664	{01}{01}PUBLISHING
+1665	{01}{01}Chief Operating Officer
+1666	{01}{01}Geoff Mulligan
+1667	{01}{01}Vice President, Operations
+1668	{01}{01}Linda Stackpoole
+1669	{01}{01}Sr. Vice President of Sales and Marketing
+1670	{01}{01}Catherine Fowler
+1671	{01}{01}Vice President, Marketing
+1672	{01}{01}Anthony Crouts
+1673	{01}{01}Vice President, Legal and Business Affairs
+1674	{01}{01}Mari Tasaki
+1675	{01}{01}Corporate Counsel
+1676	{01}{01}Grant Smith
+1677	{01}{01}Contract Administrator
+1678	{01}{01}Kevin Reilly
+1679	{01}{01}Product Manager, North America
+1680	{01}{01}Wilson Cheng
+1681	{01}{01}Dennis Lee
+1682	{01}{01}Patrick Dillon
+1683	{01}{01}Product Manager, Japan
+1684	{01}{01}Koji Kobayashi
+1685	{01}{01}Product Manager, Europe
+1686	{01}{01}Christopher Heck
+1687	{01}{01}Martine Saunders
+1688	{01}{01}Director of Marketing
+1689	{01}{01}Brad Schlachter
+1690	{01}{01}Associate Director of Creative Services
+1691	{01}{01}Monique Catley
+1692	{01}{01}Operations Manager
+1693	{01}{01}Kathie Tompkins
+1694	{01}{01}Associate Director of PR
+1695	{01}{01}Marc Franklin
+1696	{01}{01}Associate PR Manager
+1697	{01}{01}Kit Ellis
+1698	{01}{01}Customer Service Manager
+1699	{01}{01}Brandis Dutton
+1700	{01}{01}PRODUCT SUPPORT GROUP
+1701	{01}{01}Vice President, Product Support
+1702	{01}{01}Manager of Product Support
+1703	{01}{01}Ken Ogasawara
+1704	{01}{01}QA Lead
+1705	{01}{01}Pearl Lu
+1706	{01}{01}QA Project Lead
+1707	{01}{01}Carl Chen
+1708	{01}{01}QA Compliance
+1709	{01}{01}Jeff Davis
+1710	{01}{01}Jason Wolverton
+1711	{01}{01}Quality Assurance by Babel Media
+1712	{01}{01}Packaging by Petrol Advertising
+1713	{01}{01}Localizations by SDI Media
+1714	{01}{01}DIGITAL Hearts Co.,Ltd.
+1715	{01}{01}Tatsuya Yoshima
+1716	{01}{01}Atsushi Kawashima
+1717	{01}{01}Erika Goto
+1718	{01}{01}DEVELOPMENT TEAM
+1719	{01}{01}CLIMAX STUDIOS LTD
+1720	{01}{01}Executive Producers
+1721	{01}{01}Karl Jeffery
+1722	{01}{01}Simon Gardner
+1723	{01}{01}Game Director
+1724	{01}{01}Mark Simmons
+1725	{01}{01}Senior Producer
+1726	{01}{01}Jim Walker
+1727	{01}{01}Written and Designed by
+1728	{01}{01}Sam Barlow
+1729	{01}{01}Lead Artist
+1730	{01}{01}Neale Williams
+1731	{01}{01}Lead Programmer
+1732	{01}{01}Dave Owens
+1733	{01}{01}Technical Lead Programmer
+1734	{01}{01}James Sharman
+1735	{01}{01}Cinematics Director and Lead Animator
+1736	{01}{01}Bryan Rogers
+1737	{01}{01}Lead Level Designer
+1738	{01}{01}Robert McLachlan
+1739	{01}{01}Lead Level Artist
+1740	{01}{01}Saul Marchese
+1741	{01}{01}Lead SFX Artist
+1742	{01}{01}Paul Christey
+1743	{01}{01}Outsource Manager
+1744	{01}{01}Dee Doherty
+1745	{01}{01}GUI Artist
+1746	{01}{01}Ian Sutton
+1747	{01}{01}Character Artists
+1748	{01}{01}Vanessa Wells
+1749	{01}{01}Elco Vossers
+1750	{01}{01}Calvin Golkowski
+1751	{01}{01}Environment Artists
+1752	{01}{01}Andrew Forster
+1753	{01}{01}Robert Wilmot
+1754	{01}{01}Stephen Cooper
+1755	{01}{01}Baolong Zhang
+1756	{01}{01}Doug Townsley
+1757	{01}{01}Mark Tatham
+1758	{01}{01}Peter Lyon
+1759	{01}{01}Special Effects Artists
+1760	{01}{01}Aaron Miller
+1761	{01}{01}Mike Oakley
+1762	{01}{01}Animators
+1763	{01}{01}Nick Hodgson
+1764	{01}{01}Gianluca Fratellini
+1765	{01}{01}Vernon Victory
+1766	{01}{01}Stephen Bodle
+1767	{01}{01}Programmers
+1768	{01}{01}Andrew Earle
+1769	{01}{01}Richard Nutman
+1770	{01}{01}Mike Burmester
+1771	{01}{01}Robert Macdonald
+1772	{01}{01}Designers
+1773	{01}{01}Kevin Clarke
+1774	{01}{01}Mark Diggles
+1775	{01}{01}Chris Green
+1776	{01}{01}Audio Technician
+1777	{01}{01}Matt Simmonds
+1778	{01}{01}Quality Assurance
+1779	{01}{01}Russell Linn
+1780	{01}{01}Rob Shread
+1781	{01}{01}Marketing Artwork
+1782	{01}{01}Richard Turner
+1783	{01}{01}Additional Artwork
+1784	{01}{01}Dave Ramsbottom
+1785	{01}{01}Grant Arthur
+1786	{01}{01}Additional Animation
+1787	{01}{01}Steven Herft
+1788	{01}{01}Original Concept
+1789	{01}{01}Kevin Hendrikson
+1790	{01}{01}Director Support
+1791	{01}{01}Nigel Fox
+1792	{01}{01}Glenn Brace
+1793	{01}{01}Rhys Cadle
+1794	{01}{01}Gwaredd Mountain
+1795	{01}{01}Production Accountants
+1796	{01}{01}Russell Moss
+1797	{01}{01}Rachel Curtis
+1798	{01}{01}Climax Support Staff
+1799	{01}{01}Jim Clews
+1800	{01}{01}Craig Torode
+1801	{01}{01}Nikki Getzig
+1802	{01}{01}Emma Barratt
+1803	{01}{01}Jade West
+1804	{01}{01}Allison Saville
+1805	{01}{01}CLIMAX OUTSOURCE PARTNERS
+1806	{01}{01}3D BRIGADE
+1807	{01}{01}Project Managers
+1808	{01}{01}Zoltan Godor
+1809	{01}{01}Zsolt Vamosi
+1810	{01}{01}Art Director
+1811	{01}{01}Peter Szucsy
+1812	{01}{01}CG Supervisor
+1813	{01}{01}Ashraf Elsayed Hassan
+1814	{01}{01}3D Technical Director
+1815	{01}{01}Daniel Bukovecz
+1816	{01}{01}Technical Leader
+1817	{01}{01}Gergely Csehovics
+1818	{01}{01}3D Animation
+1819	{01}{01}Benjamin Foldi
+1820	{01}{01}Mark Gyorgyfalvai
+1821	{01}{01}Balazs Meszaros
+1822	{01}{01}Gergely Szabo
+1823	{01}{01}Daniel Keresztes
+1824	{01}{01}Zsolt Szabo
+1825	{01}{01}3D Artists
+1826	{01}{01}Zsolt Kardos
+1827	{01}{01}Peter Sved
+1828	{01}{01}Environment Modelers
+1829	{01}{01}Attila Sulcz
+1830	{01}{01}Csaba Vekony
+1831	{01}{01}Character Designer
+1832	{01}{01}Andor Kollar
+1833	{01}{01}Texture Artist
+1834	{01}{01}Eva Kovacs
+1835	{01}{01}2D Compositor
+1836	{01}{01}Imre Tuske
+1837	{01}{01}SFX
+1838	{01}{01}Attial Roth
+1839	{01}{01}Laszlo Zizics
+1840	{01}{01}Editors
+1841	{01}{01}Zoltan Fodor
+1842	{01}{01}Akos Haszon
+1843	{01}{01}Istvan Kovacs Veress
+1844	{01}{01}Motion Capture Operators
+1845	{01}{01}David Ecsi
+1846	{01}{01}Istvan Gindele
+1847	{01}{01}Motion Capture Animations
+1848	{01}{01}Zoltan Kalydi
+1849	{01}{01}Peter Nemeth
+1850	{01}{01}Tamas Szabo
+1851	{01}{01}Motion Capture Actors
+1852	{01}{01}Akos Feher
+1853	{01}{01}Gergely Kovasznai
+1854	{01}{01}Flora Zsemlye
+1855	{01}{01}GAMESTAR
+1856	{01}{01}CEO
+1857	{01}{01}Frank Feng
+1858	{01}{01}Project Manager
+1859	{01}{01}Andrew Dong
+1860	{01}{01}Project assistant and Data manager
+1861	{01}{01}Karl Huang
+1862	{01}{01}Deedhua Xie
+1863	{01}{01}Artists
+1864	{01}{01}Cloud Chen
+1865	{01}{01}Chercy Dong
+1866	{01}{01}Lost Li
+1867	{01}{01}Jeff Qian
+1868	{01}{01}Alex Qin
+1869	{01}{01}Kanz Wu
+1870	{01}{01}Jerry Yuan
+1871	{01}{01}Steven Zhan
+1872	{01}{01}Ricky Zhang
+1873	{01}{01}Issac Zou
+1874	{01}{01}Gray Pan
+1875	{01}{01}Sam Yuan
+1876	{01}{01}Alan Zhou
+1877	{01}{01}Park Du
+1878	{01}{01}Shine Xia
+1879	{01}{01}Jane Zhu
+1880	{01}{01}Rabbit Hong
+1881	{01}{01}Jason Jiang
+1882	{01}{01}CENTROID 3D
+1883	{01}{01}Simon Kay
+1884	{01}{01}Director of Operations
+1885	{01}{01}Michael Stilgoe
+1886	{01}{01}Technical Director
+1887	{01}{01}Ben Murray
+1888	{01}{01}Motion Capture Studio Manager
+1889	{01}{01}Phil Stilgoe
+1890	{01}{01}Post Production Supervisor
+1891	{01}{01}Eddie Ellis
+1892	{01}{01}Tony Morley
+1893	{01}{01}Tryphena Dawn
+1894	{01}{01}Rebecca Kenyon
+1895	{01}{01}RABCAT
+1896	{01}{01}VYKARIAN
+1897	{01}{01}OUTSOURCE MEDIA
+1898	{01}{01}Voice & Casting Director
+1899	{01}{01}Mark Estdale
+1900	{01}{01}Commercial Director
+1901	{01}{01}Dean Gregory
+1902	{01}{01}Voice Actors
+1903	{01}{01}Mikey O’ Conner - Travis Grady
+1904	{01}{01}John Chancer - Dr Grady, Dr Kaufmann
+1905	{01}{01}Jennifer Woodwood - Lisa, Alessa
+1906	{01}{01}Laurence Bouvard - Dahlia, Momma
+1907	{01}{01}Ben Eli - Young Travis
+1908	{01}{01}SPECIAL THANKS
+1909	{01}{01}Hans Joachim Amann
+1910	{01}{01}Yukako Hamaguchi
+1911	{01}{01}Kei Hiroki
+1912	{01}{01}Masahiro Ito
+1913	{01}{01}Simon Lai
+1914	{01}{01}Tonie Madrid
+1915	{01}{01}Charles Murakami
+1916	{01}{01}Kunio Neo
+1917	{01}{01}Patty, William and Dominque Oertel
+1918	{01}{01}Hiroyuki Owaku
+1919	{01}{01}Jason Ray
+1920	{01}{01}Aki Saito
+1921	{01}{01}Martin Schneider
+1922	{01}{01}Joe McGuffin, Nick Kononelos, Eric Kovats and the team at Technicolor
+1923	{01}{01}Sarah Simmons
+1924	{01}{01}Star Westbrook
+1925	{01}{01}Jean Millard
+1926	{01}{01}Kate Hughes
+1927	{01}{01}Angel Forster
+1928	{01}{01}James Forster
+1929	{01}{01}Sarah Hill
+1930	{01}{01}Chrissie Davies
+1931	{01}{01}Tereza Owens
+1932	{01}{01}Paris Owens
+1933	{01}{01}Pharrell Owens
+1934	{01}{01}China Blu Owens
+1935	{01}{01}Madeleine Macphail
+1936	{01}{01}Andrea Steele Williams
+1937	{01}{01}Stewart Alves
+1938	{01}{01}Dave Bowman
+1939	{01}{01}Simon Cope
+1940	{01}{01}Stefan Vossers
+1941	{01}{01}Nicki Atwell
+1942	{01}{01}Tracy Rogers
+1943	{01}{01}Ella Rogers
+1944	{01}{01}Zachary Rogers
+1945	{01}{01}Karen Marchese
+1946	{01}{01}Daisy Hodgson
+1947	{01}{01}Linzie Walker
+1948	{01}{01}Lisa Barstow
+1949	{01}{01}Laura Doherty
+1950	{01}{01}The great team at Silent Hill Heaven and Silent Hill Forum
+1951	{01}{01}…and all fans of Silent Hill

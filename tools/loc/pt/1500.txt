@@ -1,0 +1,191 @@
+1500	{01}{01}o {01}{0d}taco de sinuca{01}{01}
+1501	{01}{01}a {01}{0d}pá{01}{01}
+1502	{01}{01}o {01}{0d}arpão de açougue{01}{01}
+1503	{01}{01}a {01}{0d}vara quebrada{01}{01}
+1504	{01}{01}a {01}{0d}chave de fenda{01}{01}
+1505	{01}{01}o {01}{0d}pedestal de luz{01}{01}
+1506	{01}{01}o {01}{0d}forcado{01}{01}
+1507	{01}{01}a {01}{0d}lança{01}{01}
+1508	{01}{01}o {01}{0d}cassetete{01}{01}
+1509	{01}{01}a {01}{0d}banqueta de madeira{01}{01}
+1510	{01}{01}Chave de Roda
+1511	{01}{01}uma {01}{0d}chave de roda{01}{01}
+1512	{01}{01}a {01}{0d}chave de roda{01}{01}
+1513	{01}{01}Uma chave de roda de metal.
+1514	{01}{01}Usada para tirar pneus de carro. É pesada e tem a ponta afiada.
+1515	{01}{01}Rifle Tesla
+1516	{01}{01}o {01}{0d}Rifle Tesla{01}{01}
+1517	{01}{01}O misterioso Rifle Tesla, uma arma de outro mundo.
+1518	{01}{01}O Rifle Tesla usa o poder dos raios da lua para distribuir morte elétrica ilimitada. Dizem que a arma foi desenvolvida com tecnologia alienígena.
+1519	{01}{01}Óculos de Visão Noturna
+1520	{01}{01}os Óculos de Visão Noturna
+1521	{01}{01}Óculos de visão noturna de alta tecnologia.
+1522	{01}{01}Estes óculos são perfeitos para se aproximar das coisas no escuro.
+1523	{01}{01}Um desenho de giz de cera. Partes dele estão rabiscadas.
+1524	{01}{01}Parece um desenho de criança.
+1525	{01}{01}Quem desenhou isto?
+1526	{01}{01}Há algo perturbador neste desenho.
+1527	{01}{01}Um desenho tosco e infantil.
+1528	{01}{01}Parece uma casa.
+1529	{01}{01}Por que fico inquieto quando olho para isto?
+1530	{01}{01}Rabiscos pesados e violentos.
+1531	{01}{01}Isto parece estranho.
+1532	{01}{01}O que é isso? Um monstro? Uma criança?
+1533	{01}{01}Há algo inquietante neste desenho.
+1534	{01}{01}Este desenho parece estranho.
+1535	{01}{01}Não consigo entender este.
+1536	{01}{01}Nada nestes arquivos parece muito útil.
+1537	{01}{01}Parece bem trancado.
+1538	{01}{01}Não consigo abrir nenhum deles.
+1539	{01}{01}Devem estar emperrados ou trancados.
+1540	{01}{01}Estão quebrados e não abrem.
+1541	{01}{01}Prateleiras cheias de pastas. Não tenho tempo de olhar.
+1542	{01}{01}Nada que valha a pena ler aqui.
+1543	{01}{01}Só informação inútil.
+1544	{01}{01}Nada de útil nestes livros.
+1545	{01}{01}Não vejo nada de interessante.
+1546	{01}{01}Não dá tempo de olhar isso.
+1547	{01}{01}Nunca vou conseguir chegar a esta porta.
+1548	{01}{01}O piso simplesmente acaba aqui. É impossível chegar à porta.
+1549	{01}{01}Não consigo alcançar a saída; o piso não vai além daqui.
+1550	{01}{01}Que horror. Ela foi cortada quase ao meio.
+1551	{01}{01}Uma caixa registradora surrada. Dar uma olhada?
+1552	{01}{01}Boné Ensanguentado
+1553	{01}{01}(Alguém escreveu no boné.){0a}{0a}ME AJUDE
+1554	{01}{01}Acho que a aliança tem algo gravado por dentro.
+1555	{01}{01}Não posso usar a chave aqui; a porta está toda envolvida com fita policial e a fechadura foi arrancada com furadeira.
+1556	{01}{01}Caixas cobertas por lençóis velhos e sujos.
+1557	{01}{01}No menu Opções há uma opção para ajustar o brilho do jogo de acordo com a iluminação do ambiente em que você está jogando. Silent Hill Origins foi feito para ser mais intenso quando jogado num quarto escuro.
+1558	{01}{01}DEBUG - ESTE TEXTO NÃO DEVERIA APARECER
+1559	{01}{01}Roupa de Decifrador
+1560	{01}{01}Algo que usei numa festa de Halloween.
+1561	{01}{01}Será esta a ambulância que a trouxe?
+1562	{01}{01}Não preciso voltar.
+1563	{01}{01}Controle da Cortina do Teatro
+1564	{01}{01}Saguão do Hospital Vazio
+1565	{01}{01}Açougue
+1566	{01}{01}Antessala da Seita
+1567	{01}{01}Loja de Conveniência
+1568	{01}{01}Saguão do Teatro Vazio
+1569	{01}{01}Estacionamento do Motel
+1570	{01}{01}Quarto 500 do Motel
+1571	{01}{01}Lanchonete do Motel
+1572	{01}{01}A escada sumiu. Não há como subir aqui.
+1573	{01}{01}Roupa de Destemido
+1574	{01}{01}Usando isto, me sinto o rei da cocada.
+1575	{01}{01}Roupa de Armeiro
+1576	{01}{01}O uniforme de um homem que faz as próprias armas.
+1577	{01}{01}{03}{01} : Sair para o Menu Principal
+1578	{01}{01}NOVO JOGO
+1579	{01}{01}CONTINUAR
+1580	{01}{01}CARREGAR JOGO
+1581	{01}{01}Alvo Anterior
+1582	{01}{01}Próximo Alvo
+1583	{01}{01}Armas de Fogo / Brancas
+1584	{01}{01}Pertences dos Pacientes do Sanatório
+1585	{01}{01}Tragam o meu menino!
+1586	{01}{01}Falha ao carregar. O sistema PSP{03}{10} saiu do modo de espera.{0a}Deseja tentar carregar de novo?
+1587	{01}{01}Talvez o salvamento tenha falhado.{0a}O sistema PSP{03}{10} saiu do modo de espera.{0a}Deseja tentar salvar de novo?
+1588	{01}{01}Houve um barulho na porta principal. Parece que destrancou.
+1589	{01}{01}Porão do Hospital
+1590	{01}{01}Concluído
+1592	{01}{01}Verificando o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) no slot{a0}1{a0}de{a0}MEMORY{a0}CARD. Não remova o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) nem o controle, e não reinicie nem desligue o console.
+1593	{01}{01}Erro no memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2)! Verifique o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) no slot{a0}1{a0}de{a0}MEMORY{a0}CARD e tente de novo.
+1594	{01}{01}Salvando dados.{0a}Não remova o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) nem o{0a}controle, e não reinicie nem desligue o console.
+1595	{01}{01}Jogo salvo com sucesso
+1596	{01}{01}Falha ao salvar!{0a}Verifique o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) no{0a}slot{a0}1{a0}de{a0}MEMORY{a0}CARD{0a}e tente de novo.
+1597	{01}{01}Tem certeza de que deseja salvar?
+1598	{01}{01}Carregando dados.{0a}Não remova o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) nem o{0a}controle, e não reinicie nem desligue o console.
+1599	{01}{01}Jogo carregado com sucesso
+1600	{01}{01}Falha ao carregar!{0a}Verifique o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) no{0a}slot{a0}1{a0}de{a0}MEMORY{a0}CARD{0a}e tente de novo.
+1601	{01}{01}Apagando dados.{0a}Não remova o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) nem o{0a}controle, e não reinicie nem desligue o console.
+1602	{01}{01}Dados apagados com sucesso
+1603	{01}{01}Falha ao apagar!{0a}Verifique o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2){0a}no slot{a0}1{a0}de{a0}MEMORY{a0}CARD e tente de novo.
+1604	{01}{01}Formatando o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2){0a}no slot{a0}1{a0}de{a0}MEMORY{a0}CARD.{0a}Não remova o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) nem o{0a}controle, e não reinicie nem desligue o console.
+1605	{01}{01}Formatado com sucesso
+1606	{01}{01}Falha ao formatar!{0a}Verifique o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2){0a}no slot{a0}1{a0}de{a0}MEMORY{a0}CARD e tente de novo.
+1607	{01}{01}Erro genérico do memory card.
+1608	{01}{01}Não há memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) no slot{a0}1{a0}de{a0}MEMORY{a0}CARD.
+1609	{01}{01}O memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) no slot{a0}1{a0}de{a0}MEMORY{a0}CARD não está formatado.{0a}Formatar o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2)?
+1610	{01}{01}O memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) no slot{a0}1{a0}de{a0}MEMORY{a0}CARD{0a}foi trocado.
+1611	{01}{01}Erro no memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2)!{0a}Verifique o memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2){0a}no slot{a0}1{a0}de{a0}MEMORY{a0}CARD e tente de novo.
+1612	{01}{01}Tem certeza de que deseja sobrescrever?
+1613	{01}{01}Não há dados salvos de Silent Hill Origins no {0a}memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) no slot{a0}1{a0}de{a0}MEMORY{a0}CARD.
+1614	{01}{01}Espaço livre insuficiente no memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) no slot{a0}1{a0}de{a0}MEMORY{a0}CARD. Insira um memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) com pelo menos 166KB livres ou libere espaço pelo navegador interno do console.
+1615	{01}{01}Espaço livre insuficiente no memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2){0a}no slot{a0}1{a0}de{a0}MEMORY{a0}CARD.{0a}Silent Hill Origins precisa de 166 KB livres para salvar.
+1616	{01}{01}Não há dados salvos de Silent Hill Origins no {0a}memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2){0a}no slot{a0}1{a0}de{a0}MEMORY{a0}CARD.
+1617	{01}{01}Os dados salvos de Silent Hill Origins no memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2){0a}no slot{a0}1{a0}de{a0}MEMORY{a0}CARD estão corrompidos.
+1618	{01}{01}Tem certeza de que deseja sobrescrever este jogo salvo?{0a}Todos os dados anteriores serão perdidos.
+1619	{01}{01}OK
+1620	{01}{01}Cancelar
+1621	{01}{01}Tentar de novo
+1622	{01}{01}Sobrescrever
+1623	{01}{01}Continuar sem Salvar
+1624	{01}{01}Não há memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2) inserido{0a}no slot{a0}1{a0}de{a0}MEMORY{a0}CARD.{0a}Se quiser salvar o jogo,{0a}insira um memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2){0a}com pelo menos 166 KB livres.
+1625	{01}{01}Espaço livre insuficiente no memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2){0a}no slot{a0}1{a0}de{a0}MEMORY{a0}CARD.{0a}Insira um memory{a0}card{a0}(8MB)(para{a0}PlayStation{03}{10}2){0a}com pelo menos 166 KB livres,{0a}ou libere espaço pelo navegador interno do console.
+1626	{01}{01}Controle não detectado.{0a}Conecte um controle na entrada 1 e pressione {03}{01} para continuar.
+1627	{01}{01}Seleção de Idioma
+1628	{01}{01}Escolha o formato de tela:
+1631	{01}{01}SALVAR JOGO
+1632	{01}{01}Jogo Salvo %i
+1633	{01}{01}Vazio
+1634	{01}{01}Corrompido
+1635	{01}{01}Local:
+1636	{01}{01}Tempo:
+1637	{01}{01}Salvos:
+1638	{01}{01}CONFIRMAR
+1639	{01}{01}VIBRAÇÃO
+1640	{01}{01}Vibração
+1641	{01}{01}A bandeja do disco foi aberta.{0a}Feche a bandeja do disco do console e tente continuar.
+1643	{01}{01}CRÉDITOS
+1645	{01}{01}Presidente do Conselho e CEO
+1647	{01}{01}Vice-presidente de Estratégia de Conteúdo para a América do Norte
+1649	{01}{01}PRODUÇÃO
+1650	{01}{01}Vice-presidente de Desenvolvimento de Produto
+1653	{01}{01}Produtor
+1655	{01}{01}Produtor Associado
+1657	{01}{01}Música de
+1659	{01}{01}Letras de
+1661	{01}{01}Vocais de
+1663	{01}{01}Vocais em inglês produzidos por ZRO Limit Productions
+1664	{01}{01}PUBLICAÇÃO
+1665	{01}{01}Diretor de Operações
+1667	{01}{01}Vice-presidente de Operações
+1669	{01}{01}Vice-presidente Sênior de Vendas e Marketing
+1671	{01}{01}Vice-presidente de Marketing
+1673	{01}{01}Vice-presidente Jurídico e de Negócios
+1675	{01}{01}Consultor Jurídico
+1677	{01}{01}Administrador de Contratos
+1679	{01}{01}Gerente de Produto, América do Norte
+1683	{01}{01}Gerente de Produto, Japão
+1685	{01}{01}Gerente de Produto, Europa
+1688	{01}{01}Diretor de Marketing
+1690	{01}{01}Diretora Associada de Serviços Criativos
+1692	{01}{01}Gerente de Operações
+1694	{01}{01}Diretor Associado de Relações Públicas
+1696	{01}{01}Gerente Associado de Relações Públicas
+1698	{01}{01}Gerente de Atendimento ao Cliente
+1700	{01}{01}GRUPO DE SUPORTE AO PRODUTO
+1701	{01}{01}Vice-presidente de Suporte ao Produto
+1702	{01}{01}Gerente de Suporte ao Produto
+1704	{01}{01}Líder de Controle de Qualidade
+1706	{01}{01}Líder de Projeto de Controle de Qualidade
+1708	{01}{01}Conformidade de Controle de Qualidade
+1711	{01}{01}Controle de Qualidade por Babel Media
+1712	{01}{01}Embalagem por Petrol Advertising
+1713	{01}{01}Localizações por SDI Media
+1718	{01}{01}EQUIPE DE DESENVOLVIMENTO
+1720	{01}{01}Produtores Executivos
+1723	{01}{01}Diretor do Jogo
+1725	{01}{01}Produtor Sênior
+1727	{01}{01}Escrito e Projetado por
+1729	{01}{01}Artista Principal
+1731	{01}{01}Programador Principal
+1733	{01}{01}Programador Técnico Principal
+1735	{01}{01}Diretor de Cinemáticas e Animador Principal
+1737	{01}{01}Designer de Fases Principal
+1739	{01}{01}Artista de Fases Principal
+1741	{01}{01}Artista de Efeitos Sonoros Principal
+1743	{01}{01}Gerente de Terceirização
+1745	{01}{01}Artista de Interface
+1747	{01}{01}Artistas de Personagens

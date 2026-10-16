@@ -1,0 +1,249 @@
+0500	{01}{01}Alguém escreveu na radiografia. Diz {01}{09}"Sarah, 19"{01}{01}.
+0501	{01}{01}Alguém escreveu na parede. Diz {01}{09}"Lucy, 23"{01}{01}.
+0502	{01}{01}Alguém escreveu na porta. Diz {01}{09}"Amy, 31"{01}{01}.
+0503	{01}{01}A tampa da caixa de descarga está solta.{0a}Removê-la?
+0504	{01}{01}Tem alguma coisa dentro da caixa de descarga.
+0505	{01}{01}Tem alguma coisa dentro da caixa.
+0506	{01}{01}Há um negatoscópio na parede. Ligar?
+0507	{01}{01}Temp, vai abrir a caixa (apague-me)
+0508	{01}{01}Só umas revistas.
+0509	{01}{01}Não tenho trocado. E para quem eu ligaria, afinal?
+0510	{01}{01}Acho que foram desligados.
+0511	{01}{01}Um aviso sobre um evento beneficente recente.
+0512	{01}{01}Avisos públicos sobre acidentes de trabalho.
+0513	{01}{01}Uma maca suja. Alguém simplesmente a largou aqui?
+0514	{01}{01}Parece que há obras em andamento. O lugar precisa de uma demão de tinta.
+0515	{01}{01}Um armário de remédios. Cheio de drogas que não reconheço.
+0516	{01}{01}Fichas médicas. Não significam nada para mim.
+0517	{01}{01}Não há nada atrás do biombo.
+0518	{01}{01}Nada para ver. Só uma privada imunda.
+0519	{01}{01}Um monte de produtos de limpeza. Não que alguém pareça limpar muita coisa por aqui.
+0520	{01}{01}Parece que não tem ninguém aí dentro.
+0521	{01}{01}Livros de medicina. Nada fora do comum, que eu veja.
+0522	{01}{01}Não há mais nada de interessante na mesa.
+0523	{01}{01}Panfletos de tratamentos médicos.
+0524	{01}{01}Nada na pia.
+0525	{01}{01}Um monte de panfletos médicos: doenças tropicais, vitaminas para bebês, vacinas contra gripe, esse tipo de coisa.
+0526	{01}{01}Alguém escreveu 'respire' na caixa. Tem gente de todo tipo, acho.
+0527	{01}{01}Alguém trancou a porta. Vou ter que achar outra saída.
+0528	{01}{01}Não tenho tempo para olhar livros!
+0529	{01}{01}Não tenho tempo para olhar isso!
+0530	{01}{01}Não dá tempo de olhar livros!
+0531	{01}{01}Um símbolo estranho. Olhar para ele me dá dor de cabeça.
+0532	{01}{01}Será que o fogo começou por causa de todas estas velas?
+0533	{01}{01}Não tenho tempo para isso!
+0534	{01}{01}Não dá tempo de olhar isso!
+0535	{01}{01}Não posso parar para olhar livros!
+0536	{01}{01}Só um pedaço de carne.
+0537	{01}{01}Outro pedaço de carne.
+0538	{01}{01}A geladeira está vazia,
+0539	{01}{01}Não há nada dentro.
+0540	{01}{01}Nada de interessante aqui dentro.
+0541	{01}{01}Só arquivos e notas fiscais.
+0542	{01}{01}O que tenho na cabeça já é ruim o bastante... Não preciso de nada disso.
+0543	{01}{01}Piada dos outros não me faz rir.
+0544	{01}{01}Não tenho tempo de ler nada disso.
+0545	{01}{01}Fileiras e mais fileiras de livros.
+0546	{01}{01}Não posso parar para olhar estes livros.
+0547	{01}{01}Nada de interessante escrito aqui.
+0548	{01}{01}Só mais um livro.
+0549	{01}{01}Não tenho tempo para isso.
+0550	{01}{01}Não consigo usar nada disso.
+0551	{01}{01}Nada nas prateleiras que eu possa usar. Está tudo vencido.
+0552	{01}{01}Todos passaram da validade, então... prefiro não beber.
+0553	{01}{01}Cheio de garrafas velhas.
+0554	{01}{01}Não há nada de interessante no balcão.
+0555	{01}{01}Só umas caixas velhas.
+0556	{01}{01}Parece que estas caixas estão vazias.
+0557	{01}{01}Eu adorava essa marca de sorvete quando era criança. Quando cresci, perdi o gosto por doce.
+0558	{01}{01}Parecem mariposas.
+0559	{01}{01}A escada de incêndio foi lacrada.
+0560	{01}{01}Ela foi estripada e aberta ao meio.
+0561	{01}{01}Diagnóstico Médico
+0562	{01}{01}{01}{09}Diagnóstico Preliminar:{01}{02}{0a}{0a}Queimaduras de terceiro grau, paciente inconsciente... Algo impediu que o dano chegasse aos órgãos internos... O dano aos tecidos está limitado à epiderme e às extremidades dos membros...{0a}{0a}Como isso é possível?
+0563	{01}{01}Bilhete Apressado
+0564	{01}{01}{01}{09}(Partes deste bilhete estão ilegíveis.){01}{02}{0a}{0a}Não se preocupem. {04}{02}Kaufmann a escondeu no porão{04}{01}. Usei o {04}{02}Flauros{04}{01} para conter o poder dela. Ninguém virá ajudá-la. {04}{02}Cada um de vocês tem{04}{01} uma das cinco {04}{02}peças{04}{01}. Escondam-nas. Protejam-nas.{0a}{0a}{04}{02}Dahlia{04}{01}
+0565	{01}{01}Memorando aos Funcionários
+0566	{01}{01}A todos os funcionários,{0a}{0a}Está proibido entrar no meu consultório desacompanhado até segunda ordem.{0a}{0a}Dr. Kaufmann.
+0567	{01}{01}Macete de Estudante
+0568	{01}{01}Com dificuldade na aula de anatomia? Acha que tirar os órgãos é bem mais fácil do que colocá-los de volta? É só lembrar este macete fácil:{0a}{0a}{01}{03}In{01}{01}fância {01}{03}Es{01}{01}quecida, {01}{03}Fí{01}{01}lho {01}{03}Co{01}{01}rre {01}{03}Pul{01}{01}ando.
+0569	{01}{01}Bilhete Ensanguentado
+0570	{01}{01}Este meu coração me aflige com seu tremor! Para acalmá-lo, coloquei-o no gelo e o tranquei.{0a}{0a}(Lembre-se, as três belezas que o fazem bater assim são a chave: 'a idade antes da beleza').
+0571	{01}{01}Aviso ao Público
+0572	{01}{01}EM OBRAS{0a}No momento, o segundo e o terceiro andares do hospital estão em reforma. Por ora estão fechados para pacientes e visitantes. O trabalho continua a todo vapor e a direção do hospital agradece sua colaboração enquanto tentamos minimizar os transtornos.{0a}Estimamos que a obra será concluída em seis meses.{0a}{0a}A reestruturação do terceiro andar quase dobrará nossa capacidade de internação e trará instalações mais limpas e modernas.{0a}{0a}Aqui no Alchemilla, a qualidade do atendimento que oferecemos a você, nosso estimado paciente, é de suma importância.{0a}{0a}Dr. Philips{0a}Presidente do Conselho do Alchemilla
+0573	{01}{01}Aviso aos Funcionários
+0574	{01}{01}OBRAS!{0a}Como sabem, a reforma dos andares de cima deu problema! O vazamento no encanamento e os materiais de baixa qualidade nos obrigaram a fechar o terceiro andar até segunda ordem. Lembramos o velho ditado: 'o barato sai caro!' Agora teremos mais seis meses de obra, reduzindo nossa capacidade no próximo ano. Teremos de cortar em 50% os gastos com internação e honorários de consultoria. {0a}{0a}Por isso pedimos aos médicos que evitem internar pacientes e incentivem o tratamento em casa. A menos que estejam morrendo nos seus braços, não internem!{0a}FESTA DOS FUNCIONÁRIOS!{0a}Não se preocupem! A festa dos funcionários está mantida (nossa verba de lazer está trancada onde ninguém pode mexer!) Todos no Annie's Bar às 20h de sexta-feira. Bebida (medicinal, claro!) e comida de graça. Cheguem cedo para garantir uma enfermeira estagiária: elas acabam rápido!
+0575	{01}{01}Anotações sobre a Paciente
+0576	{01}{01}A nova paciente, Helen Grady, chegou hoje. Fiquei surpreso com sua calma e bom comportamento. {0a}{0a}Depois de ler a ficha dela, temia que fosse dar trabalho.{0a}{0a}{0a}A mulher está em completa negação e afirma não se lembrar do incidente que a levou à internação. Aliás, pediu várias vezes para ver o filho! Combinei com o marido que é melhor manter o menino longe da mãe.{0a}{0a}{0a}Embora pareça haver pouca esperança de recuperação a longo prazo, aguardo com interesse o tempo com a Sra. Grady; o caso dela é fascinante.
+0577	{01}{01}Boletim de Ocorrência
+0578	{01}{01}Relatório do Policial Responsável.{0a}11/4/1959. N°: VA4545-10.{0a}{0a}Quando cheguei à casa dos {04}{02}Grady{04}{01}, a ambulância já estava no local. O vizinho, Sr. Bryant (que comunicou o incidente), havia contido a Sra. {04}{02}Grady{04}{01} e os paramédicos atendiam a criança. O marido, Sr. {04}{02}Grady{04}{01}, ainda não havia voltado do trabalho.{0a}{0a}Graças à intervenção de Bryant, o gás fora desligado e a casa, ventilada; mesmo assim, ainda havia um cheiro forte e julguei necessário chamar os bombeiros por precaução.{0a}{0a}Ao que tudo indica, a Sra. {04}{02}Grady{04}{01} tentou se matar com gás junto com o filho. Quando falei com a suspeita, a Sra. {04}{02}Grady{04}{01}, ela não colaborou e parecia furiosa. Exigiu que eu a soltasse para poder "matar a criança demoníaca". Claramente não estava em seu juízo perfeito.{0a}{0a}O Sr. Bryant comentou que várias vezes nas semanas anteriores ouviu brigas e gritos vindos da casa. Disse: "A Helen não anda bem há um tempo."
+0579	{01}{01}Relatório de Estado, 3/12/1960
+0580	{01}{01}Relatório de Estado, 3/12/1960{0a}Paciente: Sra. {04}{02}Helen Grady{04}{01}{0a}Idade: 34{0a}Médico responsável: Dr. Harris{0a}{0a}Observações: A paciente continua com fantasias intensas e um violento complexo de perseguição. Seu humor pode passar da calma à agressão violenta em pouco tempo, o que levou à sua transferência para a ala de isolamento. Fica particularmente violenta nas visitas ocasionais do marido, exigindo ver o filho do casal.{0a}{0a}Por precaução, acrescentamos Epolineum à medicação da Sra. {04}{02}Grady{04}{01} para evitar seus acessos de violência. Não gosto de sedar pacientes, mas quando está agressiva, {04}{02}Helen{04}{01} é um perigo tanto para si mesma quanto para o marido e para a equipe.
+0581	{01}{01}Relatório de Estado, 2/7/1961
+0582	{01}{01}Relatório de Estado, 2/7/1961{0a}Paciente: Sra. {04}{02}Helen Grady{04}{01}{0a}Idade: 35{0a}Médico responsável: Dr. Harris{0a}{0a}Observações: O estado da Sra. {04}{02}Grady{04}{01} piorou muito nos últimos meses. Suas fantasias de um "mundo do espelho" ficaram mais intensas e ela passa cada vez mais tempo num aparente estado catatônico. Afirma que nesses momentos está no "outro mundo".{0a}{0a}Agora ela se lembra totalmente do ataque ao filho, mas não demonstra remorso. Pelo contrário, parece orgulhosa, quase presunçosa, da tentativa de filicídio! Temo que esse comportamento seja efeito colateral das doses maiores de Epolineum receitadas à paciente. Pedi que a dose fosse reduzida à metade e espero ver bons resultados em breve.
+0583	{01}{01}Registro de Plantão, Isolamento Feminino
+0584	{01}{01}9h30: Medicação aplicada às pacientes do isolamento. Sem incidentes.{0a}{0a}11h46: Acompanhei o Dr. Harris na ronda da manhã. Nenhum incidente digno de nota.{0a}{0a}15h: Visita do marido da Sra. {04}{02}Grady{04}{01}. Levei-a ao dormitório vazio para que ficasse mais à vontade.{0a}{0a}15h46: A Sra. {04}{02}Grady{04}{01} atacou o marido. Durante a visita teve um surto violento e tentou estrangular o Sr. {04}{02}Grady{04}{01}. Eu e o atendente de plantão a ouvimos gritar e conseguimos contê-la, embora tenham sido necessários três de nós, apesar de ser uma mulher franzina. {0a}{0a}Depois que a sedamos e a levamos de volta ao quarto, o Dr. Harris a examinou e decidiu restabelecer a dose de Epolineum.{0a}{0a}{0a}17h12: Depois do incidente com a Sra. {04}{02}Grady{04}{01}, as outras pacientes ficaram agitadas e inquietas. Harris ordenou o confinamento.
+0585	{01}{01}Prancheta
+0586	{01}{01}medicações (não errar!){0a}{0a}quarto 1: {01}{03}trizantium{01}{01}{0a}quarto 2: {01}{07}natium{01}{01}{0a}quarto 3: {01}{04}oporium{01}{01}{0a}quarto 4: {01}{05}salorium{01}{01}{0a}quarto 5: {01}{07}natium{01}{01}.{0a}{0a}(lembre-se, comprimidos só para pacientes!){0a}
+0587	{01}{01}Relatório de Incidente Âmbar
+0588	{01}{01}RELATÓRIO DE INCIDENTE ÂMBAR{0a}Funcionário responsável: Simons{0a}{0a}Descrição do incidente: Um menino entrou no sanatório sem ser abordado e chegou ao isolamento feminino (as portas estavam destrancadas). Ele entrou no Quarto 5 do Isolamento Feminino, quando o atendente Michaels o viu e me avisou. O menino era filho de um visitante e foi levado embora pelo pai.{0a}{0a}Falhas: As portas do Isolamento Feminino foram deixadas destrancadas pelo atendente, e a equipe do saguão não notou o menino quando ele chegou ao mezanino.{0a}Recomendação: Lembrar a todos os funcionários da importância de trancar as portas das alas. Os gerentes de plantão devem revisar a equipe.
+0589	{01}{01}Bilhete das 'Pegas'
+0590	{01}{01}Dr. Harris,{0a}{0a}Nossas 'pegas' aprontaram de novo. Desta vez ENGOLIRAM as malditas chaves do Arquivo e do Porão. {0a}{0a}Não se preocupe... O Gary levou o Sr. Pega para a Ala de Tuberculose e eu vou levar a Sra. Pega para a hidroterapia. Vamos fazê-los cuspir as chaves!{0a}{0a}Este emprego seria ótimo se não fossem os pacientes!{0a}{0a}Clem
+0591	{01}{01}Desenho de Criança
+0592	{01}{01}Papai, Mamãe e Travis.
+0593	{01}{01}O piso está quebrado aqui. Parece que dá para descer ao andar de baixo. {0a}Pular?
+0594	{01}{01}Página de Diário Manuscrita
+0595	{01}{01}{01}{07}Segunda: {01}{01}Ensaios: fantásticos. Figurinos novos: fantásticos. Enfim: fantástico!{0a}{0a}{01}{07}Terça:{01}{01} Dia estranho. Uma menina entrou escondida no teatro hoje. Matando aula, sem dúvida! Fiquei com pena e a deixei assistir ao ensaio. Retorno muito útil: morreu de medo do Caliban (bom trabalho, figurino!)! Parecia detestar o Próspero. O ensaio terminou antes da hora porque o pobre Tony teve um sangramento nasal terrível no Ato I, Cena 2. Continuamos amanhã!
+0596	{01}{01}Página de Diário Rabiscada
+0597	{01}{01}{01}{07}Sexta: {01}{01}Dia horrível. A pior notícia. Tony morreu hoje. Não acredito como foi rápido. Um amigo tão querido... Ele só piorava. Os médicos não sabem de nada, tanto quanto nós. Cancelamos a primeira semana de apresentações. Vamos esperar até a semana que vem para decidir se cancelamos a temporada toda. Horrível.
+0598	{01}{01}Notas de Produção
+0599	{01}{01}Jack diz que a cidade fica num antigo "solo espiritual"... tomara que sejamos abençoados!!!{0a}{0a}Próspero = Xamã. Penas, fumaça, magia totêmica.{0a}{0a}Ariel = Espírito do ar. Voo? Projeção? Marionetes?{0a}{0a}Caliban = Espírito do búfalo. Peles + atuação à la Berkoff. De quatro. Coitado do ator!
+0600	{01}{01}Aviso do Técnico
+0601	{01}{01}Peter,{0a}{0a}Boa sorte para fazer QUALQUER COISA funcionar. A fiação deste lugar foi feita por IDIOTAS! A cortina de segurança está no mesmo circuito dos refletores. Se uma lâmpada queimar, tudo desarma e não dá para mexer na {01}{0c}cortina de segurança{01}{01}. IDIOTAS. Os fiscais de segurança iam ter um curto-circuito (literalmente!) se vissem isso. Na cidade grande não seria assim! Te vejo quando eu voltar.{0a}{0a}Eric{0a}
+0602	{01}{01}Anotações da Fiação
+0603	{01}{01}Peter,{0a}{0a}Como esperado, os refletores são tão MALUCOS quanto o resto deste lugar. Finalmente funcionaram. Meu fiel voltímetro salvou o dia de novo! Lembre-se: TODAS as luzes precisam funcionar, senão o circuito desarma. Religar o disjuntor cansa RÁPIDO. Seguem minhas anotações: {0a}{0a}{0a}B tem que ter metade da potência de D.{0a}A + B não pode passar de C.{0a}A potência de D não pode passar de A.{0a}{0a}Merda pra você!!{0a}{0a}Eric{0a}
+0604	{01}{01}Esboços
+0605	{01}{01}Desde o que aconteceu com o Tony, sonho com ELE cada vez mais! O AÇOUGUEIRO!{0a}{0a}Ele é igualzinho àquele monstro, o carrasco!{0a}{0a}Agora eu o vi acordado. Ele está no meu motel! É ELE, eu juro!
+0606	{01}{01}Página do Programa do Teatro
+0607	{01}{01}...lendas populares. Veja o figurino de {01}{03}Caliban{01}{01}. O figurinista Bill Ortega {01}{03}tem{01}{01} se inspirado no espírito do búfalo nativo, unindo-{01}{03}o{01}{01} às imagens fortes e icônicas vistas {01}{03}na{01}{01} antiga seita local de Valtiel. {01}{03}Sua{01}{01} cenografia para a escura e cavernosa {01}{03}caverna{01}{01} foi inspirada na 'Owl Cave', um local histórico--
+0608	{01}{01}"Manifestações de Delírios"
+0609	{01}{01}CAPÍTULO 3:{0a}{0a}MANIFESTAÇÕES DE DELÍRIOS{0a}{0a}...fenômenos como a telecinese ("poltergeists", para usar um termo popular) costumam ocorrer. Parecem frequentes junto a emoções negativas (medo, preocupação ou estresse), o que sugere que são essas emoções que se manifestam como energia externa com efeitos físicos.{0a}{0a}Pesadelos são gatilhos especialmente fortes. Em todos os casos, esses fenômenos surgem em crianças ou adolescentes, e a grande maioria dos indivíduos é do sexo feminino.
+0610	{01}{01}"Projeção Astral: O Assassino Perfeito?"
+0611	{01}{01}...entre as tribos que desenvolveram a capacidade de controlar e concentrar suas projeções, existe uma que é temida por toda a comunidade.{0a}{0a}Seu xamã afirma ter a capacidade de matar só com o pensamento, projetando seu desejo de matar no corpo da vítima...
+0612	{01}{01}"Um Id Partido em Dois"
+0613	{01}{01}Ao longo destes estudos de caso, vemos o cérebro das vítimas lutando contra o conflito causado pelos abusos de um ente querido. Em muitos casos, o eu da criança abusada parece se dividir em dois.{0a}{0a}Uma personalidade continua a amar o abusador e busca sua aprovação. A outra contém toda a raiva e a ira do abusado e, de muitas formas, torna-se um espelho do abusador, procurando infligir sua dor aos outros. Infelizmente, muitas vezes é esse eu que se torna dominante.
+0614	{01}{01}"Repressão e Coerção"
+0615	{01}{01}Capítulo 2: Repressão e Coerção.{0a}{0a}É um fato bem conhecido dos serviços de inteligência e dos agentes militares: quanto mais controlada uma mente, quanto mais ela censura a si mesma, mais fácil é para influências externas se instalarem e pegarem carona nessa programação mental.{0a}Por isso essas agências escolhem como peões os indivíduos mais comprometidos por seus próprios problemas mentais.
+0616	{01}{01}Registro de Hóspedes
+0617	{01}{01}(As páginas foram arrancadas, restando um só registro.){0a}{0a}{01}{0c}Quarto 500{01}{01}{0a}Nome: Sr. R. Grady{0a}Outros ocupantes: Filho{0a}Motivo da visita? Negócios/Lazer.{0a}Data de entrada: {04}{02}6/11/1961{04}{01}.
+0618	{01}{01}"À minha amada esposa"
+0619	{01}{01}À minha amada esposa,{0a}{0a}Sinto tanto a sua falta. Ver levarem você foi como uma adaga no meu coração. Tinha que ser feito, mas agora estou tão sozinho.{0a}{0a}Por conselho do médico, disse ao Travis que você morreu. Talvez fosse melhor se fosse verdade... Helen, você vai voltar para mim algum dia?{0a}{0a}Seu para sempre, Richard
+0620	{01}{01}"À minha esposa ausente"
+0621	{01}{01}À minha esposa ausente,{0a}{0a}Sei que, seja qual for o inferno que estou passando, o seu é pior. Mas, droga, é tão difícil. É como se você estivesse morta, mas não está. A Helen que eu amava se foi, mas seu corpo continua aqui! Durmo sozinho há dois anos. Fiquei tão amargo, tão mesquinho! Não sou um pai para o Travis. Tem dias em que nem consigo olhar para ele. O que vai ser preciso para trazer você de volta?{0a}{0a}Seu para sempre, Richard
+0622	{01}{01}"A um fantasma"
+0623	{01}{01}A um fantasma,{0a}{0a}Não dá mais para fingir, não é? Nós dois sabemos que aquela coisa em Cedar Grove não é você. Você morreu no dia em que tentou matar nosso filho.{0a}{0a}Quando levei seu presente hoje, quando você o quebrou, finalmente acordei.{0a}{0a}Passei todos esses anos sonhando, me enganando que um dia você ficaria bem. A Helen que eu amava está morta.{0a}{0a}Tento lembrar como era há tantos anos, hoje, quando nos casamos. Já não consigo lembrar. Estou cansado. Sei que o Travis vai ficar bem sozinho. Vou ver você de novo, Helen.{0a}{0a}Seu para toda a eternidade, Richard
+0624	{01}{01}Registro de Plantão
+0625	{01}{01}Meu Deus. Uma das faxineiras me chamou, disse que tinha algo errado no quarto 500. {0a}{0a}A porta estava aberta. Lá dentro, minha nossa! O fedor me fez vomitar. O garoto, cara. O garoto! Parado ali. Disseram que ele estava lá havia dez horas! Acabei chorando feito criança. Esse tipo de coisa não devia acontecer. A polícia trancou o quarto por enquanto, vou para casa.
+0626	{01}{01}Bilhete do Zelador
+0627	{01}{01}Juana,{0a}{0a}Uma das máquinas de lavar quebrou de novo. O sujeito esquisito do Cleópatra estava gritando comigo, queria que eu fosse consertar, mas eu não podia sair da recepção.{0a}{0a}Enfim, depois de ficar vermelho de raiva, o cara simplesmente foi embora. Não voltou mais; pegou o carro e sumiu.{0a}{0a}Você pode dar uma olhada na máquina quando tiver um minuto? Coloque uma ficha e faça aquele reinício (centrifugação leve, lavagem a 60, esvaziar e depois pré-enxágue).{0a}{0a}O que achar lá dentro, ponha nos achados e perdidos. {0a}{0a}Obrigado, Ed
+0628	{01}{01}Manual da Máquina de Lavar
+0629	{01}{01}Guia dos símbolos:{0a}{0a}{03}{08} Pré-enxágue{0a}{03}{09} Molho{0a}{03}{0a} Lavagem a 30 graus{0a}{03}{0b} Lavagem a 60 graus{0a}{03}{0c} Lavagem a 90 graus{0a}{03}{0d} Centrifugação leve{0a}{03}{0e} Centrifugação forte{0a}{03}{0f} Esvaziar
+0630	{01}{01}Telegrama
+0631	{01}{01}Kaufmann,{0a}{0a}Estamos quase prontos, mas precisamos nos apressar! Sinto nosso domínio sobre o poder dela enfraquecendo. Temo que ela tire forças do núcleo que está comigo. Vou deixá-lo para trás, escondido nesta escuridão. Estará seguro. É pouco provável que Grady volte aqui; ele continua correndo pela cidade atrás de fantasmas. De qualquer forma, ele não faz ideia do quadro geral.{0a}{0a}Vou esperar você aqui; termine seus assuntos e junte-se a mim logo!{0a}{0a}A hora se aproxima, o Flauros está despedaçado, espalhado ao vento, e a vontade dela continua enterrada no fundo de uma mente adormecida. Desta vez o ritual VAI dar certo!{0a}{0a}Dahlia
+0632	{01}{01}Foto "Overdose"
+0633	{01}{01}Causa da morte: OVERDOSE.
+0634	{01}{01}Foto "Picada de Cobra"
+0635	{01}{01}Causa da morte: PICADA DE COBRA.
+0636	{01}{01}Foto "Espingarda"
+0637	{01}{01}Causa da morte: ESPINGARDA.
+0638	{01}{01}Foto "Coração Partido"
+0639	{01}{01}Causa da morte: CORAÇÃO PARTIDO.
+0640	{01}{01}Foto "Facada"
+0641	{01}{01}Causa da morte: FACADA.
+0642	{01}{01}Nota sobre o Ritual
+0643	{01}{01}...acredita-se que um ser de tremenda energia mental possa se tornar um receptáculo capaz de dar à luz Samael, o Deus adorado por esta seita.{0a}{0a}A chegada de Samael trará o Paraíso à Terra.{0a}{0a}(Algo foi acrescentado na margem.){0a}{0a}Se esse receptáculo deve ser moldado com "sofrimento e dor", que tipo de Deus e que tipo de 'paraíso' resultariam disso?
+0644	{01}{01}Bilhete da Loja
+0645	{01}{01}Andy,{0a}{0a}Está tudo bem. Vendi muitos livros! Tranquei suas chaves na caixa registradora (a combinação é o número do seu {01}{0c}apartamento no Greenfield{01}{01}). Espero que tenha aproveitado as férias!{0a}{0a}Dharma
+0646	{01}{01}Jornal
+0647	{01}{01}(Alguém escreveu no jornal.){0a}{0a}POR QUE VOCÊ ESTÁ AJUDANDO ELA, TRAVIS? VOCÊ VIU AQUELA ENFERMEIRA?
+0648	{01}{01}Guardanapo
+0649	{01}{01}(Alguém escreveu no guardanapo.){0a}{0a}ALGUÉM ABRIU UM BURACO.{0a}{0a}VÁ PARA CASA, TRAVIS.
+0650	{01}{01}Saco de Papel
+0651	{01}{01}(Alguém escreveu no saco de papel.){0a}{0a}ESTA NÃO É A SUA CIDADE.
+0652	{01}{01}Multa de Estacionamento
+0653	{01}{01}(Alguém escreveu na multa.){0a}{0a}ELA ESTÁ DORMINDO AGORA.
+0654	{01}{01}Cupom Fiscal
+0655	{01}{01}(Alguém escreveu no cupom.){0a}{0a}LÁ VEM A VELA PARA TE LEVAR PARA A CAMA{0a}LÁ VEM O AÇOUGUEIRO PARA CORTAR TUA CABEÇA.
+0656	{01}{01}Página Amarelada
+0657	{01}{01}Dispositivo Flauros: Origem desconhecida.{0a}{0a}O dispositivo é mencionado pela primeira vez na poesia de Chang Ch'ien, conselheiro de membros do início da dinastia Han. Num de seus tratados, Chang Ch'ien brinca que prendeu um demônio em sua 'caixa de três lados'. {0a}{0a}Quando Chang Ch'ien morreu num terrível incêndio no palácio imperial em 115 a.C., o dispositivo pareceu perdido.{0a}{0a}Mais tarde, dizia-se que estava com o monge luterano M. G. Lewis, que em 1796 falou de sua capacidade de controlar e amplificar o pensamento. Foi Lewis quem o ligou não a um demônio, mas ao próprio Deus, afirmando ser uma arma deixada pelos anjos como uma força do bem.
+0658	{01}{01}Caso Encerrado
+0659	{01}{01}...devido às preocupações manifestadas pela professora dela, era importante investigar o assunto a fundo. O policial conversou com a Sra. Gillespie e a filha e não viu nenhum indício de negligência ou abuso. Achou que a Sra. Gillespie parecia uma mãe exemplar, criando a filha num lar rígido e religioso.{0a}Além disso, para atender ao pedido da denunciante, pedimos ao Dr. Kaufmann, do Alchemilla, que falasse com a menina a sós. Ele disse que toda aquela conversa sobre rituais e seitas não passava de "fantasias infantis". O único crime da Sra. Gillespie, a seu ver, era ter lido contos de fadas demais para a filha. Arquivamos a denúncia.
+0660	{01}{01}Boletim Policial Alterado
+0661	{01}{01}Parece que o fogo começou no segundo andar e se espalhou pelo resto da casa. As circunstâncias são suspeitas.{0a}{0a}(Alguém riscou este trecho e acrescentou um novo parágrafo.){0a}{0a}Parece que houve um acidente no porão. Uma caldeira velha causou um incêndio que se espalhou pelo resto do prédio. A causa parece ser acidental. {0a}{0a}(O boletim continua, sem alterações.){0a}{0a}Apesar dos esforços dos bombeiros, o fogo se alastrou às casas vizinhas.{a0}Alessa{a0}Gillespie foi declarada morta no local pelo Dr. Kaufmann. O corpo foi identificado pela mãe. A certidão de óbito e o laudo do legista serão emitidos em breve.
+0662	{01}{01}TV Portátil
+0663	{01}{01}uma {01}{0d}TV portátil{01}{01}
+0664	{01}{01}Uma TV portátil.
+0665	{01}{01}Uma TV portátil pesada. Nem tão portátil sem uma tomada.
+0666	{01}{01}Máquina de Escrever
+0667	{01}{01}uma {01}{0d}máquina de escrever{01}{01}
+0668	{01}{01}Uma máquina de escrever prática.
+0669	{01}{01}Uma máquina de escrever portátil Teddington 1500. Funcionando bem.
+0670	{01}{01}Torradeira
+0671	{01}{01}uma {01}{0d}torradeira{01}{01}
+0672	{01}{01}Uma torradeira de metal.
+0673	{01}{01}Tem duas fendas largas para pão, muffins e panquecas. Feita de um metal bem resistente.
+0674	{01}{01}Minha lanterna surrada de prender na roupa.
+0675	{01}{01}No meu trabalho, passo muito tempo na estrada à noite. Quando algo dá errado, é bom ter isto preso na jaqueta.
+0676	{01}{01}Rádio
+0677	{01}{01}Um rádio de bolso barato.
+0678	{01}{01}Útil quando estou descarregando o caminhão. Música ajuda a espantar o tédio.
+0679	{01}{01}Marreta
+0680	{01}{01}uma {01}{0d}marreta{01}{01}
+0681	{01}{01}Uma marreta pesada.
+0682	{01}{01}Uma marreta longa e pesada. Isto pode causar um belo estrago.
+0683	{01}{01}Caixa de Ferramentas
+0684	{01}{01}uma {01}{0d}caixa de ferramentas{01}{01}
+0685	{01}{01}Uma grande caixa de ferramentas de metal
+0686	{01}{01}Uma grande caixa de ferramentas de metal. É pesada e pode fazer um belo amassado.
+0687	{01}{01}Abajur
+0688	{01}{01}um {01}{0d}abajur{01}{01}
+0689	{01}{01}Um abajur pesado.
+0690	{01}{01}O abajur tem uma base pesada e firme.
+0691	{01}{01}Grande Espada
+0692	{01}{01}a {01}{0d}Grande Espada{01}{01}
+0693	{01}{01}Katana
+0694	{01}{01}uma {01}{0d}katana{01}{01}
+0695	{01}{01}Uma lâmina de aço afiada.
+0696	{01}{01}Uma arma poderosa com uma lâmina afiada e mortal.
+0697	{01}{01}Gancho de Açougue
+0698	{01}{01}um {01}{0d}gancho de açougue{01}{01}
+0699	{01}{01}Um gancho de açougue afiado.
+0700	{01}{01}Um gancho de açougue curvo e de aparência cruel, mortalmente afiado e ideal para perfurar carne.
+0701	{01}{01}Madeira Lascada
+0702	{01}{01}um {01}{0d}pedaço de madeira lascada{01}{01}
+0703	{01}{01}Um pedaço de madeira lascado.
+0704	{01}{01}Um pedaço de madeira, lascado e quebrado numa ponta. Não é exatamente letal, mas é melhor que nada.
+0705	{01}{01}Arquivo de Metal
+0706	{01}{01}um {01}{0d}arquivo de metal{01}{01}
+0707	{01}{01}Um pequeno arquivo de metal.
+0708	{01}{01}Um arquivo manejável com quinas afiadas. Está vazio.
+0709	{01}{01}Garrafa de Álcool
+0710	{01}{01}uma {01}{0d}garrafa de álcool{01}{01}
+0711	{01}{01}Uma garrafa de álcool medicinal.
+0712	{01}{01}Uma garrafa de álcool medicinal. Feita de vidro grosso e pesado. Está vazia.
+0713	{01}{01}Faca de Cozinha
+0714	{01}{01}uma {01}{0d}faca de cozinha{01}{01}
+0715	{01}{01}Uma faca de aço para cortar.
+0716	{01}{01}Bem afiada, esta lâmina de aço parece do tipo que se encontra num bom jogo de facas de chef.
+0717	{01}{01}Pesos de Ferro
+0718	{01}{01}uns {01}{0d}pesos de ferro{01}{01}
+0719	{01}{01}Uma pilha de pesos de ferro.
+0720	{01}{01}Usados para prender cenários e outras coisas de teatro. Muito pesados.
+0721	{01}{01}Navalha
+0722	{01}{01}uma {01}{0d}navalha{01}{01}
+0723	{01}{01}Uma navalha antiga.
+0724	{01}{01}Sempre que corto o cabelo, o barbeiro usa uma dessas. Eu mesmo não me barbeio muito. O trabalho não exige exatamente um visual alinhado.
+0725	{01}{01}Bisturi
+0726	{01}{01}um {01}{0d}bisturi{01}{01}
+0727	{01}{01}Um bisturi de aço inoxidável.
+0728	{01}{01}Um bisturi de cirurgião. Bem curto, mas incrivelmente afiado.
+0729	{01}{01}Suporte de Soro
+0730	{01}{01}um {01}{0d}suporte de soro{01}{01}
+0731	{01}{01}Um suporte de soro de metal resistente.
+0732	{01}{01}O tipo de suporte em que penduram o soro nos hospitais. Surpreendentemente pesado.
+0733	{01}{01}Cutelo
+0734	{01}{01}um {01}{0d}cutelo{01}{01}
+0735	{01}{01}Um cutelo afiado.
+0736	{01}{01}Com um cabo de madeira firme, é uma ferramenta poderosa para cortar carne e osso.
+0737	{01}{01}Chave Inglesa
+0738	{01}{01}uma {01}{0d}chave inglesa{01}{01}
+0739	{01}{01}Uma chave inglesa reforçada.
+0740	{01}{01}Parece as chaves de roda que usam lá no depósito de caminhões.
+0741	{01}{01}Engradado
+0742	{01}{01}um {01}{0d}engradado{01}{01}
+0743	{01}{01}Um engradado de plástico.
+0744	{01}{01}Parece que era usado para carregar garrafas ou algo assim.
+0745	{01}{01}Atiçador
+0746	{01}{01}um {01}{0d}atiçador{01}{01}
+0747	{01}{01}Um atiçador pontudo.
+0748	{01}{01}Do tipo usado para atiçar o fogo. É bem pesado e tem a ponta afiada.

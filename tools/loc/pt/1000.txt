@@ -1,0 +1,250 @@
+1000	{01}{01}a {01}{0c}aliança{01}{01}
+1001	{01}{01}Uma aliança de ouro.
+1002	{01}{01}A aliança tem uma mensagem gravada no aro. Diz:{0a}{0a}Para minha noiva de junho. Amor eterno, Richard
+1003	{01}{01}Ficha
+1004	{01}{01}uma {01}{0c}ficha{01}{01}
+1005	{01}{01}Uma ficha com "lavanderia" escrito.
+1006	{01}{01}Uma pequena ficha de metal para usar numa lavanderia.
+1007	{01}{01}Coração de Joias
+1008	{01}{01}o {01}{0c}coração de joias{01}{01}
+1009	{01}{01}Um coração de ouro incrustado de joias.
+1010	{01}{01}Quando o sacudo, ouço algo chacoalhando lá dentro.
+1011	{01}{01}Chave da Madeireira
+1012	{01}{01}a {01}{0c}chave da madeireira{01}{01}
+1013	{01}{01}Uma chave marcada "Madeireira".
+1014	{01}{01}Uma chave de ferro pesada. A etiqueta diz "Madeireira".
+1015	{01}{01}Ingresso de Teatro
+1016	{01}{01}um {01}{0c}ingresso de teatro{01}{01}
+1017	{01}{01}Um ingresso para o Teatro Artaud.
+1018	{01}{01}Um ingresso de teatro amarelo e desbotado. Dá direito a uma entrada para "A Tempestade".
+1019	{01}{01}Chave da Livraria
+1020	{01}{01}a {01}{0c}chave da livraria{01}{01}
+1021	{01}{01}Uma chave com "porta dos fundos" escrito na etiqueta.
+1022	{01}{01}Uma chave simples e bem usada para fechadura de embutir.
+1023	{01}{01}Chave do Motel
+1024	{01}{01}a {01}{0c}chave do motel{01}{01}
+1025	{01}{01}Uma chave com chaveiro do Riverside Motel.
+1026	{01}{01}Parece uma chave de porta. Tem um chaveiro com propaganda do "Riverside Motel".
+1027	{01}{01}Chave do Quarto 502
+1028	{01}{01}a {01}{0c}chave do quarto 502{01}{01}
+1029	{01}{01}Uma chave com etiqueta em forma de lua crescente.
+1030	{01}{01}Parece uma chave de motel comum, mas há algo... sobrenatural nela. Cheira a ozônio.
+1031	{01}{01}Quem foi que eu acabei de passar?
+1032	{01}{01}...É você, parceiro?
+1033	{01}{01}Alto como árvore e largo como parede.
+1034	{01}{01}Travis, seu filho da mãe biruta.
+1035	{01}{01}O que faz na minha estrada?
+1036	{01}{01}Atrasado para uma entrega, parceiro.
+1037	{01}{01}Vou pegar o atalho por Silent Hill;
+1038	{01}{01}...e parar para um café assim que chegar em Brahms.
+1039	{01}{01}Estou morto de cansaço.
+1040	{01}{01}Os pesadelos ainda não te deixam dormir?
+1041	{01}{01}Já te disse, cara, uma ou duas garotas resolveriam.
+1042	{01}{01}...Dorme feito um bebê com uma gata na cabine.
+1043	{01}{01}Acho que não conheço as garotas certas, parceiro.
+1044	{01}{01}Talvez se você não vivesse falando de--
+1045	{01}{01}--lembrar como ou por quê...
+1046	{01}{01}Ei, calma. Eu não fico falando dos seus problemas.
+1047	{01}{01}Nem precisa. Minha patroa me mantém bem informado das minhas falhas.
+1048	{01}{01}A mulher anota tudo.
+1049	{01}{01}Quer dizer que ela ainda não te largou?
+1050	{01}{01}É questão de tempo. A gente se vê, Travis.
+1051	{01}{01}Vai com calma.
+1052	{01}{01}Câmbio. Até mais, parceiro.
+1053	{01}{01}Hã...?
+1054	{01}{01}Ei, volta aqui!
+1055	{01}{01}Não é neblina... é fumaça... Meu Deus...
+1056	{01}{01}Tem alguém lá dentro!
+1057	{01}{01}Deixe-me queimar.
+1058	{01}{01}Você vem comigo.
+1059	{01}{01}...A salvo agora.
+1060	{01}{01}Ei!
+1061	{01}{01}Alguém ajude ela!
+1062	{01}{01}Onde está...
+1063	{01}{01}...todo mundo?
+1064	{01}{01}Onde eu estou?
+1065	{01}{01}...Silent Hill?
+1066	{01}{01}O que aconteceu ontem à noite?
+1067	{01}{01}Aquela menina...
+1068	{01}{01}Será que ela sobreviveu?
+1069	{01}{01}Devem ter levado ela para o hospital.
+1070	{01}{01}...Rua Koontz.
+1071	{01}{01}Preciso ver se ela está bem.
+1072	{01}{01}Ei! O senhor é médico?
+1073	{01}{01}Posso ajudar?
+1074	{01}{01}O incêndio de ontem à noite, a menina que se queimou?
+1075	{01}{01}Ela está aqui?
+1076	{01}{01}Uma menina?
+1077	{01}{01}Não recebemos nenhum paciente novo desde ontem.
+1078	{01}{01}Ela estava ferida?
+1079	{01}{01}Estava queimada no corpo todo!
+1080	{01}{01}O senhor é parente?
+1081	{01}{01}Qual é mesmo o nome dela?
+1082	{01}{01}Não sei o nome dela.
+1083	{01}{01}Fui eu que a salvei do incêndio.
+1084	{01}{01}Ela deve ter sido trazida para cá.
+1085	{01}{01}Existe outro hospital?
+1086	{01}{01}Sinto muito. Talvez alguém na recepção possa ajudá-lo.
+1087	{01}{01}Tenho assuntos urgentes a tratar.
+1088	{01}{01}Até logo.
+1089	{01}{01}Moça?
+1090	{01}{01}Você está bem?
+1091	{01}{01}...O quê?
+1092	{01}{01}Você é a menina do incêndio...
+1093	{01}{01}Como você...?
+1094	{01}{01}Estou vendo coisas.
+1095	{01}{01}Isso não está certo.
+1096	{01}{01}O que é isso?
+1097	{01}{01}Você...
+1098	{01}{01}O que era aquela coisa?
+1099	{01}{01}Isso... não está... acontecendo...
+1100	{01}{01}Você está bem?
+1101	{01}{01}Desculpe, eu te assustei?
+1102	{01}{01}Meu nome é Lisa. Sou estagiária aqui.
+1103	{01}{01}Está esperando alguém?
+1104	{01}{01}Não! Não, eu só...
+1105	{01}{01}bem, já terminei aqui.
+1106	{01}{01}Eu me chamo Travis. Prazer, Lisa.
+1107	{01}{01}Tem certeza de que está bem?
+1108	{01}{01}Você parece um pouco abalado.
+1109	{01}{01}...Desculpe.
+1110	{01}{01}Não, tudo bem.
+1111	{01}{01}Para ser sincero, estou meio... estranho o dia todo.
+1112	{01}{01}Estive num incêndio ontem à noite; acho que cozinhou um pouco o meu cérebro.
+1113	{01}{01}O incêndio no centro comercial?
+1114	{01}{01}Que horror. Fiquei sabendo.
+1115	{01}{01}Ninguém sabe como começou.
+1116	{01}{01}E aquela pobre menina, Alessa Gillespie...
+1117	{01}{01}Morrer daquele jeito...
+1118	{01}{01}Alessa?
+1119	{01}{01}Ela morreu?
+1120	{01}{01}Sim.
+1121	{01}{01}Desculpe, você a conhecia?
+1122	{01}{01}Não, mas...
+1123	{01}{01}...deixa para lá.
+1124	{01}{01}Bom, tenho que ir correndo.
+1125	{01}{01}O Dr. Kaufmann quer me encontrar no Sanatório Cedar Grove e vai ficar bravo se eu me atrasar!
+1126	{01}{01}A gente se vê por aí?
+1127	{01}{01}Vá com calma, Travis...
+1128	{01}{01}Você também, Lisa.
+1129	{01}{01}DESAPARECIDA
+1130	{01}{01}Você estava no incêndio!
+1131	{01}{01}Eu te vi lá.
+1132	{01}{01}Claro que viu.
+1133	{01}{01}Era a minha casa... queimando.
+1134	{01}{01}Minha filha, Alessa.
+1135	{01}{01}Foi você que a salvou?
+1136	{01}{01}Sim. Ela era sua filha?
+1137	{01}{01}Por que a abandonou?
+1138	{01}{01}Por que ninguém ajudou!?
+1139	{01}{01}Vocês deixaram aquela menina queimar.
+1140	{01}{01}Deixamos, sim.
+1141	{01}{01}O mundo é mais estranho do que você pensa...
+1142	{01}{01}Você é louca.
+1143	{01}{01}O que aconteceu com ela?
+1144	{01}{01}A Lisa disse que ela morreu.
+1145	{01}{01}Alessa está com aqueles que cuidam dela.
+1146	{01}{01}Não confie nela, Travis.
+1147	{01}{01}Ela não sabe o que está fazendo.
+1148	{01}{01}Como sabe o meu nome!?
+1149	{01}{01}Ei, me responda!
+1150	{01}{01}São todos loucos.
+1151	{01}{01}Lisa?
+1152	{01}{01}Você também está aqui?
+1153	{01}{01}Consegue ver tudo isso?
+1154	{01}{01}Está tudo... escuro para você também?
+1155	{01}{01}Eu... É tão triste.
+1156	{01}{01}Não podem fazer nada por ela.
+1157	{01}{01}Ela só fica sentada ali...
+1158	{01}{01}Ela quer tanto o filho dela.
+1159	{01}{01}De quem você está falando?
+1160	{01}{01}A menina está lá dentro? Alessa?
+1161	{01}{01}A Alessa está aí?
+1162	{01}{01}Não. Não! Você SABE quem está aí dentro!
+1163	{01}{01}Mamãe?
+1164	{01}{01}O papai disse que você tinha morrido.
+1165	{01}{01}Você está morta?
+1166	{01}{01}Não estou morta. Estou trancada!
+1167	{01}{01}Longe dos olhos, longe do coração. Não morta.
+1168	{01}{01}Pedi que trouxessem meu menino até mim.
+1169	{01}{01}...Mamãe.
+1170	{01}{01}Vem cá, menino.
+1171	{01}{01}Deixa a mamãe olhar para você.
+1172	{01}{01}É igualzinho a antes.
+1173	{01}{01}O que está acontecendo aqui?
+1174	{01}{01}Aquela coisa... não pode ter sido.
+1175	{01}{01}É você quem está fazendo isso acontecer?
+1176	{01}{01}...É você que está fazendo isso?
+1177	{01}{01}Espere... Não, não vá... Preciso saber...
+1178	{01}{01}Um ingresso de teatro? Quem colocou isso aqui?
+1179	{01}{01}O que você está fazendo aqui, Lisa?
+1180	{01}{01}Desculpe se te assustei...
+1181	{01}{01}Achei que eu fosse a única aqui.
+1182	{01}{01}É perigoso.
+1183	{01}{01}Perigoso? Está brincando!
+1184	{01}{01}...A porta estava aberta, então eu entrei.
+1185	{01}{01}Eu simplesmente adoro teatro, Travis.
+1186	{01}{01}Quero ser atriz.
+1187	{01}{01}Mas a minha mãe era enfermeira, e a mãe dela era enfermeira...
+1188	{01}{01}Então eu vou ser enfermeira.
+1189	{01}{01}Mas eu tenho talento...
+1190	{01}{01}Não consigo parar de pensar em você, Travis.
+1191	{01}{01}Eu quero você. Só penso em você.
+1192	{01}{01}Vamos dar o fora desta cidade maluca...
+1193	{01}{01}...Fugir, nós dois.
+1194	{01}{01}Poderíamos ser tão bons juntos...
+1195	{01}{01}Viu? Eu poderia ser uma estrela!
+1196	{01}{01}É...
+1197	{01}{01}Bom, a gente se vê!
+1198	{01}{01}Você precisa disto, não é?
+1199	{01}{01}De novo não!
+1200	{01}{01}Riverside Motel...
+1201	{01}{01}Acho que já estive lá.
+1202	{01}{01}Lisa...?
+1203	{01}{01}Travis.
+1204	{01}{01}O senhor tem o hábito de aparecer onde não é bem-vindo, Sr. Grady.
+1205	{01}{01}Não está na hora de ir embora da cidade?
+1206	{01}{01}Não posso.
+1207	{01}{01}Tente com mais vontade.
+1208	{01}{01}Papai?
+1209	{01}{01}Papai...
+1210	{01}{01}Eu ganhei o jogo.
+1211	{01}{01}Ainda tenho uma moeda...
+1212	{01}{01}Quer a moeda?
+1213	{01}{01}...acorda.
+1214	{01}{01}Por favor, papai.
+1215	{01}{01}Não estou dormindo, filho.
+1216	{01}{01}Você sabia que eu não estava dormindo.
+1217	{01}{01}Por que ficou parado ali por tanto tempo?
+1218	{01}{01}Não foi certo.
+1219	{01}{01}Por favor, papai!
+1220	{01}{01}Não foi saudável, filho.
+1221	{01}{01}Papai, isso é loucura.
+1222	{01}{01}Está na hora de encarar o que aconteceu.
+1223	{01}{01}Sua mãe e eu... vamos te ver no céu, filho.
+1224	{01}{01}Como isso é possível?
+1225	{01}{01}Pai...
+1226	{01}{01}Como ele pôde fazer isso consigo mesmo?
+1227	{01}{01}Por que não me deixa esquecer?
+1228	{01}{01}Por que está fazendo isso comigo!?
+1229	{01}{01}Apareça!
+1230	{01}{01}Estou com a sua... a sua COISA aqui!
+1231	{01}{01}Satisfeita?
+1232	{01}{01}Você desenterrou meus pais; e agora?
+1233	{01}{01}Quando vamos poder olhar dentro dessa sua mente doentia?
+1234	{01}{01}Isso não está certo.
+1235	{01}{01}...Esta é a última.
+1236	{01}{01}...Você está aqui!?
+1237	{01}{01}Espere!
+1238	{01}{01}O que você fez?
+1239	{01}{01}Você quebrou o feitiço! Agora ela está livre.
+1240	{01}{01}Agora ela está livre.
+1241	{01}{01}Só quero acabar com isso.
+1242	{01}{01}Achei que era isso que ela queria também.
+1243	{01}{01}Quero sair dessa!
+1244	{01}{01}Pode me ajudar?
+1245	{01}{01}Quer sair?
+1246	{01}{01}Tarde demais para isso.
+1247	{01}{01}Mesmo com a sua ajuda equivocada, ela não pode mais nos deter.
+1248	{01}{01}A cerimônia começa em breve.
+1249	{01}{01}Finalmente, ela dará à luz Deus!

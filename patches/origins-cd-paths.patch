@@ -1,0 +1,24 @@
+diff --git a/ps2xRuntime/src/main.cpp b/ps2xRuntime/src/main.cpp
+index 563bcbd..4aa696b 100644
+--- a/ps2xRuntime/src/main.cpp
++++ b/ps2xRuntime/src/main.cpp
+@@ -226,6 +226,19 @@ int main(int argc, char *argv[])
+             return 1;
+         }
+ 
++        const char *cdImage = std::getenv("PS2X_CD_IMAGE");
++        const char *cdRoot = std::getenv("PS2X_CD_ROOT");
++        if ((cdImage && cdImage[0] != '\0') || (cdRoot && cdRoot[0] != '\0'))
++        {
++            PS2Runtime::IoPaths paths = PS2Runtime::getIoPaths();
++            if (cdImage && cdImage[0] != '\0')
++                paths.cdImage = cdImage;
++            if (cdRoot && cdRoot[0] != '\0')
++                paths.cdRoot = cdRoot;
++            PS2Runtime::setIoPaths(paths);
++            std::cerr << "[io] CD image=" << paths.cdImage << " root=" << paths.cdRoot << std::endl;
++        }
++
+         runtime.run();
+ 
+ #ifdef _DEBUG

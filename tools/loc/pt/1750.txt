@@ -1,0 +1,28 @@
+1759	{01}{01}Artistas de Efeitos Especiais
+1762	{01}{01}Animadores
+1767	{01}{01}Programadores
+1772	{01}{01}Designers
+1798	{01}{01}Equipe de Apoio da Climax
+1805	{01}{01}PARCEIROS TERCEIRIZADOS DA CLIMAX
+1812	{01}{01}Supervisor de CG
+1814	{01}{01}Diretor Técnico 3D
+1818	{01}{01}Animação 3D
+1825	{01}{01}Artistas 3D
+1835	{01}{01}Compositor 2D
+1837	{01}{01}Efeitos Sonoros
+1840	{01}{01}Editores
+1844	{01}{01}Operadores de Captura de Movimento
+1847	{01}{01}Animações de Captura de Movimento
+1851	{01}{01}Atores de Captura de Movimento
+1860	{01}{01}Assistente de Projeto e Gerente de Dados
+1863	{01}{01}Artistas
+1884	{01}{01}Diretor de Operações
+1888	{01}{01}Gerente do Estúdio de Captura de Movimento
+1890	{01}{01}Supervisor de Pós-Produção
+1898	{01}{01}Diretor de Vozes e Elenco
+1904	{01}{01}John Chancer - Dr. Grady, Dr. Kaufmann
+1907	{01}{01}Ben Eli - Travis Criança
+1908	{01}{01}AGRADECIMENTOS ESPECIAIS
+1922	{01}{01}Joe McGuffin, Nick Kononelos, Eric Kovats e a equipe da Technicolor
+1950	{01}{01}A grande equipe do Silent Hill Heaven e do Silent Hill Forum
+1951	{01}{01}…e todos os fãs de Silent Hill
