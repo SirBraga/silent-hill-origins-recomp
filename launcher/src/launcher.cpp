@@ -127,6 +127,10 @@ namespace launcher
         }
         if (root.empty())
             root = fs::current_path(ec).string();
+        // macOS runs a downloaded, unmoved app from a random read-only copy; the game folder is not found from there.
+        if (root.find("/AppTranslocation/") != std::string::npos)
+            status = "O macOS abriu o launcher numa cópia isolada. No Terminal, rode: xattr -dr com.apple.quarantine "
+                     "<pasta do jogo> e abra de novo (veja o LEIA-ME).";
         resetKeys();
         load();
         scanMods();
@@ -609,6 +613,14 @@ namespace launcher
         fs::remove(fs::path(root) / "recomp/diagnostics/gs-dump/cena.request", ec);
         fs::create_directories(fs::path(logPath()).parent_path(), ec);
         const std::string exe = runnerPath(), elf = (fs::path(root) / "orig" / "SLUS_217.31").string();
+        // A release ships without the ELF: it comes from the disc. It is copied next to orig/ so the memory card
+        // (orig/mc0, beside the ELF) stays where a development tree keeps it.
+        if (!fs::exists(elf, ec))
+        {
+            const fs::path fromDisc = fs::path(discDir()) / "SLUS_217.31";
+            fs::create_directories(fs::path(elf).parent_path(), ec);
+            if (fs::exists(fromDisc, ec)) fs::copy_file(fromDisc, elf, ec);
+        }
         if (!fs::exists(elf, ec)) { status = "ELF não encontrado: " + elf; return false; }
         const auto env = buildEnv();
 #if defined(_WIN32)
