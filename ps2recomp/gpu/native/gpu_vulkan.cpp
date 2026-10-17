@@ -1959,10 +1959,14 @@ namespace gpu
                 cls.lpfnWndProc = childWindowProc;
                 cls.hInstance = GetModuleHandleW(nullptr);
                 cls.lpszClassName = L"Ps2xNativeGs";
+                cls.hCursor = LoadCursorW(nullptr, MAKEINTRESOURCEW(32512)); // IDC_ARROW; none left the "app starting" cursor over the game
                 RegisterClassW(&cls);
                 RECT rect{};
                 GetClientRect(raw->parent, &rect);
-                raw->child = CreateWindowExW(WS_EX_NOPARENTNOTIFY, L"Ps2xNativeGs", L"", WS_CHILD | WS_VISIBLE | WS_CLIPSIBLINGS, 0, 0, rect.right - rect.left,
+                // Disabled: it only shows the picture. A child owned by another thread shares the game window's input
+                // queue, and while it could take input the keyboard never reached the game (HTTRANSPARENT does not pass
+                // the mouse on across threads either); a disabled child leaves mouse and keyboard to the game window.
+                raw->child = CreateWindowExW(WS_EX_NOPARENTNOTIFY, L"Ps2xNativeGs", L"", WS_CHILD | WS_VISIBLE | WS_CLIPSIBLINGS | WS_DISABLED, 0, 0, rect.right - rect.left,
                                              rect.bottom - rect.top, raw->parent, nullptr, cls.hInstance, nullptr);
                 raw->windowThreadId = GetCurrentThreadId();
                 {

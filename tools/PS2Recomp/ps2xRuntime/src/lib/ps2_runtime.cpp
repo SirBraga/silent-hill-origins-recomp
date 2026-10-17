@@ -1168,7 +1168,15 @@ bool PS2Runtime::initialize(const char *title)
             {
                 const Vector2 dpi = GetWindowScaleDPI();
                 const float sx = dpi.x > 0.0f ? dpi.x : 1.0f, sy = dpi.y > 0.0f ? dpi.y : 1.0f;
-                SetWindowSize(static_cast<int>(static_cast<float>(w) / sx), static_cast<int>(static_cast<float>(h) / sy));
+                const int ww = static_cast<int>(static_cast<float>(w) / sx), wh = static_cast<int>(static_cast<float>(h) / sy);
+                SetWindowSize(ww, wh);
+                // InitWindow centred the window at its first size; grown from there it hung off the bottom-right corner.
+                // Centred again on its monitor, with the title bar kept on screen (position = the client area's corner).
+                const int monitor = GetCurrentMonitor();
+                const Vector2 origin = GetMonitorPosition(monitor);
+                const int mw = GetMonitorWidth(monitor), mh = GetMonitorHeight(monitor);
+                if (mw > 0 && mh > 0)
+                    SetWindowPosition(static_cast<int>(origin.x) + std::max(0, (mw - ww) / 2), static_cast<int>(origin.y) + std::max(32, (mh - wh) / 2));
             }
         }
         if (const char *fs = std::getenv("PS2X_FULLSCREEN"); fs && fs[0] == '1')
