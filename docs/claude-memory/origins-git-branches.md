@@ -7,7 +7,8 @@ metadata:
 
 Since 2026-10-16 the SHO repo (`~/Documents/silent-hill-origins-recomp`) has commits.
 - Branch `macos`: the Mac release, first commit 6058211.
-- Branch `windows`: created from it, for the Windows port. The user asked to commit from now on, with the Mac release on `macos` and the port on `windows`.
+- Branch `windows`: created from it, for the Windows port.
+- Branch `android`: created 2026-10-17 from `macos` (5d1e82d), for the Android port. The user asked to commit from now on, with the Mac release on `macos` and the port on `windows`.
 - Remote `origin`: public repo https://github.com/SirBraga/silent-hill-origins-recomp, both branches pushed on 2026-10-16. Making it public, with the generated code, was the user's choice.
 - Versioned on the user's choice:
   - the generated recompiled code (EE in `tools/PS2Recomp/ps2xRuntime/src/runner` plus the two `include/ps2_recompiled_*.h`, force-added past the upstream .gitignore; IOP `.inc`; VU parts);
