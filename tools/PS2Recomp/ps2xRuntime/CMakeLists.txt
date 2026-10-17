@@ -504,6 +504,14 @@ set(PS2X_WINDOW_TITLE "Silent Hill Origins - Recompiled" CACHE STRING "Title of 
 set_target_properties(ps2EntryRunner PROPERTIES OUTPUT_NAME "${PS2X_RUNNER_OUTPUT_NAME}")
 target_compile_definitions(ps2EntryRunner PRIVATE PS2X_WINDOW_TITLE="${PS2X_WINDOW_TITLE}")
 
+# Windows: an icon for the executable and its window (GLFW loads the resource named GLFW_ICON).
+set(PS2X_RUNNER_ICON "${CMAKE_CURRENT_SOURCE_DIR}/../../../launcher/assets/sho.ico" CACHE FILEPATH "Icon of the runner executable on Windows")
+if(WIN32 AND EXISTS "${PS2X_RUNNER_ICON}")
+    enable_language(RC)
+    file(WRITE ${CMAKE_CURRENT_BINARY_DIR}/runner_icon.rc "GLFW_ICON ICON \"${PS2X_RUNNER_ICON}\"\n")
+    target_sources(ps2EntryRunner PRIVATE ${CMAKE_CURRENT_BINARY_DIR}/runner_icon.rc)
+endif()
+
 if(PS2X_ENABLE_RUNNER_UNITY_BUILD)
     set_target_properties(ps2EntryRunner PROPERTIES
         UNITY_BUILD ON

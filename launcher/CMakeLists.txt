@@ -40,3 +40,10 @@ target_link_libraries(imgui_lib PUBLIC raylib)
 
 add_executable(sho_launcher src/main.cpp src/launcher.cpp src/ui.cpp)
 target_link_libraries(sho_launcher PRIVATE imgui_lib)
+
+# Windows: the game's icon on the .exe and, through the GLFW_ICON resource name GLFW looks for, on the window.
+if(WIN32)
+    enable_language(RC)
+    file(WRITE ${CMAKE_CURRENT_BINARY_DIR}/sho_icon.rc "GLFW_ICON ICON \"${CMAKE_CURRENT_SOURCE_DIR}/assets/sho.ico\"\n")
+    target_sources(sho_launcher PRIVATE ${CMAKE_CURRENT_BINARY_DIR}/sho_icon.rc)
+endif()
