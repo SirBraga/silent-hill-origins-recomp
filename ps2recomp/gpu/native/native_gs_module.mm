@@ -1930,10 +1930,16 @@ namespace
                 static const bool nearest = [] { const char *v = std::getenv("PS2X_GS_NATIVE_REFRESH_BILINEAR"); return !(v && v[0] == '1'); }(); // bilinear is experimental, opt-in
                 if (nearest || scale == 1u)
                 {
+                    // Built in ordinary cached memory and copied once: the staging buffer can be write-combined (discrete GPUs
+                    // under Vulkan), where reading back the previous pixel/row per output pixel cost ~250 ms per page set at 4x.
+                    static thread_local std::vector<uint32_t> scratch;
+                    scratch.resize(size_t(stride) * rows);
+                    uint32_t *out = scratch.data();
                     for (uint32_t y = 0; y < rows; ++y)
                         for (uint32_t x = 0; x < stride; ++x)
-                            pixels[size_t(y) * stride + x] = (y % scale) != 0u ? pixels[size_t(y - 1u) * stride + x] : (x % scale) != 0u ? pixels[size_t(y) * stride + x - 1u]
+                            out[size_t(y) * stride + x] = (y % scale) != 0u ? out[size_t(y - 1u) * stride + x] : (x % scale) != 0u ? out[size_t(y) * stride + x - 1u]
                                 : expand(layout.read(vram.data(), target.fbp * 32u, target.fbw, x0 + x / scale, y0 + y / scale), psm, 0x80u, 0x80u, false);
+                    std::memcpy(pixels, out, pageBytes);
                 }
                 else
                 {
@@ -3928,12 +3934,15 @@ namespace
             const uint64_t interval = previous ? arrived - previous : 0, busyNs = g_busyNs.exchange(0), textureNs = g_textureNs.exchange(0), waitNs = g_gpuWaitNs.exchange(0),
                            decoded = g_decodedSince.exchange(0);
             previous = arrived;
-            // PS2X_GS_NATIVE_HITCH_LOG=0 silences it.
+            // PS2X_GS_NATIVE_HITCH_LOG=0 silences it; PS2X_GS_NATIVE_HITCH_MS=<ms> sets the gap that counts (default 100). It
+            // was 25 ms: at the game's 30 fps every frame passed it, and the synchronous write on this (the presenting)
+            // thread delayed the next frame in turn (Windows: 120 of 120 frames late, ~20 fps, until it was silenced).
             static const bool hitchLog = [] { const char *v = std::getenv("PS2X_GS_NATIVE_HITCH_LOG"); return !(v && v[0] == '0'); }();
+            static const uint64_t hitchNs = [] { const char *v = std::getenv("PS2X_GS_NATIVE_HITCH_MS"); const long ms = v ? std::atol(v) : 0; return uint64_t(ms > 0 ? ms : 100) * 1000000ull; }();
             const uint64_t readbackNs = g_readbackNs.exchange(0), readbacks = g_readbacks.exchange(0), refreshNs = g_refreshNs.exchange(0), refreshes = g_refreshes.exchange(0),
                            presentNs = g_presentNs.exchange(0), flushWaitNs = g_flushWaitNs.exchange(0), flushWaits = g_flushWaits.exchange(0);
             g_presentNsDummy.store(0, std::memory_order_relaxed);
-            if (hitchLog && interval > 25000000ull && reported++ < 2000u)
+            if (hitchLog && interval > hitchNs && reported++ < 2000u)
                 std::fprintf(stderr, "[hitch] scanout %.1f ms after the previous one: GS thread busy %.1f ms here (textures %.1f ms, %llu decoded; GPU waits %.1f ms;"
                                      " readbacks %.1f ms x%llu, VRAM to targets %.1f ms x%llu, present %.1f ms, waiting flushes %.1f ms x%llu)\n",
                              interval / 1e6, busyNs / 1e6, textureNs / 1e6, (unsigned long long)decoded, waitNs / 1e6, readbackNs / 1e6, (unsigned long long)readbacks,

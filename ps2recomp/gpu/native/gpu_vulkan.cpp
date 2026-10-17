@@ -962,7 +962,11 @@ namespace gpu
                 return nullptr;
             VkMemoryRequirements requirements;
             vkGetBufferMemoryRequirements(device, out->buffer, &requirements);
-            if (!allocator.allocate(requirements, VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT | VK_MEMORY_PROPERTY_HOST_COHERENT_BIT, out->memory))
+            // Cached host memory when there is some: the renderer reads its vertex and staging buffers back on the CPU
+            // (triangle placement, splitting self-sampling batches), and on discrete GPUs the plain host-visible type is
+            // uncached / write-combined, where every such read stalls (the GS thread sat at ~95% of a core at 4x).
+            const VkMemoryPropertyFlags hostVisible = VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT | VK_MEMORY_PROPERTY_HOST_COHERENT_BIT;
+            if (!allocator.allocate(requirements, hostVisible | VK_MEMORY_PROPERTY_HOST_CACHED_BIT, out->memory) && !allocator.allocate(requirements, hostVisible, out->memory))
                 return nullptr;
             vkBindBufferMemory(device, out->buffer, out->memory.block->memory, out->memory.offset);
             out->contents = out->memory.mapped();
