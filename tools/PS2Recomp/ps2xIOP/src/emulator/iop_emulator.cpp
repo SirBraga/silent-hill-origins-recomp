@@ -1233,7 +1233,9 @@ namespace ps2x::iop::detail
         void runCycles(uint64_t cycles) noexcept
         {
             static uint64_t nextShoThreadSample = 0u;
-            if (std::getenv("SHO_DIAG_RWA") != nullptr && totalCycles >= nextShoThreadSample)
+            // Cached: getenv is slow on Windows and this runs for every scheduling slice.
+            static const bool diagRwa = std::getenv("SHO_DIAG_RWA") != nullptr;
+            if (diagRwa && totalCycles >= nextShoThreadSample)
             {
                 nextShoThreadSample = totalCycles + 10000000u;
                 char summary[128];

@@ -926,7 +926,7 @@ void PS2Runtime::advanceIopEeCycles(uint64_t eeCycles) noexcept
                 {
                     {
                         std::unique_lock<std::mutex> lock(self.wakeMutex);
-                        self.wake.wait_for(lock, ps2x_wait::duration(std::chrono::milliseconds(1)), [&self]
+                        ps2x_wait::waitFor(self.wake, lock, ps2x_wait::duration(std::chrono::milliseconds(1)), [&self]
                         { return self.stop.load() || self.pending.load(std::memory_order_acquire) >= kIopWakeEeCycles; });
                     }
                     const uint64_t cycles = self.pending.exchange(0u, std::memory_order_acq_rel);
@@ -966,7 +966,7 @@ void PS2Runtime::advanceIopEeCycles(uint64_t eeCycles) noexcept
         Ps2xWaitTimer waited(kPs2xWaitGameForIop);
         std::unique_lock<std::mutex> lock(worker.wakeMutex);
         worker.wake.notify_one();
-        worker.drained.wait_for(lock, ps2x_wait::duration(std::chrono::milliseconds(2)), [&worker]
+        ps2x_wait::waitFor(worker.drained, lock, ps2x_wait::duration(std::chrono::milliseconds(2)), [&worker]
         { return worker.stop.load() || worker.pending.load(std::memory_order_acquire) <= kIopMaxLagEeCycles / 2u; });
     }
 }

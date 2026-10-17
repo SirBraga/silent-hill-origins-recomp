@@ -807,7 +807,7 @@ void ps2xGsSetOrderedDisplayRegs(const uint64_t regs[8])
 void ps2xWaitDisplayFlip(uint64_t seen, int timeoutMs)
 {
     std::unique_lock<std::mutex> lock(g_orderedDisplayMutex);
-    g_displayFlipCv.wait_for(lock, ps2x_wait::duration(std::chrono::milliseconds(timeoutMs)), [seen] { return g_ps2xDisplayFlips.load(std::memory_order_acquire) != seen; });
+    ps2x_wait::waitFor(g_displayFlipCv, lock, ps2x_wait::duration(std::chrono::milliseconds(timeoutMs)), [seen] { return g_ps2xDisplayFlips.load(std::memory_order_acquire) != seen; });
 }
 
 GSPresentationRequest GS::buildPresentationRequestUnlocked() const

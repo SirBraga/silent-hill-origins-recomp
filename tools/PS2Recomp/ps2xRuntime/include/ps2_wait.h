@@ -3,6 +3,7 @@
 // PS2X_SIMULATE_WIN_TIMER: reproduce Windows' timer on other systems, for testing without a PC. Windows rounds every
 // sleep and timed wait up to its timer tick: 15.6 ms by default (=1), 1 ms after timeBeginPeriod(1) (=1ms).
 #pragma once
+#include <algorithm>
 #include <chrono>
 #include <cstdlib>
 #include <cstring>
@@ -44,5 +45,35 @@ namespace ps2x_wait
         if (at <= now)
             return at;
         return now + std::chrono::duration_cast<Dur>(duration(at - now));
+    }
+
+    // condition_variable::wait_until with a predicate. libc++ on Windows hands SleepConditionVariableSRW the time left
+    // truncated to whole milliseconds, so the last millisecond of every timed wait turned into 0 ms waits in a loop: a
+    // busy-wait (the IOP worker, which waits 1 ms at a time, sat at ~100% of a core). There each step waits the time
+    // left rounded up to whole milliseconds (plus a margin for the truncation), so a wait ends up to ~1 ms late, as
+    // Windows' own timer rounds it anyway, and never spins.
+    template <typename Cv, typename Lock, typename Clock, typename Dur, typename Pred>
+    inline bool waitUntil(Cv &cv, Lock &lock, std::chrono::time_point<Clock, Dur> at, Pred pred)
+    {
+#if defined(_WIN32)
+        while (!pred())
+        {
+            const auto now = Clock::now();
+            if (at <= now)
+                return pred();
+            // At most a second per step: a deadline of time_point::max() ("no deadline") would overflow the rounding.
+            const auto left = std::min<std::chrono::nanoseconds>(std::chrono::duration_cast<std::chrono::nanoseconds>(at - now), std::chrono::seconds(1));
+            cv.wait_for(lock, std::chrono::ceil<std::chrono::milliseconds>(left) + std::chrono::microseconds(200));
+        }
+        return true;
+#else
+        return cv.wait_until(lock, at, std::move(pred));
+#endif
+    }
+
+    template <typename Cv, typename Lock, typename Rep, typename Period, typename Pred>
+    inline bool waitFor(Cv &cv, Lock &lock, std::chrono::duration<Rep, Period> d, Pred pred)
+    {
+        return waitUntil(cv, lock, std::chrono::steady_clock::now() + d, std::move(pred));
     }
 }
